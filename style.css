@@ -1,14 +1,23 @@
 :root {
-    --accent-color: #333;
+    --accent-color: #444;
+    --text-color: #444;
+    --light-color: #eee;
     --background-color: #fff;
-    --text-color: #333;
-    --padding: 16px;
-    --margin: 16px;
+
+    --content-margin: 1em;
+    --main-padding: 32px;
+
+    --small-font-size: 16px;
+    --text-font-size: 20px;
+
+    --title-font: "Oswald", sans-serif;
 }
 
 html {
     background: var(--accent-color);
     color: var(--text-color);
+    font: var(--text-font-size) "Libre Baskerville", serif;
+    overflow-x: hidden;
 }
 
 body {
@@ -20,16 +29,19 @@ header {
     background: var(--accent-color);
     position: sticky;
     top: 0;
+    z-index: 100;
 }
 
 nav {
     display: flex;
     justify-content: center;
+    font-family: var(--title-font);
+    text-transform: uppercase;
 }
 
 nav > a {
     display: inline-block;
-    padding: var(--padding);
+    padding: 16px;
     text-decoration: none;
     color: var(--background-color);
 }
@@ -40,7 +52,8 @@ nav > a.selected {
 }
 
 footer {
-    padding: var(--padding);
+    font-size: var(--small-font-size);
+    padding: var(--main-padding);
 }
 
 footer > a {
@@ -49,77 +62,127 @@ footer > a {
 
 main {
     background: var(--background-color);
-    padding-top: var(--padding);
-    padding-bottom: var(--padding);
+    padding-top: var(--main-padding);
+    padding-bottom: var(--main-padding);
 }
 
 main > * {
     max-width: 512px;
     margin: auto;
-    margin-top: var(--margin);
-    margin-bottom: var(--margin);
+    margin-top: var(--content-margin);
+    margin-bottom: var(--content-margin);
 }
 
-@media only screen and (max-width: 544px) {
+main > *:first-child {
+    margin-top: 0;
+}
+
+main > *:last-child {
+    margin-bottom: 0;
+}
+
+@media only screen and (max-width: 576px) {
     main > * {
-        margin-left: var(--padding);
-        margin-right: var(--padding);
+        margin: var(--main-padding);
     }
 
     main > figure {
         margin-left: 0;
         margin-right: 0;
     }
+
+    main > p > img {
+        position: relative;
+        left: -32px;
+        width: calc(100% + 64px);
+    }
 }
 
-figure {
-    background: black;
-    color: white;
-    overflow-y: auto;
-}
-
-pre {
-    width: max-content;
-    margin: 0;
-    padding: var(--padding);
-}
-
-code > .k {
-    color: orange;
-}
-
-code > .nf {
-    color: white;
-}
-
-code > .p {
-    color: white;
-}
-
-code > .nd {
-    color: cyan;
-}
-
-code > .s {
-    color: greenyellow;
-}
-
-img {
-    width: 100%;
-}
+/* POST LINK */
 
 article {
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid var(--light-color);
 }
 
 article:first-child {
-    border-top: 1px solid black;
+    border-top: 1px solid var(--light-color);
 }
 
 article > a {
     text-decoration: none;
     color: var(--text-color);
     display: block;
-    margin-top: var(--margin);
-    margin-bottom: var(--margin);
+    margin-top: var(--content-margin);
+    margin-bottom: var(--content-margin);
+}
+
+article > a > * {
+    margin: 0 !important;
+}
+
+.date {
+    font-size: var(--small-font-size);
+    margin-bottom: 0;
+}
+
+.date ~ * {
+    margin-top: 0;
+}
+
+/* POST CONTENT */
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--title-font);
+    text-transform: uppercase;
+}
+
+a {
+    color: var(--text-color);
+}
+
+figure {
+    overflow-y: auto;
+}
+
+pre {
+    width: max-content;
+    margin: 0;
+    padding: var(--main-padding);
+    padding-top: var(--content-margin);
+    padding-bottom: var(--content-margin);
+}
+
+.highlight {
+    background: var(--text-color) !important;
+    color: var(--background-color) !important;
+}
+
+code {
+    font-family: "Fira Code", monospace;
+}
+
+p > code {
+    background: var(--light-color);
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+img {
+    width: 100%;
+}
+
+blockquote {
+    font-style: italic;
+    text-align: center;
+    padding-left: 32px;
+    padding-right: 32px;
+    position: relative;
+}
+
+blockquote > p::before {
+    content: "«";
+}
+
+blockquote > p::after {
+    content: "»";
 }

@@ -1,0 +1,65 @@
+/* Comments */
+.highlight .c,
+.highlight .ch,
+.highlight .cm,
+.highlight .cp,
+.highlight .cpf,
+.highlight .c1,
+.highlight .cs
+{
+    color: lightgray;
+    font-style: italic;
+}
+
+/* Errors */
+.highlight .err
+{
+    color: lightcoral;
+}
+
+/* Keywords */
+.highlight .k,
+.highlight .kc,
+.highlight .kd,
+.highlight .kn,
+.highlight .kp,
+.highlight .kr,
+.highlight .kt
+{
+    color: lightpink;
+}
+
+/* Literals */
+.highlight .s,
+.highlight .m,
+.highlight .mb,
+.highlight .mf,
+.highlight .mh,
+.highlight .mi,
+.highlight .mo
+{
+    color: lightgreen;
+}
+
+/* Functions, Macros, Methods */
+.highlight .na,
+.highlight .nb,
+.highlight .no,
+.highlight .nd,
+.highlight .ni,
+.highlight .ne,
+.highlight .nf,
+.highlight .nl,
+.highlight .nn,
+.highlight .nt,
+.highlight .nv
+{
+    color: lightskyblue;
+}
+
+/* Classes, Structs */
+.highlight .n,
+.highlight .nc
+{
+    color: lightsalmon;
+}
