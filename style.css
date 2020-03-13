@@ -2,7 +2,7 @@
     --accent-color: #444;
     --text-color: #444;
     --light-color: #eee;
-    --background-color: #fff;
+    --background-color: #ffffff;
 
     --content-margin: 1em;
     --main-padding: 32px;
@@ -11,18 +11,21 @@
     --text-font-size: 20px;
 
     --title-font: "Oswald", sans-serif;
+    --text-font: "Libre Baskerville", serif;
 }
 
 html {
     background: var(--accent-color);
     color: var(--text-color);
-    font: var(--text-font-size) "Libre Baskerville", serif;
+    font: var(--text-font-size) var(--text-font);
     overflow-x: hidden;
 }
 
 body {
     margin: 0;
 }
+
+/* Header */
 
 header {
     width: 100%;
@@ -32,9 +35,10 @@ header {
     z-index: 100;
 }
 
+/* Navigation */
+
 nav {
-    display: flex;
-    justify-content: center;
+    text-align: center;
     font-family: var(--title-font);
     text-transform: uppercase;
 }
@@ -51,19 +55,38 @@ nav > a.selected {
     color: var(--accent-color);
 }
 
+/* Footer */
+
 footer {
     font-size: var(--small-font-size);
     padding: var(--main-padding);
+    color: var(--background-color);
+    text-align: center;
 }
 
 footer > a {
     color: var(--background-color);
+    text-decoration: none;
 }
+
+footer > *:first-child {
+    margin-top: 0;
+}
+
+footer > *:last-child {
+    margin-bottom: 0;
+}
+
+footer .social {
+    width: 32px;
+    filter: invert();
+}
+
+/* Main Content */
 
 main {
     background: var(--background-color);
-    padding-top: var(--main-padding);
-    padding-bottom: var(--main-padding);
+    padding: var(--main-padding);
 }
 
 main > * {
@@ -82,23 +105,14 @@ main > *:last-child {
 }
 
 @media only screen and (max-width: 576px) {
-    main > * {
-        margin: var(--main-padding);
-    }
-
-    main > figure {
-        margin-left: 0;
-        margin-right: 0;
-    }
-
-    main > p > img {
+    main > figure, main > p > img {
         position: relative;
         left: -32px;
-        width: calc(100% + 64px);
+        width: 100vw;
     }
 }
 
-/* POST LINK */
+/* Post Link */
 
 article {
     border-bottom: 1px solid var(--light-color);
@@ -120,6 +134,8 @@ article > a > * {
     margin: 0 !important;
 }
 
+/* Date */
+
 .date {
     font-size: var(--small-font-size);
     margin-bottom: 0;
@@ -129,12 +145,14 @@ article > a > * {
     margin-top: 0;
 }
 
-/* POST CONTENT */
+/* Headings */
 
 h1, h2, h3, h4, h5, h6 {
     font-family: var(--title-font);
     text-transform: uppercase;
 }
+
+/* Links */
 
 a {
     color: var(--text-color);
@@ -167,9 +185,13 @@ p > code {
     padding-right: 4px;
 }
 
+/* Images */
+
 img {
     width: 100%;
 }
+
+/* Quotes */
 
 blockquote {
     font-style: italic;
@@ -185,4 +207,24 @@ blockquote > p::before {
 
 blockquote > p::after {
     content: "»";
+}
+
+/* Tables */
+
+table {
+    width: 100%;
+}
+
+th {
+    font-family: var(--title-font);
+    text-transform: uppercase;
+    text-align: left;
+}
+
+th, td {
+    border-bottom: 1px solid var(--light-color);
+}
+
+thead th, thead td {
+    border-top: 1px solid var(--light-color);
 }

@@ -1,8 +1,11 @@
 title: Fälis Blog
-email: boesiger.fabian@outlook.com
 description: Mein Blog.
 lang: de
-date_format: "%d/%m/%Y"
+date_format: "%d.%m.%Y"
+owner:
+  name: Fabian Bösiger
+  email: boesiger.fabian@outlook.com
 social:
   github: fabianboesiger
   twitter: fabianboesiger
+  instagram: fabian_boesiger
