@@ -1,0 +1,125 @@
+:root {
+    --accent-color: #333;
+    --background-color: #fff;
+    --text-color: #333;
+    --padding: 16px;
+    --margin: 16px;
+}
+
+html {
+    background: var(--accent-color);
+    color: var(--text-color);
+}
+
+body {
+    margin: 0;
+}
+
+header {
+    width: 100%;
+    background: var(--accent-color);
+    position: sticky;
+    top: 0;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+}
+
+nav > a {
+    display: inline-block;
+    padding: var(--padding);
+    text-decoration: none;
+    color: var(--background-color);
+}
+
+nav > a.selected {
+    background: var(--background-color);
+    color: var(--accent-color);
+}
+
+footer {
+    padding: var(--padding);
+}
+
+footer > a {
+    color: var(--background-color);
+}
+
+main {
+    background: var(--background-color);
+    padding-top: var(--padding);
+    padding-bottom: var(--padding);
+}
+
+main > * {
+    max-width: 512px;
+    margin: auto;
+    margin-top: var(--margin);
+    margin-bottom: var(--margin);
+}
+
+@media only screen and (max-width: 544px) {
+    main > * {
+        margin-left: var(--padding);
+        margin-right: var(--padding);
+    }
+
+    main > figure {
+        margin-left: 0;
+        margin-right: 0;
+    }
+}
+
+figure {
+    background: black;
+    color: white;
+    overflow-y: auto;
+}
+
+pre {
+    width: max-content;
+    margin: 0;
+    padding: var(--padding);
+}
+
+code > .k {
+    color: orange;
+}
+
+code > .nf {
+    color: white;
+}
+
+code > .p {
+    color: white;
+}
+
+code > .nd {
+    color: cyan;
+}
+
+code > .s {
+    color: greenyellow;
+}
+
+img {
+    width: 100%;
+}
+
+article {
+    border-bottom: 1px solid black;
+}
+
+article:first-child {
+    border-top: 1px solid black;
+}
+
+article > a {
+    text-decoration: none;
+    color: var(--text-color);
+    display: block;
+    margin-top: var(--margin);
+    margin-bottom: var(--margin);
+}

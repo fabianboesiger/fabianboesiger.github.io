@@ -1,0 +1,14 @@
+<header>
+    <nav> 
+        {%- if page.url == "/" -%}
+            <a href="/" class="selected">Home</a>
+        {%- else -%}
+            <a href="/">Home</a>
+        {%- endif -%}
+        {%- if page.url == "/categories.html" -%}
+            <a href="/categories" class="selected">Kategorien</a>
+        {%- else -%}
+            <a href="/categories">Kategorien</a>
+        {%- endif -%}
+    </nav>
+</header>
