@@ -19,7 +19,7 @@ Für ungefähr 30 Cookies:
 |---|---|
 |150 g|Dunkle Schokolade|
 |200 g|Butter|
-|100 g|Brauner Zucker|
+|100 g|Rohzucker|
 |1 Päckli|Vanillinzucker|
 |1 Prise|Salz|
 |1|Ei|
@@ -32,9 +32,7 @@ Für ungefähr 30 Cookies:
 2. Butter, Zucker, Vanillinzucker, Salz mischen und cremig rühren
 3. Ei untermischen
 4. Mehl und Backpulver unterrühren
-5. Gehackte Schokolade dazufügen
+5. Gehackte Schokolade hinzufügen
 6. Zweifränkler-grosse Teig-Kugeln mit genügend Abstand auf das Backblech verteilen
 7. Bei 150 °C Umluft etwa 15 Minuten backen
 8. Auf Kuchengitter auskühlen lassen
-
-En Guete!
