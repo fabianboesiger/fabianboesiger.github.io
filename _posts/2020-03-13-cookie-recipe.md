@@ -36,3 +36,5 @@ Für ungefähr 30 Cookies:
 6. Zweifränkler-grosse Teig-Kugeln mit genügend Abstand auf das Backblech verteilen
 7. Bei 150 °C Umluft etwa 15 Minuten backen
 8. Auf Kuchengitter auskühlen lassen
+
+En Guete!
