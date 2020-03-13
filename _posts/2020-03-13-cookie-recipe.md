@@ -9,6 +9,8 @@ tags: [Rezept, Cookies]
 * 15 Minuten Zubereitungszeit
 * 15 Minuten Backzeit
 
+![Cookies](/public/media/cookies.jpg)
+
 ## Zutaten
 
 Für ungefähr 30 Cookies:
