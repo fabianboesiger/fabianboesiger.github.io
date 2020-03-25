@@ -1,17 +1,18 @@
 :root {
     --accent-color: #444;
     --text-color: #444;
-    --light-color: #eee;
+    --light-color: #ddd;
     --background-color: #ffffff;
 
     --content-margin: 1em;
     --main-padding: 32px;
+    --nav-height: 64px;
 
     --small-font-size: 16px;
     --text-font-size: 20px;
 
-    --title-font: "Oswald", sans-serif;
-    --text-font: "Libre Baskerville", serif;
+    --title-font: "Poppins", sans-serif;
+    --text-font: "Halant", serif;
 }
 
 html {
@@ -29,18 +30,18 @@ body {
 /* Header */
 
 header {
+    position: fixed;
     width: 100%;
-    height: 64px;
+    height: var(--nav-height);
+    top: 0;
+    z-index: 100;
 }
 
 /* Navigation */
 
 nav {
-    position: fixed;
     width: 100%;
-    height: 64px;
-    top: 0;
-    z-index: 100;
+    height: 100%;
     background: var(--accent-color);
     text-align: center;
     font-family: var(--title-font);
@@ -75,14 +76,6 @@ footer > a {
     text-decoration: none;
 }
 
-footer > *:first-child {
-    margin-top: 0;
-}
-
-footer > *:last-child {
-    margin-bottom: 0;
-}
-
 footer .social {
     width: 32px;
     filter: invert();
@@ -93,29 +86,17 @@ footer .social {
 main {
     background: var(--background-color);
     padding: var(--main-padding);
+    margin-top: var(--nav-height);
 }
 
 main > * {
     max-width: 512px;
     margin: auto;
-    margin-top: var(--content-margin);
-    margin-bottom: var(--content-margin);
 }
 
-main > *:first-child {
-    margin-top: 0;
-}
-
-main > *:last-child {
-    margin-bottom: 0;
-}
-
-@media only screen and (max-width: 576px) {
-    main > figure, main > p > img {
-        position: relative;
-        left: -32px;
-        width: 100vw;
-    }
+h1, h2, h3, h4, h5, h6, p, dt, dd, table, .highlighter-rouge, .MathJax_Display {
+    margin-top: 1em;
+    margin-bottom: 1em;
 }
 
 /* Post Link */
@@ -132,12 +113,12 @@ article > a {
     text-decoration: none;
     color: var(--text-color);
     display: block;
-    margin-top: var(--content-margin);
-    margin-bottom: var(--content-margin);
+    padding-top: var(--content-margin);
+    padding-bottom: var(--content-margin);
 }
 
 article > a > * {
-    margin: 0 !important;
+    margin: 0;
 }
 
 /* Date */
@@ -147,7 +128,7 @@ article > a > * {
     margin-bottom: 0;
 }
 
-.date ~ * {
+.date + * {
     margin-top: 0;
 }
 
@@ -164,31 +145,14 @@ a {
     color: var(--text-color);
 }
 
-figure {
-    overflow-y: auto;
-}
-
-pre {
-    width: max-content;
-    margin: 0;
-    padding: var(--main-padding);
-    padding-top: var(--content-margin);
-    padding-bottom: var(--content-margin);
-}
-
-.highlight {
-    background: var(--text-color) !important;
-    color: var(--background-color) !important;
-}
+/* Code */
 
 code {
     font-family: "Fira Code", monospace;
 }
 
-p > code {
-    background: var(--light-color);
-    padding-left: 4px;
-    padding-right: 4px;
+pre {
+    margin: 0;
 }
 
 /* Images */
@@ -197,40 +161,144 @@ img {
     width: 100%;
 }
 
+@media only screen and (max-width: 576px) {
+    main > p > img {
+        position: relative;
+        left: -32px;
+        width: 100vw;
+    }
+}
+
 /* Quotes */
 
 blockquote {
     font-style: italic;
     text-align: center;
-    padding-left: 32px;
-    padding-right: 32px;
+}
+
+blockquote > p {
+    padding: var(--main-padding);
+    border: 1px solid var(--light-color);
     position: relative;
 }
 
+/*
 blockquote > p::before {
-    content: "«";
+    content: "❝";
+    display: block;
+    width: 100%;
+    text-align: center;
+    font-size: 64px;
+    line-height: 48px;
+    color: var(--light-color);
 }
+*/
 
-blockquote > p::after {
-    content: "»";
+blockquote > p > em {
+    display: block;
+    color: var(--light-color);
+    background-color: var(--background-color);
+    font-size: var(--small-font-size);
+    font-weight: bold;
+    font-family: var(--title-font);
+    text-transform: uppercase;
+    position: absolute;
+    bottom: calc(1em - 32px);
+    right: 32px;
+    padding: 4px;
 }
 
 /* Tables */
 
 table {
     width: 100%;
+    table-layout: fixed;
+    word-break: break-all;
+    border-collapse: collapse;
 }
 
 th {
     font-family: var(--title-font);
     text-transform: uppercase;
     text-align: left;
+    background-color: var(--light-color);
 }
 
 th, td {
     border-bottom: 1px solid var(--light-color);
+    padding-left: 4px;
+    padding-right: 4px;
 }
 
 thead th, thead td {
     border-top: 1px solid var(--light-color);
+}
+
+/* Definition Lists */
+
+dl {
+    border: 1px solid var(--light-color);
+    position: relative;
+}
+
+dt {
+    font-weight: bold;
+    font-family: var(--title-font);
+    text-transform: uppercase;
+    text-align: center;
+}
+
+dt::before {
+    display: block;
+    color: var(--light-color);
+    background-color: var(--background-color);
+    font-size: var(--small-font-size);
+    font-weight: bold;
+    font-family: var(--title-font);
+    text-transform: uppercase;
+    position: absolute;
+    top: calc(1em - 32px);
+    left: 32px;
+    padding: 4px;
+}
+
+dd {
+    text-align: center;
+}
+
+/*
+dt.definition, dt.definition + dd {
+    background: #ddf;
+}
+*/
+
+dt.definition::before {
+    content: "Definition";
+}
+
+/*
+dt.axiom, dt.axiom + dd {
+    background: #dfd;
+}
+*/
+
+dt.axiom::before {
+    content: "Axiom";
+}
+
+/*
+dt.theorem, dt.theorem + dd {
+    background: #fdd;
+}
+*/
+
+dt.theorem::before {
+    content: "Theorem";
+}
+
+/* Overflowable Elements */
+
+.MathJax_Display, .highlighter-rouge {
+    overflow-x: auto;
+    overflow-y: hidden;
 }

@@ -7,14 +7,14 @@
 .highlight .c1,
 .highlight .cs
 {
-    color: lightgray;
+    color: darkgrey;
     font-style: italic;
 }
 
 /* Errors */
 .highlight .err
 {
-    color: lightcoral;
+    color: darkred;
 }
 
 /* Keywords */
@@ -26,7 +26,7 @@
 .highlight .kr,
 .highlight .kt
 {
-    color: lightpink;
+    color: darkmagenta;
 }
 
 /* Literals */
@@ -38,7 +38,7 @@
 .highlight .mi,
 .highlight .mo
 {
-    color: lightgreen;
+    color: darkgreen;
 }
 
 /* Functions, Macros, Methods */
@@ -54,12 +54,12 @@
 .highlight .nt,
 .highlight .nv
 {
-    color: lightskyblue;
+    color: darkblue;
 }
 
 /* Classes, Structs */
 .highlight .n,
 .highlight .nc
 {
-    color: lightsalmon;
+    color: darkslategrey;
 }
