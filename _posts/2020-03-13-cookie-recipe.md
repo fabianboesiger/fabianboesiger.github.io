@@ -4,12 +4,11 @@ title: "Cookie Rezept"
 date: 2020-03-13 17:00:00 +0100
 categories: Kochen
 tags: [Rezept, Cookies]
+thumbnail: /public/media/cookies.jpg
 ---
 
 * 15 Minuten Zubereitungszeit
 * 15 Minuten Backzeit
-
-![Cookies](/public/media/cookies.jpg)
 
 ## Zutaten
 

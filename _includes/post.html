@@ -1,6 +1,4 @@
-<article>
-    <a href="{{ post.url }}">
-        <p class="date">{{ post.date | date: site.date_format }}</p>
-        <h3>{{ post.title }}</h3>
-    </a>
-</article>
+<a class="thumbnail" href="{{ post.url }}" style="background-image: url({{ post.thumbnail }});">
+        <!--<p class="date">{{ post.date | date: site.date_format }}</p>-->
+        {{ post.title }}
+</a>

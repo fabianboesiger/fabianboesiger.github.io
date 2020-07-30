@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Wert"
+title: Wert
 date: 2020-03-13 17:00:00 +0100
 categories: Politik
 tags: [Wert]
+thumbnail: /public/media/cookies.jpg
 ---
 
 $$
@@ -14,7 +15,7 @@ $$
 \end{bmatrix}
 $$
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. <<Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.>>
 
 > Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 > *Albert Einstein*
@@ -27,7 +28,7 @@ Some inline `code`, also, some inline math $$x + 5$$.
 Blah blah und es folgt:
 
 {:.axiom} Transitivität
-: $$(a + b) + c = a + (b + c)$$
+: $$(a + b) + c = a + (b + c) + d + e + f + g + h$$
 
 ![Cookies](/public/media/cookies.jpg)
 *Super Feine Cookies!*
@@ -46,6 +47,11 @@ int main() {
 fn main() {
     println!("hello world");
 }
+
+enum Hello {
+    Alpha,
+    Beta(u32)
+}
 ~~~
 
 ~~~java
@@ -59,4 +65,4 @@ class HelloWorld {
 
 |Left|Center|Right|
 |:--|:-:|--:|
-|Hello|Beautiful|World|
+|Hello|Beautiful|Worlddddddddddddddddddd|

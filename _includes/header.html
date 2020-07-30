@@ -1,14 +1,25 @@
-<header>
-    <nav>
-        {% if page.url == "/" %}
-            <a href="/" class="selected">Home</a>
-        {% else %}
-            <a href="/">Home</a>
-        {% endif %}
-        {% if page.url == "/overview.html" %}
-            <a href="/overview" class="selected">Übersicht</a>
-        {% else %}
-            <a href="/overview">Übersicht</a>
-        {% endif %}
-    </nav>
+<header class="thumbnail">
+    <h1>Fabian Bösiger</h1>
+    <!--
+    <h2>Ausbildung</h2>
+    <table>
+        <tr><td>🏫</td><td>Mathematik & Physik <i>KS Sursee</i></td></tr>
+        <tr><td>🎓</td><td>BSc. Informatik <i>ETH Zürich</i></tr>
+    </table>
+    -->
+    <h2>Interessen</h2>
+    <table>
+        <tr><td>👨‍💻</td><td>Software Engineering</td></tr>
+        <tr><td>🦀</td><td>Rust Programmiersprache</td></tr>
+        <tr><td>🔒</td><td>Programmsicherheit</td></tr>
+        <tr><td>🪐</td><td>Astronomie</td></tr>
+        <tr><td>🗳️</td><td>Politik</td></tr>
+    </table>
+    <h2>Social Media</h2>
+    <table>
+        <tr><td>🗄️</td><td><a href="https://github.com/{{ site.social.github }}">GitHub</a></td></tr>
+        <tr><td>📸</td><td><a href="https://instagram.com/{{ site.social.instagram }}">Instagram</a></td></tr>
+        <tr><td>🐦</td><td><a href="https://twitter.com/{{ site.social.twitter }}">Twitter</a></td></tr>
+        <tr><td>📡</td><td><a href="/feed.xml">Atom Feed</a></td></tr>
+    </table>
 </header>

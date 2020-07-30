@@ -1,0 +1,69 @@
+img, div.highlighter-rouge {
+    box-shadow: 0 0 8px black;
+}
+
+img, table {
+    width: 100%;
+}
+
+div.highlighter-rouge {
+    background: #444;
+    color: #fff;
+}
+
+div.highlighter-rouge code {
+    display: inline-block;
+    margin-left: 32px;
+    margin-right: 32px;
+}
+
+div.highlighter-rouge, div.MathJax_Display, div.table-wrapper {
+    overflow-x: auto;
+    overflow-y: hidden;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+div.content {
+    padding: 32px;
+    max-width: 768px;
+    margin: auto;
+}
+
+blockquote {
+    position: relative;
+    margin-bottom: 32px;
+}
+
+blockquote > p {
+    text-align: center;
+}
+
+blockquote::before {
+    content: "«";
+    bottom: 50%;
+    left: -38px;
+}
+
+blockquote::after {
+    content: "»";
+    bottom: 50%;
+    right: -38px;
+}
+
+blockquote::before, blockquote::after {
+    position: absolute;
+    font-size: 58px;
+}
+
+blockquote > p > em {
+    display: inline-block;
+    width: 100%;
+}
+
+@media only screen and (max-width: 512px) {
+    img, div.highlighter-rouge {
+        margin-left: -32px;
+        width: calc(100% + 64px);
+    }
+}

@@ -2,8 +2,62 @@
 layout: default
 ---
 
-<div>
-    {% for post in site.posts %}
-        {% include post.html %}
-    {% endfor %}
-</div>
+<script>
+    document.addEventListener("DOMContentLoaded", () => {
+        let y = 0;
+        let thumbnail = 0;
+        let thumbnails = document.getElementsByClassName("thumbnail");
+        let timeout = 0;
+        window.addEventListener("scroll", e => {
+            let page = e.pageY | window.scrollY;
+            let direction = page - y;
+            y = page;
+
+            if (timeout == 0) {
+                if (direction > 0) {
+                    if (thumbnail < thumbnails.length - 1) {
+                        thumbnail++;
+                        timeout = 10;
+                    }
+                } else
+                if (direction < 0) {
+                    if (thumbnail > 0) {
+                        thumbnail--;
+                        timeout = 10;
+                    }
+                }
+            }
+            e.preventDefault();
+        });
+        setInterval(() => {
+            let to = thumbnails[thumbnail].getBoundingClientRect().top;
+            let scroll = 0;
+            if (Math.abs(to) < 5) {
+                scroll = Math.ceil(to);
+                if (timeout > 0) {
+                    timeout--;
+                }
+            } else {
+                scroll = Math.ceil(to / 5);
+            }
+            y += scroll;
+            window.scrollBy(0, scroll);
+        }, 10);
+    });
+</script>
+<script>
+    document.addEventListener("DOMContentLoaded", () => {
+        let frames = document.getElementsByTagName("iframe");
+        for (let i = 0; i < frames.length; i++) {
+            let frame = frames[i];
+            frame.addEventListener("load", () => {
+                frame.style.height = frame.contentWindow.document.body.offsetHeight + "px";
+            });
+        }
+    });
+</script>
+{% include header.html %}
+{% include nav.html %}
+{% for post in site.posts %}
+    {% include post.html %}
+{% endfor %}
