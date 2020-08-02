@@ -1,127 +1,136 @@
-/*
-@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&family=Fira+Code:wght@300&family=Quicksand:wght@300&display=swap');
-*/
-@import url("https://fonts.googleapis.com/css2?family=Merriweather&family=Fira+Code:wght@300&family=Montserrat&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&family=EB+Garamond&family=Fira+Code&display=swap');
 
 :root {
-    --background-color: #333;
-    --font-color: #eee;
-}
-
-h1, h2, h3, h4, h5, h6, .thumbnail:not(header) {
-    font-family: "Montserrat", sans-serif;
-}
-
-code {
-    font-family: "Fira Code", monospace;
-    background: #444;
-    padding-left: 2px;
-    padding-right: 2px;
+    --background-color: rgb(230, 225, 222);
+    --text-color: rgb(15, 12, 19);
+    --additional-color: rgb(210, 193, 177);
+    --accent-color: rgb(161, 105, 90);
+    --heading-font: "Quicksand", sans-serif;
+    --text-font: "EB Garamond", serif;
+    --code-font: "Fira Code", monospace;
 }
 
 html {
     background: var(--background-color);
-    color: var(--font-color);
-    font-size: 18px;
-    word-wrap: break-word;
-    overflow-x: hidden;
-    font-family: "Merriweather", serif;
+    color: var(--text-color);
+    font-size: 20px;
+    font-family: var(--text-font);
 }
 
 body {
-    margin: 0;
+    margin: auto;
+    padding-left: 32px;
+    padding-right: 32px;
+    max-width: 512px;
 }
 
-.thumbnail {
-    box-sizing: border-box;
-    position: relative;
-    width: 100vw;
-    padding: 32px;
-    background-size: cover;
-    background-position: center; 
-    text-decoration: none;
-    height: 100vh;
-    text-shadow: 0 0 2vh black;
-}
-
-.thumbnail:not(header) {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 7vh;
-    background: var(--background-color);
-    color: var(--font-color);
-    font-weight: bold;
+header, nav, footer, article {
     text-align: center;
+}
+
+header, footer, main {
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+
+article {
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+article > a {
+    text-decoration: none;
+    color: var(--text-color);
+    font-family: var(--heading-font);
+    font-size: 24px;
+    font-weight: bold;
 }
 
 header {
-    text-align: center;
-    /*height: calc(100vh - 48px) !important;*/
+    border-bottom: 1px solid var(--additional-color);
 }
 
-header > table {
-    margin: auto;
+header > a {
+    text-decoration: none;
+    color: var(--text-color);
+    font-family: var(--heading-font);
+    font-size: 32px;
+    font-weight: bold;
 }
 
-header > table td:first-child {
-    width: 24px;
-    text-align: right;
-}
-
-header > table td:last-child {
-    text-align: left;
-}
-
-
-@keyframes fade-in {
-    from {
-        opacity: 0;
-    }
-    to {
-        opacity: 1;
+@media only screen and (max-width: 512px) {
+    nav, header, footer {
+        margin-left: -32px;
+        width: calc(100% + 64px);
     }
 }
 
-div.thumbnail {
-    margin-top: -48px;
-    box-shadow: 0 0 8px black;
-}
-
-div.thumbnail::after, header::after {
-    position: absolute;
-    bottom: 0;
-    left: 0;
+.date {
+    display: inline-block;
+    font-size: 16px;
     width: 100%;
     text-align: center;
-    font-size: 10vh;
-    content: "🞃";
-    text-shadow: 0 0 2vh black;
-    animation: fade-in 2s;
 }
 
-a {
-    color: #79f;
-    text-decoration: none;
+footer {
+    border-top: 1px solid var(--additional-color);
+    font-size: 16px;
 }
 
 nav {
     position: sticky;
-    display: flex;
-    justify-content: center;
-    align-items: center;
     top: 0;
-    width: 100%;
-    height: 48px;
-    /*background: linear-gradient(rgba(0, 0, 0, 0.5), transparent);*/
-    background: rgba(0, 0, 0, 0.3);
-    z-index: 1000;
-    box-shadow: 0 0 8px black;
-    backdrop-filter: blur(8px);
+    padding-top: 8px;
+    padding-bottom: 8px;
+    z-index: 100;
+    background: var(--background-color);
+    border-bottom: 1px solid var(--additional-color);
 }
 
 nav > a {
-    display: inline-block;
     padding: 8px;
-    color: var(--font-color);
+}
+
+a {
+    color: var(--accent-color);
+    text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--heading-font);
+}
+
+h1 {
+    font-size: 32px;
+    margin-bottom: 0;
+}
+
+h2 {
+    font-size:24px;
+}
+
+h3, h4, h5, h6 {
+    font-size: 20px;
+}
+
+code {
+    font-size: 16px;
+    font-family: var(--code-font);
+}
+
+table {
+    width: 100%;
+}
+
+th {
+    font-family: var(--heading-font);
+    text-align: left;
+}
+
+.about th {
+    padding-top: 1em;
+}
+
+.about td:first-child, .about th:first-child {
+    width: 32px;
 }
