@@ -33,6 +33,6 @@ Für ungefähr 30 Cookies:
 3. Ei untermischen
 4. Mehl und Backpulver unterrühren
 5. Gehackte Schokolade hinzufügen
-6. Zweifränkler-grosse Teigkugeln mit genügend Abstand auf das Backblech verteilen
+6. Zweifränkler-grosse Teig-Kugeln mit genügend Abstand auf das Backblech verteilen
 7. Bei 150 °C Umluft etwa 15 Minuten backen
 8. Auf Kuchengitter auskühlen lassen
