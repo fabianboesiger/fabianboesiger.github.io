@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Cookie Rezept"
-date: 2020-03-13 17:00:00 +0100
+title: Cookie Rezept
+date: 2020-03-13 17:00:00 +0200
 categories: Kochen
 tags: [Rezept, Cookies]
 ---

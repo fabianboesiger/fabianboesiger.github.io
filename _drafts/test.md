@@ -4,7 +4,6 @@ title: Wert
 date: 2020-03-13 17:00:00 +0100
 categories: Politik
 tags: [Wert]
-thumbnail: /public/media/cookies.jpg
 ---
 
 $$
