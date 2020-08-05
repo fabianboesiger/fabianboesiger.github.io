@@ -21,7 +21,7 @@ body {
     margin: auto;
     padding-left: 32px;
     padding-right: 32px;
-    max-width: 512px;
+    max-width: 768px;
 }
 
 header, nav, footer, article {
@@ -41,6 +41,10 @@ article {
 article > a {
     text-decoration: none;
     color: var(--text-color);
+    
+} 
+
+.title {
     font-family: var(--heading-font);
     font-size: 24px;
     font-weight: bold;
@@ -58,7 +62,7 @@ header > a {
     font-weight: bold;
 }
 
-@media only screen and (max-width: 512px) {
+@media only screen and (max-width: 768px) {
     nav, header, footer {
         margin-left: -32px;
         width: calc(100% + 64px);
@@ -70,6 +74,25 @@ header > a {
     font-size: 16px;
     width: 100%;
     text-align: center;
+}
+
+.tag {
+    display: inline-block;
+    font-size: 16px;
+    text-align: center;
+    border: 1px solid var(--additional-color);
+    border-radius: 14px;
+    font-style: italic;
+    padding: 1px;
+    padding-left: 6px;
+    padding-right: 6px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    white-space: nowrap;
+}
+
+.category {
+    font-weight: bold;
 }
 
 footer {

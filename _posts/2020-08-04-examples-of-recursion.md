@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rekursion
+title: Beispiele für Rekursion
 date: 2020-08-04 13:00:00 +0200
 categories: Programmieren
 tags: [Rekursion, Dynamic Programming, C++]
@@ -8,7 +8,7 @@ tags: [Rekursion, Dynamic Programming, C++]
 
 Rekurstion ist eine Methode, Probleme zu lösen, wo die Lösung auf Lösungen für kleinere Instanzen des gleichen Problems basiert. Dies zeigt sich üblicherweise dadurch, dass die Funktion, welche die Lösung berechnet, sich selbst aufruft.
 
-Wie in einem Induktionsbeweis, müssen üblicherweise zwei Fälle unterschieden werden. Der *Base Case* und der *Step Case*. Der *Base Case* löst das kleinste Teilproblem, das nicht weiter in Probleme der gleichen Art aufgelöst werden kann. Der *Step Case* dagegen teilt ein Problem in kleinere Instanzen des gleichen Problems auf.
+Wie in einem Induktionsbeweis müssen üblicherweise zwei Fälle unterschieden werden. Der *Base Case* und der *Step Case*. Der *Base Case* löst das kleinste Teilproblem, das nicht weiter in Probleme der gleichen Art aufgelöst werden kann. Der *Step Case* dagegen teilt ein Problem in kleinere Instanzen des gleichen Problems auf.
 
 ## Beispiele
 
@@ -23,7 +23,7 @@ n! = \begin{cases}
 \end{cases}
 $$
 
-Wir erkennen den *Base Case* $0! = 1$, und den *Step Case* $\forall n > 0 : n! = n \cdot (n - 1)!$. Relativ einfach können wir ein entsprechendes Programm schreiben:
+Wir erkennen den *Base Case* $$0! = 1$$, und den *Step Case* $$\forall n > 0 : n! = n \cdot (n - 1)!$$. Relativ einfach können wir ein entsprechendes Programm schreiben:
 
 ~~~cpp
 #include <assert.h>
@@ -35,11 +35,14 @@ unsigned int factorial(const unsigned int n) {
 
     // Base Case, es wird kein rekursiver Funktionsaufruf ausgeführt.
     if (n == 0) {
-        // Wichtig: Der Base Case muss vor dem Step Case definiert werden, und weitere rekursive Funktionsaufrufe verhindern, beispielsweise mit return. Andernfalls terminiert das Programm nicht.
+        // Wichtig: Der Base Case muss vor dem Step Case definiert werden,
+        // und weitere rekursive Funktionsaufrufe verhindern,
+        // beispielsweise mit return. Andernfalls terminiert das Programm nicht.
         return 1;
     }
 
-    // Step Case, das Problem wird in kleinere Teilprobleme aufgeteilt. Der rekursive Funktionsaufruf erfolgt hier.
+    // Step Case, das Problem wird in kleinere Teilprobleme aufgeteilt.
+    // Der rekursive Funktionsaufruf erfolgt hier.
     return n * factorial(n - 1);
 }
 
@@ -62,7 +65,7 @@ f_n = \begin{cases}
 \end{cases}
 $$
 
-Schon in dieser Definition kann die rekursive Natur des Problems gut erkannt werden. Wir identifizieren den *Base Case* mit den Anfangswerten $f_1 = f_2 = 1$, und den *Step Case*: $\forall n \geq 3: f_n = f_{n-1} + f_{n-2}$, wobei wir feststellen, dass der *Step Case* rekusiv definiert ist.
+Schon in dieser Definition kann die rekursive Natur des Problems gut erkannt werden. Wir identifizieren den *Base Case* mit den Anfangswerten $$f_1 = f_2 = 1$$, und den *Step Case*: $$\forall n \geq 3: f_n = f_{n-1} + f_{n-2}$$, wobei wir feststellen, dass der *Step Case* rekusiv definiert ist.
 
 ~~~cpp
 #include <assert.h>
@@ -124,14 +127,17 @@ unsigned int fib(const unsigned int n, unsigned int *const results) {
 
     // Step Case.
     if (results[n - 1] == 0) {
-        // Falls dieses Zwischenresultat noch nie berechnet wurde, berechnen wir es rekusiv und speichern es in unserer Tabelle ab.
+        // Falls dieses Zwischenresultat noch nie berechnet wurde,
+        // berechnen wir es rekusiv und speichern es in unserer Tabelle ab.
         results[n - 1] = fib(n - 1, results) + fib(n - 2, results);
     }
     return results[n - 1];
 }
 
 unsigned int fib_dp(const unsigned int n) {
-    // Erstelle eine Tabelle, wobei alle Einträge ursprünglich 0 sind. Falls der (n-1)-te Eintrag in der Tabelle 0 ist, heisst das für uns, dass das Zwischenresultat noch nicht berechnet wurde.
+    // Erstelle eine Tabelle, wobei alle Einträge ursprünglich 0 sind.
+    // Falls der (n-1)-te Eintrag in der Tabelle 0 ist, heisst das für uns,
+    // dass das Zwischenresultat noch nicht berechnet wurde.
     unsigned int results[n] = {};
 
     // Starte die rekursive Berechnung.
@@ -196,6 +202,7 @@ unsigned int Node::count(int value) {
         // Linker Teilbaum.
         (this.left == nullptr
             // Base Case, es existiert kein linker Teilbaum.
+            // Beachte, dass die Rekursion nicht weiter ausgeführt wird.
             ? 0
             // Step Case, zähle im linken Teilbaum weiter.
             : this.left.count(value)
@@ -203,11 +210,11 @@ unsigned int Node::count(int value) {
         // Rechter Teilbaum.
         (this.right == nullptr
             // Base Case, es existiert kein linker Teilbaum.
+            // Beachte, dass die Rekursion nicht weiter ausgeführt wird.
             ? 0
             // Step Case, zähle im linken Teilbaum weiter.
             : this.right.count(value)
         );
-    }
 }
 
 int main() {
