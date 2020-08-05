@@ -14,7 +14,7 @@ Wie in einem Induktionsbeweis müssen üblicherweise zwei Fälle unterschieden w
 
 ### Fakultät
 
-Die Definition der Fakultät kann rekursiv definiert werden:
+Die Fakultät kann rekursiv definiert werden:
 
 $$
 n! = \begin{cases}
