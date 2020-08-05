@@ -76,6 +76,10 @@ header > a {
     text-align: center;
 }
 
+.tags {
+    text-align: center;
+}
+
 .tag {
     display: inline-block;
     font-size: 16px;

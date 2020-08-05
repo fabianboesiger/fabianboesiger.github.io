@@ -3,7 +3,7 @@
     <a href="{{ post.url }}">
         <span class="title">{{ post.title }}</span>
         <span class="date">{{ post.date | date: "%d.%m.%Y" }}</span>
-        <div>
+        <div class="tags">
             {% for category in post.categories %}
                 <span class="tag category">{{ category }}</span>
             {% endfor %}
