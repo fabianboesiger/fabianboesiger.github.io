@@ -175,7 +175,7 @@ In einem Binärbaum soll die Anzahl eines bestimmten Eintrags gezählt werden.
 Wir bemerken, dass die Vorkomisse eines Eintrags in einem Teilbaum die Summe der Vorkommnisse des linken und des rechten Teilbaums ist, addiert mit Eins, falls der Eintrag im aktuellen Knoten vorkommt.
 
 ~~~cpp
-class Node;
+#include <assert.h>
 
 class Node {
     private:
@@ -185,35 +185,35 @@ class Node {
         // Rechter Teilbaum.
         Node *right;
     public:
-        Rectangle(int, Node*, Node*);
-        bool contains(int);
-}
+        Node(int, Node*, Node*);
+        unsigned int count(int);
+};
 
 Node::Node(int value, Node *left, Node *right) {
-    this.value = value;
-    this.left = left;
-    this.right = right;
+    this->value = value;
+    this->left = left;
+    this->right = right;
 }
 
 unsigned int Node::count(int value) {
     return
         // Addiere Eins, falls der Eintrag übereinstimmt.
-        (this.value == value ? 1 : 0)
+        (this->value == value ? 1 : 0) +
         // Linker Teilbaum.
-        (this.left == nullptr
+        (this->left == nullptr
             // Base Case, es existiert kein linker Teilbaum.
             // Beachte, dass die Rekursion nicht weiter ausgeführt wird.
             ? 0
             // Step Case, zähle im linken Teilbaum weiter.
-            : this.left.count(value)
+            : this->left->count(value)
         ) +
         // Rechter Teilbaum.
-        (this.right == nullptr
+        (this->right == nullptr
             // Base Case, es existiert kein linker Teilbaum.
             // Beachte, dass die Rekursion nicht weiter ausgeführt wird.
             ? 0
             // Step Case, zähle im linken Teilbaum weiter.
-            : this.right.count(value)
+            : this->right->count(value)
         );
 }
 
@@ -224,7 +224,7 @@ int main() {
         new Node(
             4,
             nullptr,
-            nullptr,
+            nullptr
         ),
         new Node(
             5,
@@ -235,7 +235,7 @@ int main() {
                 nullptr
             )
         )
-    )
+    );
 
     assert(tree->count(7) == 2);
 
