@@ -6,7 +6,7 @@ categories: Programmieren
 tags: [Rekursion, Dynamic Programming, C++]
 ---
 
-Rekurstion ist eine Methode, Probleme zu lösen, wo die Lösung auf Lösungen für kleinere Instanzen des gleichen Problems basiert. Dies zeigt sich üblicherweise dadurch, dass die Funktion, welche die Lösung berechnet, sich selbst aufruft.
+Reurstion ist eine Methode, Probleme zu lösen, wo die Lösung auf Lösungen für kleinere Instanzen des gleichen Problems basiert. Dies zeigt sich üblicherweise dadurch, dass die Funktion, welche die Lösung berechnet, sich selbst aufruft.
 
 Wie in einem Induktionsbeweis müssen üblicherweise zwei Fälle unterschieden werden. Der *Base Case* und der *Step Case*. Der *Base Case* löst das kleinste Teilproblem, das nicht weiter in Probleme der gleichen Art aufgelöst werden kann. Der *Step Case* dagegen teilt ein Problem in kleinere Instanzen des gleichen Problems auf.
 
