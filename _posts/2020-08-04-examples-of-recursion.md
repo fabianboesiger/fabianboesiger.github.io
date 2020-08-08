@@ -133,6 +133,8 @@ unsigned int fib(const unsigned int n, unsigned int *const results) {
 }
 
 unsigned int fib_dp(const unsigned int n) {
+    assert(n >= 2);
+
     // Erstelle eine Tabelle, wobei alle Einträge ursprünglich 0 sind.
     // Falls der (n-1)-te Eintrag in der Tabelle 0 ist, heisst das für uns,
     // dass das Zwischenresultat noch nicht berechnet wurde.
