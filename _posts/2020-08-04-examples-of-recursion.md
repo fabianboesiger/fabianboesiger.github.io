@@ -120,17 +120,15 @@ Wir können die Effizienz verbessern, indem wir eine Methode namens *Dynamic Pro
 unsigned int fib(const unsigned int n, unsigned int *const results) {
     assert(n >= 1);
 
-    // Base Case.
-    if (n == 1 || n == 2) {
-        return 1;
-    }
-
     // Step Case.
+    // Falls wir im Base Case sind, ist results[n - 1] == 1 und wir
+    // geben deshalb direkt 1 aus ohne eine rekursive Berechnung.
     if (results[n - 1] == 0) {
         // Falls dieses Zwischenresultat noch nie berechnet wurde,
         // berechnen wir es rekusiv und speichern es in unserer Tabelle ab.
         results[n - 1] = fib(n - 1, results) + fib(n - 2, results);
     }
+    
     return results[n - 1];
 }
 
@@ -138,7 +136,9 @@ unsigned int fib_dp(const unsigned int n) {
     // Erstelle eine Tabelle, wobei alle Einträge ursprünglich 0 sind.
     // Falls der (n-1)-te Eintrag in der Tabelle 0 ist, heisst das für uns,
     // dass das Zwischenresultat noch nicht berechnet wurde.
-    unsigned int results[n] = {};
+    // Der Base Case kann direkt miteinbezogen werden, indem wir die
+    // ersten beiden Einträge auf 1 setzen.
+    unsigned int results[n] = {1, 1};
 
     // Starte die rekursive Berechnung.
     return fib(n, results);
