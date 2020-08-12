@@ -52,15 +52,23 @@ Obwohl es in manchen Städten recht eng sein kann, so gibt es trotzdem mehr gen�
 
 ### Arbeit
 
+Mit zuhnehmender Bevölkerung und Automatisierung kommt zunehmend das Argument auf, dass es zu wenige Arbeitsstellen gibt, um allen ein stabiles Einkommen zu ermöglichen.
+
+Es scheint jedoch offensichtlich, dass eine Wachsende Bevölkerung auch proportional mehr Arbeitsmöglichkeiten schafft. Im Gegenteil, erhöhte Immigration scheint die Arbeitslosenrate positiv zu beeinflussen[^11].
+
 ## Implikationen des Standpunkts Überbevölkerung
 
 Aus der Aussage, dass die Welt überbevolkert ist, folgt implizit, dass die Anzahl Menschen abnehmen muss. Diese Denkweise kann unter gewissen Umständen, insbesondere bei einem starken Hang zum Nationalismus, sehr gefährlich werden.
 
-Es liegt in der Natur des Nationalismus, Menschen in verschiedene Gruppen, üblicherweise entlang ethnischer Linien, einzuordnen. Ein Extremfall dieses Gruppendenkens ereignete sich insbesondere auch in der Phase des deutschen Nationalsozialismus. Dieses nationalistische Denken gepaart mit der Idee der Überbevölkerung führte zur sogenannten Blut-und-Boden-Ideologie.
+Es liegt in der Natur des Nationalismus, Menschen in verschiedene Gruppen, üblicherweise entlang ethnischer Linien, einzuordnen. Mit der Herausbildung eines Gruppendenkens erfolgt üblicherweise auch eine subjektive Einteilung dieser Gruppen in gut und böse.
+
+Ein Extremfall dieses Prozesses ereignete sich insbesondere auch in der Phase des deutschen Nationalsozialismus. Das hypernationalistische Denken gepaart mit der Idee der Überbevölkerung führte zur sogenannten Blut-und-Boden-Ideologie, welche das Ziel hatte, den Lebensraum des deutschen Volkes gegen Osten auszudehnen, wobei die dortige Bevölkerung entweder ermordet oder vertrieben wurde. Im Gegensatz zur Westfront wurden Zivilisten an der Ostfront gezielt ermordet, was zum Tod von ungefähr 14 Millionen Zivilisten führte.
 
 ## Schlussfolgerung
 
 Wir haben gesehen, dass viele Symptome von scheinbarer Überbevölkerung auf eine ineffiziente Verteilung von Waren als auch Kapital zurückzuführen sind. Es liegt somit nahe, dass das eigentliche Problem nicht eine zu grosse Population ist, sondern ein System, welches Ressourcen nicht im Interesse der Vielen, sondern im Interesse der Wenigen verteilt.
+
+Selbst wenn die Bevölkerung halbiert würde, Hunger, Armut und Arbeitslosigkeit würden nicht aufhören zu existieren. Das Problem ist letztendlich nicht die Verfügbarkeit, sondern die Verteilung dieser Ressourcen.
 
 [^1]: [Wikipedia. (2020). Überbevölkerung.](https://de.wikipedia.org/wiki/%C3%9Cberbev%C3%B6lkerung)
 
@@ -82,4 +90,8 @@ Wir haben gesehen, dass viele Symptome von scheinbarer Überbevölkerung auf ein
 
 [^10]: [Statista. (2019). Bevölkerungsdichte in der Schweiz von 2008 bis 2018.](https://de.statista.com/statistik/daten/studie/216767/umfrage/bevoelkerungsdichte-in-der-schweiz/)
 
+[^11]: [Vincent Fromentin. (2013). The Relationship Between Immigration and Unemployment: The Case of France.](https://www.sciencedirect.com/science/article/pii/S0313592613500038)
+
 https://de.wikipedia.org/wiki/Blut-und-Boden-Ideologie
+
+https://www.britannica.com/event/World-War-II/Costs-of-the-war
