@@ -6,7 +6,7 @@ categories: Programmieren
 tags: [Rekursion, Dynamic Programming, C++]
 ---
 
-Rekurstion ist eine Methode, Probleme zu lösen, wo die Lösung auf Lösungen für kleinere Instanzen des gleichen Problems basiert. Dies zeigt sich üblicherweise dadurch, dass die Funktion, welche die Lösung berechnet, sich selbst aufruft.
+Rekursion ist eine Methode, Probleme zu lösen, wo die Lösung auf Lösungen für kleinere Instanzen des gleichen Problems basiert. Dies zeigt sich üblicherweise dadurch, dass die Funktion, welche die Lösung berechnet, sich selbst aufruft.
 
 Wie in einem Induktionsbeweis müssen üblicherweise zwei Fälle unterschieden werden. Der *Base Case* und der *Step Case*. Der *Base Case* löst das kleinste Teilproblem, das nicht weiter in Probleme der gleichen Art aufgelöst werden kann. Der *Step Case* dagegen teilt ein Problem in kleinere Instanzen des gleichen Problems auf.
 
@@ -14,7 +14,7 @@ Wie in einem Induktionsbeweis müssen üblicherweise zwei Fälle unterschieden w
 
 ### Fakultät
 
-Die Definition der Fakultät kann rekursiv definiert werden:
+Die Fakultät kann rekursiv definiert werden:
 
 $$
 n! = \begin{cases}
@@ -120,25 +120,27 @@ Wir können die Effizienz verbessern, indem wir eine Methode namens *Dynamic Pro
 unsigned int fib(const unsigned int n, unsigned int *const results) {
     assert(n >= 1);
 
-    // Base Case.
-    if (n == 1 || n == 2) {
-        return 1;
-    }
-
     // Step Case.
+    // Falls wir im Base Case sind, ist results[n - 1] == 1 und wir
+    // geben deshalb direkt 1 aus ohne eine rekursive Berechnung.
     if (results[n - 1] == 0) {
         // Falls dieses Zwischenresultat noch nie berechnet wurde,
         // berechnen wir es rekusiv und speichern es in unserer Tabelle ab.
         results[n - 1] = fib(n - 1, results) + fib(n - 2, results);
     }
+    
     return results[n - 1];
 }
 
 unsigned int fib_dp(const unsigned int n) {
+    assert(n >= 2);
+
     // Erstelle eine Tabelle, wobei alle Einträge ursprünglich 0 sind.
     // Falls der (n-1)-te Eintrag in der Tabelle 0 ist, heisst das für uns,
     // dass das Zwischenresultat noch nicht berechnet wurde.
-    unsigned int results[n] = {};
+    // Der Base Case kann direkt miteinbezogen werden, indem wir die
+    // ersten beiden Einträge auf 1 setzen.
+    unsigned int results[n] = {1, 1};
 
     // Starte die rekursive Berechnung.
     return fib(n, results);
@@ -175,7 +177,7 @@ In einem Binärbaum soll die Anzahl eines bestimmten Eintrags gezählt werden.
 Wir bemerken, dass die Vorkomisse eines Eintrags in einem Teilbaum die Summe der Vorkommnisse des linken und des rechten Teilbaums ist, addiert mit Eins, falls der Eintrag im aktuellen Knoten vorkommt.
 
 ~~~cpp
-class Node;
+#include <assert.h>
 
 class Node {
     private:
@@ -185,35 +187,35 @@ class Node {
         // Rechter Teilbaum.
         Node *right;
     public:
-        Rectangle(int, Node*, Node*);
-        bool contains(int);
-}
+        Node(int, Node*, Node*);
+        unsigned int count(int);
+};
 
 Node::Node(int value, Node *left, Node *right) {
-    this.value = value;
-    this.left = left;
-    this.right = right;
+    this->value = value;
+    this->left = left;
+    this->right = right;
 }
 
 unsigned int Node::count(int value) {
     return
         // Addiere Eins, falls der Eintrag übereinstimmt.
-        (this.value == value ? 1 : 0)
+        (this->value == value ? 1 : 0) +
         // Linker Teilbaum.
-        (this.left == nullptr
+        (this->left == nullptr
             // Base Case, es existiert kein linker Teilbaum.
             // Beachte, dass die Rekursion nicht weiter ausgeführt wird.
             ? 0
             // Step Case, zähle im linken Teilbaum weiter.
-            : this.left.count(value)
+            : this->left->count(value)
         ) +
         // Rechter Teilbaum.
-        (this.right == nullptr
+        (this->right == nullptr
             // Base Case, es existiert kein linker Teilbaum.
             // Beachte, dass die Rekursion nicht weiter ausgeführt wird.
             ? 0
             // Step Case, zähle im linken Teilbaum weiter.
-            : this.right.count(value)
+            : this->right->count(value)
         );
 }
 
@@ -224,7 +226,7 @@ int main() {
         new Node(
             4,
             nullptr,
-            nullptr,
+            nullptr
         ),
         new Node(
             5,
@@ -235,7 +237,7 @@ int main() {
                 nullptr
             )
         )
-    )
+    );
 
     assert(tree->count(7) == 2);
 

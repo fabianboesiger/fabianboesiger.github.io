@@ -39,9 +39,9 @@ article {
 }
 
 article > a {
+    display: block;
     text-decoration: none;
     color: var(--text-color);
-    
 } 
 
 .title {
