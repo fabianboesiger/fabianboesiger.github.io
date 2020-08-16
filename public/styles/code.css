@@ -31,7 +31,7 @@
 .highlight .kr,
 .highlight .kt
 {
-    color: darksalmon;
+    color: lightcoral;
     font-weight: bold;
 }
 
@@ -58,14 +58,9 @@
 .highlight .nn,
 .highlight .nt,
 .highlight .nv
-{
-    color: cadetblue;
-}
-
-/* Classes, Structs */
 .highlight .n,
 .highlight .nc,
 .highlight .nf
 {
-    color: cadetblue;
+    color: lightsalmon;
 }
