@@ -103,6 +103,9 @@ main()
                     fib(2) -> 1
                     fib(1) -> 1
                 fib(2) -> 1
+            fib(3) -> 2
+                fib(2) -> 1
+                fib(1) -> 1
         fib(4) -> 3
             fib(3) -> 2
                 fib(2) -> 1
@@ -110,7 +113,7 @@ main()
             fib(2) -> 1
 ~~~
 
-Wir sehen, dass die Rekusive Lösungsmethode hier in vielen Funktionsaufrufen mit den selben Werten resultiert, was für grosse `n` sehr ineffizient wird. `fib(2)` wird beispielsweise vier mal berechnet.
+Wir sehen, dass die Rekusive Lösungsmethode hier in vielen Funktionsaufrufen mit den selben Werten resultiert, was für grosse `n` sehr ineffizient wird. `fib(3)` wird beispielsweise drei mal berechnet.
 
 Wir können die Effizienz verbessern, indem wir eine Methode namens *Dynamic Programming* verwenden. Dabei werden equivalänte Funktionsaufrufe nicht mehr neu berechnet, sondern beim ersten mal gespeichert, und danach bei erneuten Funktionsaufrufen einfach direkt die vorherige Lösung verwendet.
 
