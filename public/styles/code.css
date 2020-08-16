@@ -48,29 +48,32 @@
 }
 
 /* Functions, Macros, Methods */
+.highlight .n,
 .highlight .na,
-.highlight .no,
 .highlight .nd,
 .highlight .ne,
+.highlight .nf,
+.highlight .ni,
+.highlight .nl,
+.highlight .nn,
+.highlight .no,
 .highlight .nt,
 .highlight .nv,
 {
     color: lightblue;
 }
 
-.highlight .n,
+/* Builtins */
 .highlight .nb,
 .highlight .bp,
-.highlight .ni,
-.highlight .nn,
-.highlight .nl,
 .highlight .nc,
-.highlight .nf,
 .highlight .vc,
 .highlight .vg,
 .highlight .vi,
 
 {
-    color: lightblue;
+    color: lightgoldenrodyellow;
+    font-style: italic;
+    font-weight: bold;
 }
 
