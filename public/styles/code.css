@@ -31,7 +31,7 @@
 .highlight .kr,
 .highlight .kt
 {
-    color: violet;
+    color: darksalmon;
     font-weight: bold;
 }
 
@@ -44,7 +44,7 @@
 .highlight .mi,
 .highlight .mo
 {
-    color: greenyellow;
+    color: lightgreen;
 }
 
 /* Functions, Macros, Methods */
@@ -59,7 +59,7 @@
 .highlight .nt,
 .highlight .nv
 {
-    color: skyblue;
+    color: cadetblue;
 }
 
 /* Classes, Structs */
@@ -67,5 +67,5 @@
 .highlight .nc,
 .highlight .nf
 {
-    color: yellow;
+    color: cadetblue;
 }
