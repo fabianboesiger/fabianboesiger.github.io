@@ -1,5 +1,7 @@
-h1 {
+.heading {
     text-align: center;
+    margin-top: 32px;
+    margin-bottom: 32px;
 }
 
 img {
