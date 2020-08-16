@@ -49,18 +49,28 @@
 
 /* Functions, Macros, Methods */
 .highlight .na,
-.highlight .nb,
 .highlight .no,
 .highlight .nd,
-.highlight .ni,
 .highlight .ne,
-.highlight .nl,
-.highlight .nn,
 .highlight .nt,
 .highlight .nv,
-.highlight .n,
-.highlight .nc,
-.highlight .nf
 {
     color: lightblue;
 }
+
+.highlight .n,
+.highlight .nb,
+.highlight .bp,
+.highlight .ni,
+.highlight .nn,
+.highlight .nl,
+.highlight .nc,
+.highlight .nf,
+.highlight .vc,
+.highlight .vg,
+.highlight .vi,
+
+{
+    color: lightblue;
+}
+
