@@ -58,7 +58,7 @@
 .highlight .nn,
 .highlight .no,
 .highlight .nt,
-.highlight .nv,
+.highlight .nv
 {
     color: lightblue;
 }
@@ -69,8 +69,7 @@
 .highlight .nc,
 .highlight .vc,
 .highlight .vg,
-.highlight .vi,
-
+.highlight .vi
 {
     color: lightgoldenrodyellow;
     font-style: italic;
