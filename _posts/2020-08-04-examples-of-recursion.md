@@ -3,7 +3,7 @@ layout: post
 title: Beispiele für Rekursion
 date: 2020-08-04 13:00:00 +0200
 categories: Programmieren
-tags: [Rekursion, Dynamic Programming, C++]
+tags: [Rekursion, Memoisation, C++]
 ---
 
 Rekursion ist eine Methode, Probleme zu lösen, wo die Lösung auf Lösungen für kleinere Instanzen des gleichen Problems basiert. Dies zeigt sich üblicherweise dadurch, dass die Funktion, welche die Lösung berechnet, sich selbst aufruft.
@@ -115,7 +115,7 @@ main()
 
 Wir sehen, dass die Rekusive Lösungsmethode hier in vielen Funktionsaufrufen mit den selben Werten resultiert, was für grosse `n` sehr ineffizient wird. `fib(3)` wird beispielsweise drei mal berechnet.
 
-Wir können die Effizienz verbessern, indem wir eine Methode namens *Dynamic Programming* verwenden. Dabei werden equivalänte Funktionsaufrufe nicht mehr neu berechnet, sondern beim ersten mal gespeichert, und danach bei erneuten Funktionsaufrufen einfach direkt die vorherige Lösung verwendet.
+Wir können die Effizienz verbessern, indem wir eine Methode namens *Memoisation* verwenden. Dabei werden equivalänte Funktionsaufrufe nicht mehr neu berechnet, sondern beim ersten mal gespeichert, und danach bei erneuten Funktionsaufrufen einfach direkt die vorherige Lösung verwendet.
 
 ~~~cpp
 #include <assert.h>
