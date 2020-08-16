@@ -234,7 +234,7 @@ int main() {
         new Node(
             5,
             nullptr,
-            new Node (
+            new Node(
                 7,
                 nullptr,
                 nullptr
