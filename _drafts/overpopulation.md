@@ -3,84 +3,97 @@ layout: post
 title: Überbevölkerung
 date: 2020-03-13 17:00:00 +0200
 categories: Politik
-tags: [Überbevölkerung]
+tags: [Überbevölkerung, Klimawandel]
 ---
 
-Viele scheinen zu glauben, dass diese Erde überbevölkert ist. Diese Ansicht möchte ich in diesem kurzen Schreiben in Frage stellen.
-
-Unter dem Begriff der Überbevölkerung wird der Zustand verstanden, bei dem die Anzahl der Lebewesen die ökologische Tragfähigkeit ihres Lebensraums überschreitet[^1].
+Viele scheinen zu glauben, dass diese Erde überbevölkert ist. Diese Ansicht soll im Folgenden infrage gestellt werden.
 
 ## Tragfähigkeit unseres Lebensraums
 
-Im Folgenden betrachten wir verschiedene Aspekte der Tragfähigkeit unseres Lebensraums, der Erde.
+Unter dem Begriff der Überbevölkerung wird der Zustand verstanden, bei dem die Anzahl der Lebewesen die ökologische Tragfähigkeit ihres Lebensraums überschreitet.[^1] Betrachten wir also im Folgende verschiedene Aspekte der Tragfähigkeit unseres Lebensraums, der Erde.
 
 ### Nahrungsmittel
 
-Laut den UN produzierte die Welt bereits 2009 genügend Nahrungsmittel für 10 Milliarden Menschen[^2]. Genügend Nahrung ist also vorhanden. Das Problem ist also nicht die Produktion, sondern die Verteilung.
+Laut den UN produzierte die Welt bereits 2009 genügend Nahrungsmittel für 10 Milliarden Menschen.[^2] Das Problem ist nicht die Produktion, sondern die Verteilung.
+
+Ein Problem stellt jedoch die zu lansam wachsende Landwirtschaftliche Effizienz dar, welche um die Menschheit weiterhin zu ernähren um 1.75% jährlich wachsen müsste. Für entwickelte Länder stellt dieses Wachstum kein grosses Problem dar, jedoch erreichen Entwicklungsländer nur 0.96% Wachstum pro Jahr.[^3]
+
+Auch dieses Problem ist relativ leicht überwindbar wenn man beachtet, dass die Landwirtschaft vieler Entwicklungsländer kaum mechanisiert ist. Die Verwendung von Maschinen erzielte in der Vergangenheit eine Verdoppelung der Effizienz.[^4]
 
 ### Wasser
 
-Laut der Food and Agriculture Organization of the United States existiert keine Wasserkrise[^3].
+Laut der Food and Agriculture Organization of the United States existiert keine Wasserkrise.[^5]
 
-Am meisten Wasser wird in der Landwirtschaft und der Industrie, insbesondere in der Viehwirtschaft, verbraucht. Für die Herstellung eines Kilogramms Rindfleisch wird etwa 15'500 Liter Wasser benötigt[^4].
+Am meisten Wasser wird in der Landwirtschaft und der Industrie, insbesondere in der Viehwirtschaft, verbraucht. Für die Herstellung eines Kilogramms Rindfleisch wird etwa 15'500 Liter Wasser benötigt.[^6]
 
-> If agriculture manages to increase water productivity, the pressure on precious water resources can be reduced and water can be released to other sectors.
+> If agriculture manages to increase water productivity, the pressure on precious water resources can be reduced and water can be released to other sectors.[^6]
 > *Food and Agriculture Organization of the United States*
 
-Die naheliegende Lösung wäre eine Reduktion von Fleischproduktion. Mit Kläranlagend kann ausserdem eine Übernutzung von Grundwasser vermieden werden, jedoch sind diese relativ Kapitalintensiv und bringen keinen Profit. Insbesondere ärmere Regionen, welche von Wasserknappheit betroffen sind, können sich dies nicht leisten. Von Überbevölkerung kann aber auch hier nicht die Rede sein.
-
-Ein Problem stellt die zu lansam wachsende Landwirtschaftliche Effizienz dar, welche um die Menschheit weiterhin zu ernähren um 1.75% jährlich wachsen soll. Für entwickelte Länder stellt dieses Wachstum kein grosses Problem dar, jedoch erreichen Entwicklungsländer nur 0.96% Wachstum pro Jahr[^5].
-
-Auch dieses Problem ist relativ leicht überwindbar wenn man beachtet, dass die Landwirtschaft vieler Entwicklungsländer noch nicht vollständig mechanisiert ist. Die Verwendung von Maschinen erzielte in der Vergangenheit eine Verdoppelung der Effizienz[^6].
+Die naheliegende Lösung um Wasser zu sparen wäre eine Reduktion der Fleischproduktion. Mit Kläranlagen kann ausserdem eine Übernutzung von Grundwasser vermieden werden, jedoch sind diese relativ Kapitalintensiv und bringen keinen Profit. Insbesondere ärmere Regionen, welche von Wasserknappheit betroffen sind, können sich deshalb keine Kläranlagen leisten. Von Überbevölkerung kann aber nicht die Rede sein.
 
 ### Energie
 
-Das grösste Problem im Energiesektor im Bezug auf Überbevölkerung ist die nicht-nachhaltige Nutzung von fossilen Energieträgern. Glücklicherweise besteht jederzeit die Möglichkeit auf eine nachhaltige Energieversorgung umzusteigen. Dies ermöglicht gleichzeitig auch eine Reduktion des Einflusses von Menschen auf das Klima.
+Das grösste Problem im Energiesektor im Bezug auf Überbevölkerung ist die nicht-nachhaltige Nutzung von fossilen Energieträgern. Glücklicherweise besteht jederzeit die Möglichkeit, auf eine nachhaltige Energieversorgung umzusteigen. Dies ermöglicht gleichzeitig auch eine Reduktion des Einflusses von Menschen auf das Klima.
 
 ### Klimawandel
 
-Nur 25 Unternehmen sind verantwortlich für 51%, 100 Unternehmen für 71% aller Treibhausgasemissionen. Sämtliche dieser Unterehmen sind tätig im Bereich fossile Energieträger[^7].
+Nur 25 Unternehmen sind verantwortlich für 51%, 100 Unternehmen für 71% aller Treibhausgasemissionen. Sämtliche dieser Unterehmen sind tätig im Bereich fossile Energieträger.[^7]
 
 ![Fossil Fuel Companies](/public/media/fossil-fuel-companies.PNG)
-*Die 25 Unternehmen, welche verantwortlich für 51% aller Treibhausemissionen sind.*
+*Die 25 Unternehmen, welche verantwortlich für 51% aller Treibhausemissionen sind.[^7]*
 
-Durch Förderung von erneuerbaren Energien wäre es relativ leicht, diese Emissionen erheblich zu senken. Auch hiermit hat Überbevölkerung nichts zu tun, vielmehr ist es unsere scheinbare Abhänigkeit von fossilen Energieträgern. Ein Umstieg auf eine erneuerbare Energieversorgung würde sowohl die bevorstehende Knappheit von fossilen Energieträgern als auch die Problematik der globalen Erwärmung lösen.
+Durch Förderung von erneuerbaren Energien wäre es relativ leicht, diese Emissionen erheblich zu senken. Auch hiermit hat Überbevölkerung nichts zu tun, vielmehr ist es unsere scheinbare Abhänigkeit von fossilen Energieträgern. Ein Umstieg auf eine erneuerbare Energieversorgung würde sowohl die bevorstehende Knappheit von fossilen Energieträgern, als auch die Problematik der globalen Erwärmung lösen.
 
 ### Bevölkerung
 
-Obwohl es in manchen Städten recht eng sein kann, so gibt es trotzdem mehr genügend Land für alle. Auf den Quadratkilometer Landmasse kommen im Schnitt 60 Menschen[^8]. Etwa 70% dieses Landes ist bewohnbar [^9], woraus eine durchschnittliche Bevölkerungsdichte von 85 Menschen pro Quadratkilometer berechnet werden kann. Die Schweiz im Vergleich hat eine Bevölkerungsdichte von 213 Einwohner pro Quadratkilometer[^10]. Diese Bevölkerungsdichte ist also durchaus zumutbar.
+Obwohl es in manchen Städten recht eng sein kann, so gibt es trotzdem mehr als genügend Land für alle. Auf den Quadratkilometer Landmasse kommen im Schnitt 60 Menschen.[^8] Etwa 70% dieses Landes ist bewohnbar, woraus eine durchschnittliche Bevölkerungsdichte von 85 Menschen pro Quadratkilometer berechnet werden kann.[^9] Die Schweiz im Vergleich hat eine Bevölkerungsdichte von 213 Einwohner pro Quadratkilometer.[^10] Diese Bevölkerungsdichte ist also durchaus zumutbar.
 
 ### Arbeit
 
 Mit zuhnehmender Bevölkerung und Automatisierung kommt zunehmend das Argument auf, dass es zu wenige Arbeitsstellen gibt, um allen ein stabiles Einkommen zu ermöglichen.
 
-Es scheint jedoch offensichtlich, dass eine Wachsende Bevölkerung auch proportional mehr Arbeitsmöglichkeiten schafft. Im Gegenteil, erhöhte Immigration scheint die Arbeitslosenrate positiv zu beeinflussen[^11].
+Es scheint jedoch offensichtlich, dass eine Wachsende Bevölkerung auch proportional mehr Arbeitsmöglichkeiten schafft. Im Gegenteil, erhöhte Immigration zum Beispiel scheint die Arbeitslosenrate positiv zu beeinflussen.[^11] Obwohl die weltweite Bevölkerung zunimmt, bleibt weltweite Arbeitslosenquote etwa gleich.[^12]
 
 ## Implikationen des Standpunkts Überbevölkerung
 
-Aus der Aussage, dass die Welt überbevolkert ist, folgt implizit, dass die Anzahl Menschen abnehmen muss. Diese Denkweise kann unter gewissen Umständen, insbesondere bei einem starken Hang zum Nationalismus, sehr gefährlich werden.
+Das Argument der Überbevölkerung wurde in der Vergangenheit mehrfach verwendet, um gewisse politische Aktionen zu rechtfertigen.
 
-Es liegt in der Natur des Nationalismus, Menschen in verschiedene Gruppen, üblicherweise entlang ethnischer Linien, einzuordnen. Mit der Herausbildung eines Gruppendenkens erfolgt üblicherweise auch eine subjektive Einteilung dieser Gruppen in gut und böse.
+Cecil Rhodes war Unternehmer, Politiker und führender Akteur des britischen Imperialismus im 19. Jahrhundert. Er sah die miserablen Verhältnisse der Arbeiterklasse zu seiner Zeit nicht als Resultat der extremen Profitgier der Unternehmen und dem Fehlen von Arbeiterrechten, sondern als Produkt einer "Surplus Population". In der Expansion des British Empires sah er eine Lösung, und rechtfertigte damit den Imperialismus.
 
-Ein Extremfall dieses Prozesses ereignete sich insbesondere auch in der Phase des deutschen Nationalsozialismus. Das hypernationalistische Denken gepaart mit der Idee der Überbevölkerung führte zur sogenannten Blut-und-Boden-Ideologie, welche das Ziel hatte, den Lebensraum des deutschen Volkes gegen Osten auszudehnen, wobei die dortige Bevölkerung entweder ermordet oder vertrieben wurde. Im Gegensatz zur Westfront wurden Zivilisten an der Ostfront gezielt ermordet, was zum Tod von ungefähr 14 Millionen Zivilisten führte.
+> I was in the East End of London (a working-class quarter) yesterday and attended a meeting of the unemployed. I listened to the wild speeches, which were just a cry for ‘bread! bread!’ and on my way home I pondered over the scene and I became more than ever convinced of the importance of imperialism.... My cherished idea is a solution for the social problem, i.e., in order to save the 40,000,000 inhabitants of the United Kingdom from a bloody civil war, we colonial statesmen must acquire new lands to settle the surplus population, to provide new markets for the goods produced in the factories and mines. The Empire, as I have always said, is a bread and butter question. If you want to avoid civil war, you must become imperialists.[^13]
+> *Cecil Rhodes*
+
+Auch im 20. Jahrhundert kam das Argument der Überbevölkerung wieder auf. Aus der Aussage, dass die Welt überbevolkert ist, folgt implizit, dass die Anzahl Menschen abnehmen muss. Diese Denkweise kann unter gewissen Umständen, insbesondere bei einem starken Hang zum Nationalismus, sehr gefährlich werden.
+
+Es liegt in der Natur des Nationalismus, Menschen in verschiedene Gruppen, üblicherweise entlang ethnischer Linien, einzuordnen. Mit der Herausbildung eines Gruppendenkens erfolgt  auch eine subjektive Einteilung dieser Gruppen in "wir" und "sie", oder "gut" und "böse". Wenn eine dieser Gruppen nun zum Schluss kommt, dass die Erde nicht tragfähig genug für beide Seiten ist, liegt die Lösung nahe: Die einzige Option ist die Auslöschung der anderen Gruppe.
+
+Ein Extremfall dieses Prozesses ereignete sich insbesondere auch in der Phase des deutschen Nationalsozialismus. Das hypernationalistische Denken gepaart mit der Idee der Überbevölkerung führte zur sogenannten Blut-und-Boden-Ideologie, welche das Ziel hatte, den Lebensraum des deutschen Volkes gegen Osten auszudehnen, wobei die dortige Bevölkerung entweder ermordet oder vertrieben wurde.[^14] Im Gegensatz zur Westfront wurden Zivilisten deshalb an der Ostfront Opfer gezielter Gewalt, was zum Tod von ungefähr 14 Millionen Zivilisten führte.[^15]
+
+Natürlich sind die obig genannten historischen Ereignisse ein Extremfall, dennoch steht der Punkt, dass die Notion von Überbevölkerung in der Vergangenheit verwendet wurde, um schlimme Taten zu rechtfertigen, vom Imperialismus bis zum Genozid. Natürlich waren weder Imperialismus noch Genozid in der Lage, das Problem zu lösen.
 
 ## Schlussfolgerung
 
-Wir haben gesehen, dass viele Symptome von scheinbarer Überbevölkerung auf eine ineffiziente Verteilung von Waren als auch Kapital zurückzuführen sind. Es liegt somit nahe, dass das eigentliche Problem nicht eine zu grosse Population ist, sondern ein System, welches Ressourcen nicht im Interesse der Vielen, sondern im Interesse der Wenigen verteilt.
+Wir haben gesehen, dass viele Symptome von scheinbarer Überbevölkerung auf eine ineffiziente Verteilung von Waren und Kapital zurückzuführen sind. Schon knapp vor zwei Jahrhunderten beklagte man sich über Überbevölkerung obwohl die damalige Bevölkerungszahl bei ungefähr 15% des Heutigen Standes lag.[^16] Selbst wenn die Bevölkerung drastisch reduziert würde, Hunger, Armut und Arbeitslosigkeit würden nicht aufhören zu existieren.
 
-Selbst wenn die Bevölkerung halbiert würde, Hunger, Armut und Arbeitslosigkeit würden nicht aufhören zu existieren. Das Problem ist letztendlich nicht die Verfügbarkeit, sondern die Verteilung dieser Ressourcen.
+Es liegt nahe, dass das eigentliche Problem nicht eine zu grosse Population ist, sondern ein System, welches Ressourcen nicht im Interesse der Vielen, sondern im Interesse der Wenigen verteilt. Doch für Befürworter des Kapitals und des freien Marktes ist es leichter, die oben genannten Folgen als Konsequenzen der Überbevolkerung darzustellen, statt sich die Fehler ihres Systems einzugestehen.
+
+Die allermeisten Menschen sind durchaus in der Lage, für sich selbst zu sorgen, doch fehlen ihnen die Mittel dazu. Durch die Trennung von Produktivkräften und Produktionsmittel bildet sich Hunger, Armut, Arbeitslosigkeit und Bodenknappheit, also genau die Folgen, für die Überbevölkerung verantwortlich gemacht wird.
+
+Um Hunger, Armut und Arbeitslosigkeit zu stoppen, muss nicht die Bevölkerung reduziert werden, sondern ein grundlegend neues Produktions- und Verteilungssystem geschaffen werden, welches nicht den Profit einzelner Individuen, sondern das Wohlergehen der Gesamtbevölkerung optimiert.
+
+## Referenzen
 
 [^1]: [Wikipedia. (2020). Überbevölkerung.](https://de.wikipedia.org/wiki/%C3%9Cberbev%C3%B6lkerung)
 
-[^2]: [Holt-Giménez, Eric & Shattuck, Annie & Altieri, Miguel & Herren, Hans & Gliessman, Steve. (2012). We Already Grow Enough Food for 10 Billion People … and Still Can't End Hunger. Journal of Sustainable Agriculture - J SUSTAINABLE AGR. 36. 595-598. 10.1080/10440046.2012.695331.](https://www.researchgate.net/publication/241746569_We_Already_Grow_Enough_Food_for_10_Billion_People_and_Still_Can't_End_Hunger)
+[^2]: [Holt-Giménez, Eric & Shattuck, Annie & Altieri, Miguel & Herren, Hans & Gliessman, Steve. (2012). We Already Grow Enough Food for 10 Billion People … and Still Can't End Hunger. Journal of Sustainable Agriculture.](https://www.researchgate.net/publication/241746569_We_Already_Grow_Enough_Food_for_10_Billion_People_and_Still_Can't_End_Hunger)
 
-[^3]: [Food and Agriculture Organization of the United States. (2003), No global water crisis - but many developing countries will face water scarcity.](http://www.fao.org/english/newsroom/news/2003/15254-en.html)
+[^3]: [Global Agricultural Productivity Report. (2018). Tracking Productivity: The GAP Index.](https://globalagriculturalproductivity.org/wp-content/uploads/2018/10/Global-Agricultural-Productivity-Index_2018-GAP-Report.pdf)
 
-[^4]: [A. Y. Hoekstra, A. K. Chapagain. (2006). Water footprints of nations: Water use by people as a function of their consumption pattern.](https://www.waterfootprint.org/media/downloads/Hoekstra_and_Chapagain_2006.pdf)
+[^4]: [National Academy of Engineering. (2011). The Impact of Mechanization on Agriculture.](https://www.nae.edu/19579/19582/21020/52548/52645/The-Impact-of-Mechanization-on-Agriculture)
 
-[^5]: [Global Agricultural Productivity Report. (2018). Tracking Productivity: The GAP Index.](https://globalagriculturalproductivity.org/wp-content/uploads/2018/10/Global-Agricultural-Productivity-Index_2018-GAP-Report.pdf)
+[^5]: [Food and Agriculture Organization of the United States. (2003), No global water crisis - but many developing countries will face water scarcity.](http://www.fao.org/english/newsroom/news/2003/15254-en.html)
 
-[^6]: [National Academy of Engineering. (2011). The Impact of Mechanization on Agriculture.](https://www.nae.edu/19579/19582/21020/52548/52645/The-Impact-of-Mechanization-on-Agriculture)
+[^6]: [A. Y. Hoekstra, A. K. Chapagain. (2006). Water footprints of nations: Water use by people as a function of their consumption pattern.](https://www.waterfootprint.org/media/downloads/Hoekstra_and_Chapagain_2006.pdf)
 
 [^7]: [The Carbon Majors Database. (2017). CDP Carbon Majors Report 2017.](https://b8f65cb373b1b7b15feb-c70d8ead6ced550b4d987d7c03fcdd1d.ssl.cf3.rackcdn.com/cms/reports/documents/000/002/327/original/Carbon-Majors-Report-2017.pdf?1499691240)
 
@@ -92,6 +105,12 @@ Selbst wenn die Bevölkerung halbiert würde, Hunger, Armut und Arbeitslosigkeit
 
 [^11]: [Vincent Fromentin. (2013). The Relationship Between Immigration and Unemployment: The Case of France.](https://www.sciencedirect.com/science/article/pii/S0313592613500038)
 
-https://de.wikipedia.org/wiki/Blut-und-Boden-Ideologie
+[^12]: [The World Bank. (2020). Unemployment, total percent of labor force.](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS)
 
-https://www.britannica.com/event/World-War-II/Costs-of-the-war
+[^13]: [Lenin. (1916). Imperialism, the Highest Stage of Capitalism.](https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch06.htm#fwV22P256F01)
+
+[^14]: [Wikipedia. (2020). Blut-und-Boden-Ideologie.](https://de.wikipedia.org/wiki/Blut-und-Boden-Ideologie)
+
+[^15]: [Britannica. (2020). Costs of the war.](https://www.britannica.com/event/World-War-II/Costs-of-the-war)
+
+[^16]: [Population Reference Bureau. (2015). World Population Data Sheet.](https://assets.prb.org/pdf16/prb-wpds2016-web-2016.pdf)
