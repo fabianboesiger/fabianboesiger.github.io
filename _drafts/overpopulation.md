@@ -77,7 +77,7 @@ Wir haben gesehen, dass viele Symptome von scheinbarer Überbevölkerung auf ein
 
 Es liegt nahe, dass das eigentliche Problem nicht eine zu grosse Population ist, sondern ein System, welches Ressourcen nicht im Interesse der Vielen, sondern im Interesse der Wenigen verteilt. Doch für Befürworter des Kapitals und des freien Marktes ist es leichter, die oben genannten Folgen als Konsequenzen der Überbevolkerung darzustellen, statt sich die Fehler ihres Systems einzugestehen.
 
-Die allermeisten Menschen sind durchaus in der Lage, für sich selbst zu sorgen, doch fehlen ihnen die Mittel dazu. Durch die Trennung von Produktivkräften und Produktionsmittel bildet sich Hunger, Armut, Arbeitslosigkeit und Bodenknappheit, also genau die Folgen, für die Überbevölkerung verantwortlich gemacht wird.
+Die allermeisten Menschen sind durchaus in der Lage, für sich selbst zu sorgen, doch fehlen ihnen die Mittel dazu. Durch die Trennung von Produktivkräften und Produktionsmittel wird dies verunmöglicht, es bilden sich Hunger, Armut, Arbeitslosigkeit und Bodenknappheit, also genau die Folgen, für die Überbevölkerung verantwortlich gemacht wird.
 
 Um Hunger, Armut und Arbeitslosigkeit zu stoppen, muss nicht die Bevölkerung reduziert werden, sondern ein grundlegend neues Produktions- und Verteilungssystem geschaffen werden, welches nicht den Profit einzelner Individuen, sondern das Wohlergehen der Gesamtbevölkerung optimiert.
 
