@@ -9,3 +9,5 @@ social:
   twitter: fabianboesiger
   instagram: fabian_boesiger
 permalink: /:title
+kramdown:
+  smart_quotes: ["lsquo", "rsquo", "laquo", "raquo"]

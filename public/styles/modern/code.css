@@ -1,0 +1,78 @@
+.highlight
+{
+    color: white;
+}
+
+/* Comments */
+.highlight .c,
+.highlight .ch,
+.highlight .cm,
+.highlight .cp,
+.highlight .cpf,
+.highlight .c1,
+.highlight .cs
+{
+    color: lightgrey;
+    font-style: italic;
+}
+
+/* Errors */
+.highlight .err
+{
+    color: tomato;
+}
+
+/* Keywords */
+.highlight .k,
+.highlight .kc,
+.highlight .kd,
+.highlight .kn,
+.highlight .kp,
+.highlight .kr,
+.highlight .kt
+{
+    color: lightcoral;
+    font-weight: bold;
+}
+
+/* Literals */
+.highlight .s,
+.highlight .m,
+.highlight .mb,
+.highlight .mf,
+.highlight .mh,
+.highlight .mi,
+.highlight .mo
+{
+    color: lightgreen;
+}
+
+/* Functions, Macros, Methods */
+.highlight .n,
+.highlight .na,
+.highlight .nc,
+.highlight .nd,
+.highlight .ne,
+.highlight .nf,
+.highlight .ni,
+.highlight .nn,
+.highlight .no,
+.highlight .nt,
+.highlight .nv
+{
+    color: lightblue;
+}
+
+/* Builtins */
+.highlight .nb,
+.highlight .bp,
+.highlight .nl,
+.highlight .vc,
+.highlight .vg,
+.highlight .vi
+{
+    color: lightsalmon;
+    font-style: italic;
+    font-weight: bold;
+}
+

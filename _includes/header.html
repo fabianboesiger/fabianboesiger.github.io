@@ -1,3 +1,7 @@
-<header>
+<header> 
+    {% if page.title %}
+    <a href="/">{{ page.title }}</a>
+    {% else %}
     <a href="/">{{ site.title }}</a>
+    {% endif %}
 </header>

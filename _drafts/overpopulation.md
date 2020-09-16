@@ -10,13 +10,13 @@ Viele scheinen zu glauben, dass diese Erde überbevölkert ist. Diese Ansicht so
 
 ## Tragfähigkeit unseres Lebensraums
 
-Unter dem Begriff der Überbevölkerung wird der Zustand verstanden, bei dem die Anzahl der Lebewesen die ökologische Tragfähigkeit ihres Lebensraums überschreitet.[^1] Betrachten wir also im Folgende verschiedene Aspekte der Tragfähigkeit unseres Lebensraums, der Erde.
+Unter dem Begriff der Überbevölkerung wird der Zustand verstanden, bei dem die Anzahl der Lebewesen die ökologische Tragfähigkeit ihres Lebensraums überschreitet.[^1] Betrachten wir die verschiedene Aspekte der Tragfähigkeit unseres Lebensraums, der Erde.
 
 ### Nahrungsmittel
 
 Laut den UN produzierte die Welt bereits 2009 genügend Nahrungsmittel für 10 Milliarden Menschen.[^2] Das Problem ist nicht die Produktion, sondern die Verteilung.
 
-Ein Problem stellt jedoch die zu lansam wachsende Landwirtschaftliche Effizienz dar, welche um die Menschheit weiterhin zu ernähren um 1.75% jährlich wachsen müsste. Für entwickelte Länder stellt dieses Wachstum kein grosses Problem dar, jedoch erreichen Entwicklungsländer nur 0.96% Wachstum pro Jahr.[^3]
+Ein Problem stellt jedoch die zu lansam wachsende Landwirtschaftliche Effizienz dar, welche um die Menschheit weiterhin zu ernähren, um 1.75% jährlich wachsen müsste. Für entwickelte Länder stellt dieses Wachstum kein grosses Problem dar, jedoch erreichen Entwicklungsländer nur 0.96% Wachstum pro Jahr.[^3]
 
 Auch dieses Problem ist relativ leicht überwindbar wenn man beachtet, dass die Landwirtschaft vieler Entwicklungsländer kaum mechanisiert ist. Die Verwendung von Maschinen erzielte in der Vergangenheit eine Verdoppelung der Effizienz.[^4]
 
@@ -37,12 +37,12 @@ Das grösste Problem im Energiesektor im Bezug auf Überbevölkerung ist die nic
 
 ### Klimawandel
 
-Nur 25 Unternehmen sind verantwortlich für 51%, 100 Unternehmen für 71% aller Treibhausgasemissionen. Sämtliche dieser Unterehmen sind tätig im Bereich fossile Energieträger.[^7]
+Nur 25 Unternehmen sind verantwortlich für 51% aller Treibhausgasemissionen. Sämtliche dieser Unterehmen sind tätig im Bereich fossile Energieträger.[^7]
 
 ![Fossil Fuel Companies](/public/media/fossil-fuel-companies.PNG)
 *Die 25 Unternehmen, welche verantwortlich für 51% aller Treibhausemissionen sind.[^7]*
 
-Durch Förderung von erneuerbaren Energien wäre es relativ leicht, diese Emissionen erheblich zu senken. Auch hiermit hat Überbevölkerung nichts zu tun, vielmehr ist es unsere scheinbare Abhänigkeit von fossilen Energieträgern. Ein Umstieg auf eine erneuerbare Energieversorgung würde sowohl die bevorstehende Knappheit von fossilen Energieträgern, als auch die Problematik der globalen Erwärmung lösen.
+Durch die Förderung von erneuerbaren Energien wäre es relativ leicht, diese Emissionen erheblich zu senken. Auch hiermit hat Überbevölkerung nichts zu tun, vielmehr ist es unsere scheinbare Abhänigkeit von fossilen Energieträgern. Ein Umstieg auf eine erneuerbare Energieversorgung würde sowohl die bevorstehende Knappheit von fossilen Energieträgern, als auch die Problematik der globalen Erwärmung lösen.
 
 ### Bevölkerung
 
@@ -52,9 +52,13 @@ Obwohl es in manchen Städten recht eng sein kann, so gibt es trotzdem mehr als 
 
 Mit zuhnehmender Bevölkerung und Automatisierung kommt zunehmend das Argument auf, dass es zu wenige Arbeitsstellen gibt, um allen ein stabiles Einkommen zu ermöglichen.
 
-Es scheint jedoch offensichtlich, dass eine Wachsende Bevölkerung auch proportional mehr Arbeitsmöglichkeiten schafft. Im Gegenteil, erhöhte Immigration zum Beispiel scheint die Arbeitslosenrate positiv zu beeinflussen.[^11] Obwohl die weltweite Bevölkerung zunimmt, bleibt weltweite Arbeitslosenquote etwa gleich.[^12]
+Es scheint jedoch offensichtlich, dass eine Wachsende Bevölkerung auch proportional mehr Arbeitsmöglichkeiten schafft. Obwohl die weltweite Bevölkerung zunimmt, bleibt weltweite Arbeitslosenquote etwa gleich.[^12] Im Gegenteil, erhöhte Immigration zum Beispiel scheint die Arbeitslosenrate positiv zu beeinflussen.[^11]
 
-## Implikationen des Standpunkts Überbevölkerung
+## Implikationen
+
+Betrachten wir als Nächstes mögliche Folgen und Implikationen von einer Notion der Überbevölkerung.
+
+### Der Imperialismus
 
 Das Argument der Überbevölkerung wurde in der Vergangenheit mehrfach verwendet, um gewisse politische Aktionen zu rechtfertigen.
 
@@ -63,19 +67,29 @@ Cecil Rhodes war Unternehmer, Politiker und führender Akteur des britischen Imp
 > I was in the East End of London (a working-class quarter) yesterday and attended a meeting of the unemployed. I listened to the wild speeches, which were just a cry for ‘bread! bread!’ and on my way home I pondered over the scene and I became more than ever convinced of the importance of imperialism.... My cherished idea is a solution for the social problem, i.e., in order to save the 40,000,000 inhabitants of the United Kingdom from a bloody civil war, we colonial statesmen must acquire new lands to settle the surplus population, to provide new markets for the goods produced in the factories and mines. The Empire, as I have always said, is a bread and butter question. If you want to avoid civil war, you must become imperialists.[^13]
 > *Cecil Rhodes*
 
+### Der Zweite Weltkrieg
+
 Auch im 20. Jahrhundert kam das Argument der Überbevölkerung wieder auf. Aus der Aussage, dass die Welt überbevolkert ist, folgt implizit, dass die Anzahl Menschen abnehmen muss. Diese Denkweise kann unter gewissen Umständen, insbesondere bei einem starken Hang zum Nationalismus, sehr gefährlich werden.
 
 Es liegt in der Natur des Nationalismus, Menschen in verschiedene Gruppen, üblicherweise entlang ethnischer Linien, einzuordnen. Mit der Herausbildung eines Gruppendenkens erfolgt  auch eine subjektive Einteilung dieser Gruppen in "wir" und "sie", oder "gut" und "böse". Wenn eine dieser Gruppen nun zum Schluss kommt, dass die Erde nicht tragfähig genug für beide Seiten ist, liegt die Lösung nahe: Die einzige Option ist die Auslöschung der anderen Gruppe.
 
 Ein Extremfall dieses Prozesses ereignete sich insbesondere auch in der Phase des deutschen Nationalsozialismus. Das hypernationalistische Denken gepaart mit der Idee der Überbevölkerung führte zur sogenannten Blut-und-Boden-Ideologie, welche das Ziel hatte, den Lebensraum des deutschen Volkes gegen Osten auszudehnen, wobei die dortige Bevölkerung entweder ermordet oder vertrieben wurde.[^14] Im Gegensatz zur Westfront wurden Zivilisten deshalb an der Ostfront Opfer gezielter Gewalt, was zum Tod von ungefähr 14 Millionen Zivilisten führte.[^15]
 
-Natürlich sind die obig genannten historischen Ereignisse ein Extremfall, dennoch steht der Punkt, dass die Notion von Überbevölkerung in der Vergangenheit verwendet wurde, um schlimme Taten zu rechtfertigen, vom Imperialismus bis zum Genozid. Natürlich waren weder Imperialismus noch Genozid in der Lage, das Problem zu lösen.
+Natürlich stellen die obig genannten historischen Ereignisse Extremfälle dar, dennoch steht der Punkt, dass die Notion von Überbevölkerung in der Vergangenheit verwendet wurde, um schlimme Taten zu rechtfertigen, vom Imperialismus bis zum Genozid. Natürlich waren weder Imperialismus noch Genozid in der Lage, das scheinbare Problem der Überbevölkerung zu lösen.
+
+### Die Ecopop-Initiative
+
+
+In der Schweiz resultiert diese Ansichtsweise in Organisationen wie [Ecopop](https://www.ecopop.ch/), welche sich einsetzt, um "die Lebensgrundlagen und die Lebensqualität in der Schweiz und weltweit auch für kommende Generationen zu erhalten und sich hierfür insbesondere mit dem Faktor Bevölkerung zu befassen".[^16] Konkret sind ihre Anliegen eine Limitierung der Zuwanderung in die Schweiz und eine Umleitung von Entwicklungsgeldern zur Förderung von Familienplanung in Entwicklungsländern. Statt das Problem in dere Verteilung und der Produktion zu erkennen, wird die Verantwortung also wiederum auf Andere geschoben.[^17] Das Komitee solidarische Schweiz bringt die Problematik auf den Punkt.
+
+> Die Ecopop-Initiative gibt vor, die Umwelt zu schützen. Doch statt kluge Lösungen für eine nachhaltige Wirtschaft und den Umweltschutz zu fördern, setzt sie auf Ausgrenzung und bevormundende Geburtenkontrolle in Entwicklungsländern.[^18]
+> *Komitee solidarische Schweiz*
 
 ## Schlussfolgerung
 
-Wir haben gesehen, dass viele Symptome von scheinbarer Überbevölkerung auf eine ineffiziente Verteilung von Waren und Kapital zurückzuführen sind. Schon knapp vor zwei Jahrhunderten beklagte man sich über Überbevölkerung obwohl die damalige Bevölkerungszahl bei ungefähr 15% des Heutigen Standes lag.[^16] Selbst wenn die Bevölkerung drastisch reduziert würde, Hunger, Armut und Arbeitslosigkeit würden nicht aufhören zu existieren.
+Wir haben gesehen, dass viele Symptome von scheinbarer Überbevölkerung auf eine ineffiziente Verteilung von Waren und Kapital zurückzuführen sind. Schon knapp vor zwei Jahrhunderten beklagte man sich über Überbevölkerung, obwohl die damalige Bevölkerungszahl bei nur ungefähr 15% des Heutigen Standes lag.[^19] Selbst wenn die Bevölkerung drastisch reduziert würde, Hunger, Armut und Arbeitslosigkeit würden nicht aufhören zu existieren.
 
-Es liegt nahe, dass das eigentliche Problem nicht eine zu grosse Population ist, sondern ein System, welches Ressourcen nicht im Interesse der Vielen, sondern im Interesse der Wenigen verteilt. Doch für Befürworter des Kapitals und des freien Marktes ist es leichter, die oben genannten Folgen als Konsequenzen der Überbevolkerung darzustellen, statt sich die Fehler ihres Systems einzugestehen.
+Es liegt nahe, dass das eigentliche Problem nicht eine zu grosse Population ist, sondern ein System, welches Ressourcen nicht im Interesse der Vielen, sondern im Interesse der Wenigen verteilt. Doch für Befürworter des Kapitals und des freien Marktes jedoch ist es leichter, die oben genannten Folgen als Konsequenzen der Überbevolkerung darzustellen, statt sich die Fehler ihres Systems einzugestehen.
 
 Die allermeisten Menschen sind durchaus in der Lage, für sich selbst zu sorgen, doch fehlen ihnen die Mittel dazu. Durch die Trennung von Produktivkräften und Produktionsmittel wird dies verunmöglicht, es bilden sich Hunger, Armut, Arbeitslosigkeit und Bodenknappheit, also genau die Folgen, für die Überbevölkerung verantwortlich gemacht wird.
 
@@ -113,4 +127,10 @@ Um Hunger, Armut und Arbeitslosigkeit zu stoppen, muss nicht die Bevölkerung re
 
 [^15]: [Britannica. (2020). Costs of the war.](https://www.britannica.com/event/World-War-II/Costs-of-the-war)
 
-[^16]: [Population Reference Bureau. (2015). World Population Data Sheet.](https://assets.prb.org/pdf16/prb-wpds2016-web-2016.pdf)
+[^16]: [Ecopop. (2020). Ecopop Vorstand.](https://www.ecopop.ch/de/ueber-uns)
+
+[^17]: [Ecopop. (2014). Ecopop-Initiative - Das Volk entscheidet im November.](https://www.ecopop.ch/de/blog/initiative/469-ecopop-initiative-das-volk-entscheidet-im-november)
+
+[^18]: [Unia. (2014). Komitee solidarische Schweiz startet Abstimmungskampf gegen Ecopop-Initiative](https://www.unia.ch/de/aktuell/aktuell/artikel/a/10277)
+
+[^19]: [Population Reference Bureau. (2015). World Population Data Sheet.](https://assets.prb.org/pdf16/prb-wpds2016-web-2016.pdf)

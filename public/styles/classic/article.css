@@ -1,0 +1,75 @@
+.heading {
+    text-align: center;
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+img {
+    width: 100%;
+}
+
+img + em {
+    font-size: 16px;
+}
+
+.footnotes {
+    font-size: 16px;
+}
+
+div.highlighter-rouge {
+    background: var(--text-color);
+}
+
+div.highlighter-rouge code {
+    display: inline-block;
+    margin-left: 32px;
+    margin-right: 32px;
+}
+
+div.highlighter-rouge, div.MathJax_Display, div.table-wrapper {
+    overflow-x: auto;
+    overflow-y: hidden;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+@media only screen and (max-width: 768px) {
+    img, div.highlighter-rouge {
+        margin-left: -32px;
+        width: calc(100% + 64px);
+    }
+}
+
+blockquote {
+    position: relative;
+    margin: 0;
+    margin-left: 32px;
+    margin-right: 32px;
+}
+
+blockquote > p {
+    text-align: center;
+}
+
+blockquote::before {
+    content: "«";
+    bottom: 50%;
+    left: -30px;
+}
+
+blockquote::after {
+    content: "»";
+    bottom: 50%;
+    right: -30px;
+}
+
+blockquote::before, blockquote::after {
+    position: absolute;
+    font-size: 48px;
+}
+
+blockquote > p > em {
+    display: inline-block;
+    width: 100%;
+    font-size: 16px;
+}

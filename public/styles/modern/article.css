@@ -16,10 +16,6 @@ img + em {
     font-size: 16px;
 }
 
-div.highlighter-rouge {
-    background: var(--text-color);
-}
-
 div.highlighter-rouge code {
     display: inline-block;
     margin-left: 32px;
@@ -33,16 +29,11 @@ div.highlighter-rouge, div.MathJax_Display, div.table-wrapper {
     margin-bottom: 1em;
 }
 
-@media only screen and (max-width: 768px) {
-    img, div.highlighter-rouge {
-        margin-left: -32px;
-        width: calc(100% + 64px);
-    }
-}
-
 blockquote {
     position: relative;
-    margin-bottom: 32px;
+    margin: 0;
+    margin-left: 32px;
+    margin-right: 32px;
 }
 
 blockquote > p {
@@ -52,18 +43,18 @@ blockquote > p {
 blockquote::before {
     content: "«";
     bottom: 50%;
-    left: -38px;
+    left: -30px;
 }
 
 blockquote::after {
     content: "»";
     bottom: 50%;
-    right: -38px;
+    right: -30px;
 }
 
 blockquote::before, blockquote::after {
     position: absolute;
-    font-size: 58px;
+    font-size: 48px;
 }
 
 blockquote > p > em {
