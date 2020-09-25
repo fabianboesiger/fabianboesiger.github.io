@@ -10,7 +10,7 @@ tags: [Memory Safety, Rust, C]
 
 Both Google[^1] and Microsoft[^2] agree that around 70% of all security bugs are memory safety issues.
 
-But what to do about it? We could avoid potentially memory-unsafe languages like C or C++ in favour of garbage collected languages like Java, which are memory safe. But this comes some disadvantages like a decrease in performance, stalls in program execution, and consuming additional resources.
+But what to do about it? We could avoid potentially memory-unsafe languages like C or C++ in favour of garbage collected languages like Java, which are memory safe. But this comes with some disadvantages like a decrease in performance, stalls in program execution, and consuming additional resources.
 
 Rust on the other hand is memory safe, it does not permit null pointers, dangling pointers, or data races, while having none of these disadvantages thanks to its liftime, ownership and borrowing systems. Despite these guarantees, the performance of Rust is comparable to C/C++.[^3]
 
