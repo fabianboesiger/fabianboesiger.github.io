@@ -64,7 +64,7 @@ error[E0133]: dereference of raw pointer is unsafe and requires unsafe function 
   = note: this error originates in a macro (in Nightly builds, run with -Z macro-backtrace for more info)
 ```
 
-Pointer dereferencing is always unsafe in Rust, the pointer location might be invalid. Instead of pointers, Rust uses references, which are always valid and thus are never allowed to be null `NULL`. This is how null pointers are avoided in Rust. Next, let's look at how Rust prevents dangling pointers.
+Pointer dereferencing is always unsafe in Rust, the pointer location might be invalid. Instead of pointers, Rust uses references, which are always valid and thus are never allowed to be `NULL`. This is how null pointers are avoided in Rust. Next, let's look at how Rust prevents dangling pointers.
 
 ### Dangling Pointers
 
