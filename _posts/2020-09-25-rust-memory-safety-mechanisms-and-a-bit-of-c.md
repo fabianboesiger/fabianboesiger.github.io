@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Rust Memory Safety Mechanisms and a Bit of C
-date: 2020-03-13 17:00:00 +0200
+date: 2020-09-25 13:00:00 +0200
 categories: Programmieren
-tags: [C, Rust, Memory Safety]
+tags: [Rust, C, Memory Safety]
 ---
 
 ## Why Memory Safety is Important
