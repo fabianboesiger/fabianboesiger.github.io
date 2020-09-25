@@ -8,7 +8,7 @@ tags: [Memory Safety, Rust, C]
 
 ## Why Memory Safety is Important
 
-Both Google and Microsoft agree that around 70% of all security bugs are memory safety issues.[^1][^2]
+Both Google[^1] and Microsoft[^2] agree that around 70% of all security bugs are memory safety issues.
 
 But what to do about it? We could avoid potentially memory-unsafe languages like C or C++ in favour of garbage collected languages like Java, which are memory safe. But this comes some disadvantages like a decrease in performance, stalls in program execution, and consuming additional resources.
 
