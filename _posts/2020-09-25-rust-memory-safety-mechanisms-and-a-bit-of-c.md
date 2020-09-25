@@ -3,7 +3,7 @@ layout: post
 title: Rust Memory Safety Mechanisms and a Bit of C
 date: 2020-09-25 13:00:00 +0200
 categories: Programmieren
-tags: [Rust, C, Memory Safety]
+tags: [Memory Safety, Rust, C]
 ---
 
 ## Why Memory Safety is Important
@@ -311,7 +311,7 @@ fn main() {
 
 This Program compiles with a warning, and then panicks with an assertion error:
 
-```test
+```text
    Compiling playground v0.0.1 (/playground)
 warning: unused variable: `counter`
  --> src/main.rs:9:13
