@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Konzernverantwortungsinitiative
-date: 2020-03-13 17:00:00 +0200
+title: Ja zur Einhaltung der Menschenrechte
+date: 2020-10-07 16:00:00 +0200
 categories: Politik
-tags: [Überbevölkerung, Klimawandel]
+tags: [Schweiz, Initiative, Menschenrechte]
 ---
 
 ## Die Initiative in Kürze
@@ -24,7 +24,7 @@ Unternehmen haften auch bei Fehlverhalten von Tochterunternehmen un wirtschaftli
 
 Die Haftung fällt aus, falls das Unternehmen die Einhaltung der Sorgfaltsprüfung beweisen kann.
 
-## Die Gegenargumente und ihre Schwächen
+## Die Gegenargumente
 
 Die Gegenargumente wurden gesammelt von der Website der Initiativgegner.[^2]
 
@@ -36,6 +36,10 @@ Die Gegenargumente wurden gesammelt von der Website der Initiativgegner.[^2]
 Wie die Initiative kontraproduktiv ist, wird nicht konkret erläutert.
 
 Das Parlament hat ein Gegenvorschlag erarbeitet, welcher bei einer Ablehnung der Initiative automatisch in Kraft tritt. Der wesentliche Unterschied zur ursprünlichen Initiative ist, dass keine Konzernhaftung der Schweizer Unternehmen bei Fehlverhalten von Tochterunternehmen oder wirtschaftlich abhängigen Zuliefern besteht.
+
+Die Initiativgegner suggerieren uns deshalb, dass eine Ablehnung der Initiative letztendlich besser wäre, denn in diesem Fall fällt die Haftung für wirtschaftlich abhängigen Unternehmen aus, welche die Wirtschaft angeblich zu sehr belasten würde.
+
+Das Fehlen dieser 
 
 ### Behindert Entwicklung und Fortschritt
 
@@ -78,15 +82,17 @@ Doch der Initiativtext sagt etwas anderes:
 
 Das Schweizer Recht gilt also nach wie vor nur für Schweizer Gerichte. Weiterhin gilt:
 
-> Haftung des ausländischenTochterunternehmens oder wirtschaftlich abhängigen Zulieferers vor ausländischem Gericht.[^1]
+> Haftung des ausländischen Tochterunternehmens oder wirtschaftlich abhängigen Zulieferers vor ausländischem Gericht.[^1]
 > *Bundesamt für Justiz*
+
+Schweizer Gerichte stellen sich auch nach einer Annahme der Initiative über ausländische Gerichte.
 
 ### Leere Versprechen
 
 > Die Initiative baut auf illusorischen Vorstellungen und weckt falsche Erwartungen. So sind die globalen Lieferketten mit tausenden Zulieferfirmen hochkomplex und liegen meist ausserhalb des Einflussbereichs der Auftraggeber. Eine lückenlose Überwachung der Lieferkette ist in der Praxis unmöglich. Genauso unerfüllbar sind die Erwartungen an internationale Rechtshilfe und die Beweisaufnahmen im Ausland.
 > *Das Argument der Gegner*
 
-Unternehmen, die in der Lage sind mit Tausenden Zulieferfirmen zu interagieren, sind auch in der Lage, diese nach potentiellen Menschenrechtsverletzungen abzusuchen.
+Unternehmen, die in der Lage sind mit tausenden Zulieferfirmen zu interagieren, sind auch in der Lage, diese nach potentiellen Menschenrechtsverletzungen abzusuchen.
 
 ### Zerstört / gefährdet sinnvolle Kooperation mit NGOs
 
@@ -95,9 +101,9 @@ Unternehmen, die in der Lage sind mit Tausenden Zulieferfirmen zu interagieren, 
 
 Übersetzen wir das Argument in Klartext. Mit "komplexen kulturellen und wirtschaftlichen Fragen" sind konkret gegen Menschenrechte verstossende Akte wie Kinderarbeit oder Sklaverei gemeint.
 
-Natürlich müssen solche Fragen juristisch geklärt werden, denn der juristische Weg ist zweifellos am effektivsten. Die Initiative ist somit keine Reduktion des Problems, wie behauptet wird, sondern der Versuch einer Lösung auf politischer Ebene. Wenn die Initiativgegner zusätzlich nicht-formalistische Lösungen möchten, dann können werden sie daran sicher nicht durch die Initiative abgehalten.
+Natürlich müssen solche Fragen juristisch geklärt werden, denn der juristische Weg ist zweifellos am effektivsten. Die Initiative ist somit keine Reduktion des Problems, wie behauptet wird, sondern der Versuch einer Lösung auf politischer Ebene. Wenn die Initiativgegner zusätzlich nicht-formalistische Lösungen möchten, dann werden sie daran sicher nicht durch die Initiative abgehalten.
 
-Es wird von Kooperation gesprochen, obwohl Konzerne noch nie kooperativ waren. Konzerne sind dem Staat nicht gleichberechtigt, in der Tat ist es gerade die Aufgabe des Staates, gesetzgebend auf die Konzerne zu wirken. Genau so funktioniert unser Rechtssystem, geschätzte Initiativgegner!
+Es wird von Kooperation gesprochen, obwohl Konzerne noch nie kooperativ waren. Immer wieder wurden Menschenrechtsverletzungen direkt oder indirekt durch Schweizer Unternehmen begangen. Konzerne sind dem Staat nicht gleichberechtigt, in der Tat ist es gerade die Aufgabe des Staates, gesetzgebend auf die Konzerne zu wirken. Genau so funktioniert unser Rechtssystem, geschätzte Initiativgegner! Ein Staat, welcher die Wirtschaft in der Politik mitreden lässt, ist keine Volksdemokratie, sondern eine Portemonnaiedemokratie.
 
 ## Testimonials
 
@@ -108,26 +114,26 @@ Interessanterweise werden auf der Website der Initiativgegner[^2] keine Organisa
 > Die UVI ist ein direkter Angriff auf unsere Entwicklungshilfe. Sie verhindert die Zusammenarbeit mit lokalen Unternehmen der ärmsten Länder dieser Welt.
 > *Elisabeth Schneider-Schneiter, Nationalrätin CVP, Präsidentin Handelskammer beider Basel*
 
-Die Nationalrätin Schneider-Schneiter hat hier nur teilweise Recht, denn die Initiative verhindert le­dig­lich die Zusammenarbeit mit *lokalen Unternehmen, welche gegen die Menschenrechte verstossen*. Die Zusammenarbeit mit Unternehmen, die gegen Menschenrechte vertossen, geht ziemlich sicher nicht unter die Kategorie Entwicklungshilfe.
+Die Nationalrätin Schneider-Schneiter hat hier nur teilweise Recht, denn die Initiative verhindert le­dig­lich die Zusammenarbeit mit lokalen Unternehmen, *welche gegen die Menschenrechte verstossen*. Die Zusammenarbeit mit Unternehmen, die gegen Menschenrechte vertossen, geht ziemlich sicher nicht unter die Kategorie Entwicklungshilfe.
 
 ---
 
 > Die Initiative macht mit einer Beweislastumkehr unsere Schweizer Unternehmen erpressbar, weil allein schon die medial inszenierte Klage unseren Unternehmen Schaden zufügen dürfte.
 > *Barbara Steinemann, Nationalrätin SVP*
 
-Eine Beweislastumkehr ist nicht unbedingt etwas Negatives und wird üblicherweise eingesetzt, wenn der Kläger nur schwierig einen Beweis erbringen kann. Genau so verhält es sich auch in diesem Fall, also ist eine Beweislastumkehr durchaus angebracht. Die Opfer von Menschenrechtsverletzung haben kaum die Mittel, gegen die entsprechenden Unternehmen vorzugehen.
+Eine Beweislastumkehr ist nicht unbedingt etwas Negatives und wird üblicherweise eingesetzt, wenn der Kläger nur schwierig einen Beweis erbringen kann. Genau so verhält es sich auch in diesem Fall, also ist eine Beweislastumkehr durchaus angebracht. Die Opfer von Menschenrechtsverletzung haben kaum die Mittel, juristisch gegen Konzerne wie Glencore oder Nestlé vorzugehen.
 
 ---
 
 > Betroffen sein kann jedes Unternehmen, auch ein kleines, denn auch dieses braucht Vorprodukte, die nicht in der Schweiz produziert werden.
 > *Regine Sauter, Nationalrätin FDP, Direktorin Zürcher Handelskammer*
 
-Diese Aussage ist nicht Wahrheitsgetreu. Der Initiativtext erwähnt explizit:
+Zu diesem Thema erwähnt der Initiativtext explizit:
 
 > [...] Bei der Regelung der Sorgfaltsprüfungspflicht nimmt der Gesetzgeber Rücksicht auf die Bedürfnisse kleiner und mittlerer Unternehmen, die geringe derartige Risiken aufweisen.[^1]
 > *Initiativtext*
 
-Doch selbst wenn jedes Unternehmen betroffen wäre, warum wäre das nicht gut so? Sind Menschenrechtsverletzungen okay, wenn sie von Kleinunternehmen mitverursacht werden?
+Doch selbst wenn jedes Unternehmen gleichermassen betroffen wäre, warum wäre das nicht gut so? Sind Menschenrechtsverletzungen okay, wenn sie von Kleinunternehmen mitverursacht werden? Dieser Appell an KMUs hat kenen anderen Zweck, als Kleinunternehmer*innen zu einer Ablehnung der Initiative zu bewegen.
 
 ---
 
@@ -142,7 +148,7 @@ Die Argumente der Gegner sind ein Lückentext, und das Wort, welches ihnen nie e
 
 Über die Interessensbindungen von Ruedi Noser werden wir später noch mehr erfahren.
 
-## Abschliessende Worte
+## Weitere Punkte
 
 ### Auskommen der Initiative
 
@@ -153,11 +159,11 @@ Es gibt zwei mögliche Auskommen bei einer Annahme der Initiative:
 
 Das Ideal besteht natürlich im ersten Fall, eine Reduktion der Profitrate einiger Grosskonzerne gegen die Einhaltung der Menschenrechte.
 
-Doch wir sollten auch den zweiten Fall betrachten. Wenn unsere Wirtschaft bei einer Einhaltung der Menschenrechte ernsthaft beeinträchtigt wird, dann sollte das einige Fragen aufwerfen. Warum ist unsere Wirtschaft auf die Verletzung von Menschenrechten angewiesen? Wollen wir als Schweizer wirklich in einem solchen System leben?
+Doch wir sollten auch den zweiten Fall betrachten, welche uns die Initiativgegner wahrsagen wollen. Wenn unsere Wirtschaft bei einer Einhaltung der Menschenrechte ernsthaft beeinträchtigt wird, dann sollte das einige Fragen aufwerfen. Warum ist unsere Wirtschaft auf die Verletzung von Menschenrechten angewiesen? Wollen wir als Schweizer wirklich in einem System leben, welches ohne Menschenrechtsverletzungen nicht überleben kann? Ist ein solches System überhaupt vernünftig?
 
 Der einzige wirkliche Grund, die Initiative abzulehen, ist eine Überordnung von Profit gegenüber den Menschenrechten.
 
-### Lobbyismus
+### Lobbying und Werbung
 
 Einige scheinen den Profit sehrwohl den Menschenrechten überzuordnen. Ein Beispiel finden wir auf der Webseite der Initianten:
 
@@ -169,20 +175,22 @@ Bei der Recherche fällt uns an erster Stelle einer Google-Suche nach dem Begrif
 ![Guter Punkt Werbung auf Google-Suche.](/public/media/guter-punkt-advertisement.PNG)
 *Anzeige der Initiativgegner auf Google.*
 
-Die Anzeige bietet einen Faktencheck zur Initative, sehen wir also, was diese Website über den Glencore-Zwischenfall zu sagen hat.
+Die Anzeige bietet einen angeblich neutralen Faktencheck zur Initative. Sehen wir also, was diese Website über den Glencore-Zwischenfall zu sagen hat.
 
 > Der Verein Konzernverantwortungsinitiative prangert auf seiner Website einen vermeintlichen Skandal rund um den Schweizer Rohstoffhändler Glencore an. [...] Dass Luft und Wasser durch die Mine belastet sind, ist erwiesen, nicht zuletzt durch entsprechende Berichte auf BBC und ARD. Allerdings unterschlagen die Initianten den historischen Hintergrund dieser Geschichte. Die Mine gehört seit rund hundert Jahren dem peruanischen Staat und wurde von unterschiedlichen Unternehmen betrieben. Erst 2017 – also vor zwei Jahren – übernahm Glencore die Mehrheit. [...] Und ein Unternehmen für Schäden verantwortlich zu machen, die jahrzehntelang von anderen Parteien verursacht wurden, ist unfair – und zeigt nicht zuletzt eine der Gefahren der Konzern-Verantwortungs-Initiative auf.[^4]
-> *guter-punkt, finanziert von succèSuisse.*
+> *succèSuisse*
 
-Der Betreiber der Website, succèSuisse, setzt sich nach eigenen Angaben "für eine liberale Wirtschaftsordnung" ein.[^5] Die Organisation ist ein Auftraggeber für die Lobbying-Firma furrerhugi. furrerhugi wiederum ist tätig für zahlreiche Grosskonzerne wie Glencore, Google und Huawei.[^6] Who let the lobbyists out? Ruedi Noser, den wir in den Testemonials oben schon kennengelernt haben, denn er hat seine Zutrittskarten fürs Bundeshaus den Lobbyisten von furrerhugi überlassen.[^7]
+Der Betreiber der Website, succèSuisse, setzt sich nach eigenen Angaben "für eine liberale Wirtschaftsordnung" ein.[^5] Die Organisation ist ein Auftraggeber für die Lobbying-Firma furrerhugi. furrerhugi wiederum ist tätig für zahlreiche Grosskonzerne, mitunter Google, Huawei, und wer hätte es geahnt, Glencore.[^6] Who let the lobbyists out?
 
 Die oberste Anzeige einer Google-Suche zum Thema "Konzernverantwortungsinitiative" behauptet, dass Glencore nicht Schuld trägt an der Luft- und Grundwasserverschmutzung bei der Mine in Peru, der Betreiber dieser Anzeige jedoch pflegt scheinbar gute Beziehungen zu Glencore selbst. Wer diese Anzeige wohl finanziert hat?
 
-Leider ist Lobbying in der Schweiz der Normalfall. So wurde beispielsweise die Transparenzinitiative, welche Parteien dazu verpflichten will, die Herkunft ihrer Spendengelder offen zu legen, ohne Gegenvorschlag vom Bundesrat abgelehnt, mit dem Hauptargument, dass die Transparenzinitiative "kaum mit dem politischen System der Schweiz vereinbar" sei.[^8]
+Wie kommt es, dass die Lobbyisten von succèSuisse in der Politik überhaupt etwas zu sagen haben? Das verdanken wir Ruedi Noser, den wir in den Testemonials oben schon kennengelernt haben. Er hat seine Zutrittskarten fürs Bundeshaus den Lobbyisten von furrerhugi überlassen.[^7]
+
+Leider ist Lobbying in der Schweiz der Normalfall. So wurde die Transparenzinitiative, welche Parteien dazu verpflichten will, die Herkunft ihrer Spendengelder offen zu legen, ohne Gegenvorschlag vom Bundesrat abgelehnt, mit dem Hauptargument, dass die Transparenzinitiative "kaum mit dem politischen System der Schweiz vereinbar" sei.[^8]
 
 ### Ja oder Nein
 
-Sagen wir, wie's ist: Wer gegen die Initative stimmt, stellt Profit vor Menschenrechte und stellt sich auf die Seite von Lobbyisten und Grosskonzerne. Ob aus Angst vor höheren Preisen, Naivität oder reiner Gier ist letztendlich egal, denn für uns Schweizer ist es letztendlich nur ein weiteres politisches Spiel, unsere Privilegein waren nie wirklich auf dem Spiel. Für die Minenarbeiter und Kinder an der Glencore-Mine in Peru, oder die indischen Bauern, welche durch Schweizer Pestizide vergiftet werden, die bei uns schon längst verboten sind, hat diese Initiative massive Folgen und kann in vielen Fällen über Leben und Tod entscheiden.
+Sagen wir, wie's ist: Wer gegen die Initative stimmt, stellt Profit vor Menschenrechte und stellt sich auf die Seite von Lobbyisten und Grosskonzerne. Ob aus Angst vor höheren Preisen, Naivität oder reiner Gier ist letztendlich egal, denn für uns Schweizer ist es nur ein weiteres politisches Spiel, unsere Privilegein standen nie wirklich auf dem Spiel. Für die Minenarbeiter und Kinder an der Glencore-Mine in Peru, oder die indischen Bauern, welche durch Schweizer Pestizide vergiftet werden, die bei uns schon längst verboten sind, hat diese jedoch Initiative massive Folgen und kann in vielen Fällen über Leben und Tod entscheiden.
 
 ## Initiativtext
 
@@ -196,13 +204,13 @@ Die Bundesverfassung wird wie folgt geändert:
 
 **2.** Das Gesetz regelt die Pflichten der Unternehmen mit satzungsmässigem Sitz, Hauptverwaltung oder Hauptniederlassung in der Schweiz nach folgenden Grundsätzen:
 
-_**a.** Die Unternehmen haben auch im Ausland die international anerkannten Menschenrechte sowie die internationalen Umweltstandards zu respektieren; sie haben dafür zu sorgen, dass die international anerkannten Menschenrechte und die internationalen Umweltstandards auch von den durch sie kontrollierten Unternehmen respektiert werden; ob ein Unternehmen ein anderes kontrolliert, bestimmt sich nach den tatsächlichen Verhältnissen; eine Kontrolle kann faktisch auch durch wirtschaftliche Machtausübung erfolgen;_
+**a.** Die Unternehmen haben auch im Ausland die international anerkannten Menschenrechte sowie die internationalen Umweltstandards zu respektieren; sie haben dafür zu sorgen, dass die international anerkannten Menschenrechte und die internationalen Umweltstandards auch von den durch sie kontrollierten Unternehmen respektiert werden; ob ein Unternehmen ein anderes kontrolliert, bestimmt sich nach den tatsächlichen Verhältnissen; eine Kontrolle kann faktisch auch durch wirtschaftliche Machtausübung erfolgen;
 
-_**b.** Die Unternehmen sind zu einer angemessenen Sorgfaltsprüfung verpflichtet; sie sind namentlich verpflichtet, die tatsächlichen und potenziellen Auswirkungen auf die international anerkannten Menschenrechte und die Umwelt zu ermitteln, geeignete Massnahmen zur Verhütung von Verletzungen international anerkannter Menschenrechte und internationaler Umweltstandards zu ergreifen, bestehende Verletzungen zu beenden und Rechenschaft über ergriffene Massnahmen abzulegen; diese Pflichten gelten in Bezug auf kontrollierte Unternehmen sowie auf sämtliche Geschäftsbeziehungen; der Umfang dieser Sorgfaltsprüfungen ist abhängig von den Risiken in den Bereichen Menschenrechte und Umwelt; bei der Regelung der Sorgfaltsprüfungspflicht nimmt der Gesetzgeber Rücksicht auf die Bedürfnisse kleiner und mittlerer Unternehmen, die geringe derartige Risiken aufweisen;_
+**b.** Die Unternehmen sind zu einer angemessenen Sorgfaltsprüfung verpflichtet; sie sind namentlich verpflichtet, die tatsächlichen und potenziellen Auswirkungen auf die international anerkannten Menschenrechte und die Umwelt zu ermitteln, geeignete Massnahmen zur Verhütung von Verletzungen international anerkannter Menschenrechte und internationaler Umweltstandards zu ergreifen, bestehende Verletzungen zu beenden und Rechenschaft über ergriffene Massnahmen abzulegen; diese Pflichten gelten in Bezug auf kontrollierte Unternehmen sowie auf sämtliche Geschäftsbeziehungen; der Umfang dieser Sorgfaltsprüfungen ist abhängig von den Risiken in den Bereichen Menschenrechte und Umwelt; bei der Regelung der Sorgfaltsprüfungspflicht nimmt der Gesetzgeber Rücksicht auf die Bedürfnisse kleiner und mittlerer Unternehmen, die geringe derartige Risiken aufweisen;
 
-_**c.** Die Unternehmen haften auch für den Schaden, den durch sie kontrollierte Unternehmen aufgrund der Verletzung von international anerkannten Menschenrechten oder internationalen Umweltstandards in Ausübung ihrer geschäftlichen Verrichtung verursacht haben; sie haften dann nicht nach dieser Bestimmung, wenn sie beweisen, dass sie alle gebotene Sorgfalt gemäss Buchstabe b angewendet haben, um den Schaden zu verhüten, oder dass der Schaden auch bei Anwendung dieser Sorgfalt eingetreten wäre;_
+**c.** Die Unternehmen haften auch für den Schaden, den durch sie kontrollierte Unternehmen aufgrund der Verletzung von international anerkannten Menschenrechten oder internationalen Umweltstandards in Ausübung ihrer geschäftlichen Verrichtung verursacht haben; sie haften dann nicht nach dieser Bestimmung, wenn sie beweisen, dass sie alle gebotene Sorgfalt gemäss Buchstabe b angewendet haben, um den Schaden zu verhüten, oder dass der Schaden auch bei Anwendung dieser Sorgfalt eingetreten wäre;
 
-_**d.** Die gestützt auf die Grundsätze nach den Buchstaben a–c erlassenen Bestimmungen gelten unabhängig vom durch das internationale Privatrecht bezeichneten Recht._
+**d.** Die gestützt auf die Grundsätze nach den Buchstaben a–c erlassenen Bestimmungen gelten unabhängig vom durch das internationale Privatrecht bezeichneten Recht.
 
 ## Referenzen
 
