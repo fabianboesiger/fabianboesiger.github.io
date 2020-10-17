@@ -15,6 +15,7 @@ html {
     color: var(--text-color);
     font-size: 18px;
     font-family: var(--text-font);
+    word-break: break-word;
 }
 
 body {
