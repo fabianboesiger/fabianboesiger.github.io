@@ -105,7 +105,7 @@ Unternehmen, die in der Lage sind, mit tausenden Zulieferfirmen zu interagieren,
 
 Übersetzen wir das Argument in Klartext. Mit "komplexen kulturellen und wirtschaftlichen Fragen" sind konkret gegen Menschenrechte verstossende Akte gemeint.
 
-Natürlich müssen solche Fragen juristisch geklärt werden, denn der juristische Weg ist zweifellos am effektivsten. Jeder, der gegen den juristischen Weg ist, ist auch gegen eine effektive Bekämpfung von Menschenrechtsverletzungen. Die Initiative ist somit keine Reduktion des Problems, wie behauptet wird, sondern der Versuch einer Lösung auf politischer und juristischer Ebene. Wenn die Initiativgegner zusätzlich nicht-formalistische Lösungen möchten, dann werden sie daran sicher nicht durch die Initiative abgehalten.
+Natürlich müssen solche Fragen juristisch geklärt werden, denn der dieser Weg ist zweifellos am effektivsten. Jeder, der gegen den juristischen Weg ist, ist auch gegen eine effektive Bekämpfung von Menschenrechtsverletzungen. Die Initiative ist somit keine Reduktion des Problems, wie behauptet wird, sondern der Versuch einer Lösung auf politischer Ebene. Wenn die Initiativgegner zusätzlich nicht-formalistische Lösungen möchten, dann werden sie daran sicher nicht durch die Initiative abgehalten.
 
 Doch selbst die Optimisten unter uns sollten mittlerweile begriffen haben, dass systematische Probleme nicht auf individueller Ebene gelöst werden können. Systematische Probleme verlangen nach systematischen Lösungen.
 
@@ -123,7 +123,7 @@ Die Nationalrätin Schneider-Schneiter hat hier nur teilweise Recht, denn die In
 > Die Initiative macht mit einer Beweislastumkehr unsere Schweizer Unternehmen erpressbar, weil allein schon die medial inszenierte Klage unseren Unternehmen Schaden zufügen dürfte.
 > *Barbara Steinemann, Nationalrätin SVP*
 
-Eine Beweislastumkehr ist nicht unbedingt etwas Negatives und wird üblicherweise eingesetzt, wenn der Kläger nur schwierig einen Beweis erbringen kann. Genau so verhält es sich auch in diesem Fall, also ist eine Beweislastumkehr durchaus angebracht. Die Opfer von Menschenrechtsverletzung haben kaum die Mittel, juristisch gegen Konzerne wie Glencore oder Nestlé vorzugehen.
+Eine Beweislastumkehr ist nicht unbedingt etwas Negatives und wird üblicherweise eingesetzt, wenn der Kläger nur schwierig einen Beweis erbringen kann. Genau so verhält es sich auch in diesem Fall, also ist eine Beweislastumkehr durchaus angebracht. Die Opfer von Menschenrechtsverletzungen haben kaum die Mittel, juristisch gegen Konzerne wie Glencore oder Nestlé vorzugehen.
 
 > Betroffen sein kann jedes Unternehmen, auch ein kleines, denn auch dieses braucht Vorprodukte, die nicht in der Schweiz produziert werden.
 > *Regine Sauter, Nationalrätin FDP*
