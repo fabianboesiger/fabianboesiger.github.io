@@ -200,8 +200,6 @@ Die Volksinitiative lautet[^1]:
 
 Die Bundesverfassung wird wie folgt geändert:
 
-### Art. 101a - Verantwortung von Unternehmen
-
 **1.** Der Bund trifft Massnahmen zur Stärkung der Respektierung der Menschenrechte und der Umwelt durch die Wirtschaft.
 
 **2.** Das Gesetz regelt die Pflichten der Unternehmen mit satzungsmässigem Sitz, Hauptverwaltung oder Hauptniederlassung in der Schweiz nach folgenden Grundsätzen:
