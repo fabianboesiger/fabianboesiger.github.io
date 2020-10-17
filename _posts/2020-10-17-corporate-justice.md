@@ -35,13 +35,13 @@ Die Gegenargumente wurden gesammelt von der Website der Initiativgegner.[^2]
 
 Wie die Initiative kontraproduktiv ist, wird nicht konkret erläutert.
 
-Das Parlament hat ein Gegenvorschlag erarbeitet, welcher bei einer Ablehnung der Initiative automatisch in Kraft tritt. Der wesentliche Unterschied zur ursprünlichen Initiative ist, dass keine Konzernhaftung der Schweizer Unternehmen bei Fehlverhalten von Tochterunternehmen oder wirtschaftlich abhängigen Zuliefern besteht.
+Das Parlament hat ein Gegenvorschlag erarbeitet, welcher bei einer Ablehnung der Initiative automatisch in Kraft tritt. Der wesentliche Unterschied zur ursprünglichen Initiative ist, dass keine Konzernhaftung der Schweizer Unternehmen bei Fehlverhalten von Tochterunternehmen oder wirtschaftlich abhängigen Zuliefern besteht.
 
-Die Initiativgegner suggerieren uns deshalb, dass eine Ablehnung der Initiative letztendlich besser wäre, denn in diesem Fall fällt die Haftung für wirtschaftlich abhängigen Unternehmen aus, welche die Wirtschaft angeblich zu sehr belasten würde.
+Die Initiativgegner suggerieren deshalb, dass eine Ablehnung der Initiative letztendlich besser wäre, denn in diesem Fall fällt die "extreme" Haftung für wirtschaftlich abhängige Unternehmen aus.
 
-Das Fehlen dieser Haftung macht das neue Gesetz jedoch effektiv unwirksam. Offensichtlich begehen Schweizer Unternehmen höchst selten im eigenen Namen solche Menschenrechtsverletzungen, sondern überlassen die Drecksarbeit den ausländischen Unternehmen. Ein konkretes Beispiel dazu werden wir später noch sehen.
+Das Fehlen dieser Haftung macht das neue Gesetz jedoch effektiv unwirksam. Offensichtlich begehen Schweizer Unternehmen selten im eigenen Namen solche Menschenrechtsverletzungen, sondern überlassen die Drecksarbeit den ausländischen Unternehmen. Ein konkretes Beispiel dazu werden wir später noch sehen.
 
-Doch auch wenn die Menschenrechtsverletzungen nicht direkt durch Schweizer Konzerne begangen werden, macht sie das nicht unschuldig. Auf individueller Ebene haben wir das schon längst begriffen: Wenn jemand ein Auftragsmörder anheuert, wer ist dann schuldig? Offensichtlich sowohl der Mörder selbst, als auch der Auftraggeber. Sobald es aber um Konzerne geht, lassen wir den Auftraggeber frei laufen.
+Doch auch wenn die Menschenrechtsverletzungen nicht direkt durch Schweizer Konzerne begangen werden, macht sie das nicht unschuldig. Auf individueller Ebene haben wir das schon längst begriffen: Wenn jemand einen Auftragsmörder anheuert, wer ist dann schuldig? Offensichtlich sowohl der Mörder selbst, als auch der Auftraggeber. Sobald es aber um Konzerne geht, lassen wir den Auftraggeber frei laufen.
 
 ### Behindert Entwicklung und Fortschritt
 
@@ -50,12 +50,14 @@ Doch auch wenn die Menschenrechtsverletzungen nicht direkt durch Schweizer Konze
 
 Offensichtlich rechtfertigt das Fehlverhalten anderer Unternehmen nicht das Fehlverhalten unserer eigenen Unternehmen, dieses Argument ist ein logischer Fehlschluss.
 
+Ausserdem ist die Darstellung der Einhaltung von Menschenrechten als "hohe schweizerische Standards" höchst fragwürdig. Geschätzte Intiativgegner, wenn die Einhaltung von Menschenrechten als Schweizer Standard gelten soll, warum stellt ihr euch dann gegen eine Initiative, die genau das zu erreichen versucht?
+
 ### Kein Schweizer Alleingang
 
 > Die Initiative will unser Rechtssystem auf den Kopf stellen und eine rechtsstaatlich fragwürdige Beweislastumkehr einführen, wie sie kein anderes Land kennt. Mit dieser Systemänderung sind Schweizer Unternehmen zusätzlich auch verantwortlich für das Handeln von rechtlich eigenständigen Lieferanten. Sie haften – sogar ohne eigenes Verschulden – für «wirtschaftlich kontrollierte» Lieferanten, sofern sie nicht beweisen können, dass sie ihre Lieferanten lückenlos überwachen.
 > *Das Argument der Gegner*
 
-Ironischerweise haben bei dieser Initiative gerade die Rechtspolitiker am meisten Angst, ohne Rücksicht auf die Politik anderer Länder etwas zu tun. Geschätzte SVP, warum ist Selbstbestimmung auf einmal nicht mehr wichtig, sobald es um den Profit geht? Warum geht die SVP bei der Begrenzungsinitative ohne Weiteres das Risiko einer Kündigung der bilateralen Verträge ein, sorgt sich aber bei dieser Initiative um den Schweizer Wirtschaftsstandort?
+Ironischerweise haben bei dieser Initiative gerade die Rechtspolitiker am meisten Angst, ohne Rücksicht auf die Politik anderer Länder etwas zu tun. Geschätzte SVP, warum ist Selbstbestimmung auf einmal nicht mehr wichtig, sobald es um den Profit geht? Warum geht die SVP bei der Begrenzungsinitative ohne Weiteres das Risiko einer Kündigung der bilateralen Verträge ein, sorgt sich aber bei dieser Initiative um die Schweiz als Wirtschaftsstandort?
 
 Die Schweiz ist sehr wohl in der Lage, selbstständig Politik zu machen, mit einem guten Beispiel voraus zu schreiten und für die Menschenrechte einzustehen. Gerade für die Patrioten bei der SVP sollte dies selbstverständlich sein.
 
@@ -79,7 +81,7 @@ Natürlich entsteht ein Zwang zur Überwachung von Zuleferen, *eine Überwachung
 
 Doch der Initiativtext sagt etwas anderes:
 
-> Das Gesetz regelt die Pflichten der Unternehmen **mit satzungsmässigem Sitz, Hauptverwaltung oder Hauptniederlassung in der Schweiz** nach folgenden Grundsätzen: [Folgend Punkte a bis d]
+> Das Gesetz regelt die Pflichten der Unternehmen **mit satzungsmässigem Sitz, Hauptverwaltung oder Hauptniederlassung in der Schweiz** nach folgenden Grundsätzen: [...]
 > *Initiativtext*
 
 Das Schweizer Recht gilt also nach wie vor nur für Schweizer Gerichte. Weiterhin gilt:
@@ -94,14 +96,14 @@ Schweizer Gerichte stellen sich auch nach einer Annahme der Initiative nicht üb
 > Die Initiative baut auf illusorischen Vorstellungen und weckt falsche Erwartungen. So sind die globalen Lieferketten mit tausenden Zulieferfirmen hochkomplex und liegen meist ausserhalb des Einflussbereichs der Auftraggeber. Eine lückenlose Überwachung der Lieferkette ist in der Praxis unmöglich. Genauso unerfüllbar sind die Erwartungen an internationale Rechtshilfe und die Beweisaufnahmen im Ausland.
 > *Das Argument der Gegner*
 
-Unternehmen, die in der Lage sind mit tausenden Zulieferfirmen zu interagieren, sind auch in der Lage, diese nach potentiellen Menschenrechtsverletzungen zu überwachen.
+Unternehmen, die in der Lage sind, mit tausenden Zulieferfirmen zu interagieren, sind auch in der Lage, diese nach potentiellen Menschenrechtsverletzungen zu überwachen.
 
 ### Zerstört / gefährdet sinnvolle Kooperation mit NGOs
 
 > Die Initiative führt in eine Sackgasse, da sie komplexe kulturelle und wirtschaftliche Fragen in Entwicklungsländern auf rein formalistische und juristische Fragen reduziert. Diese einseitige Verrechtlichung erschwert eine partnerschaftliche Kooperation von Unternehmen, Staaten und NGOs, die präventiv wirkt und nach Lösungen sucht. Denn drohen Klagen, so enden Transparenz und Dialog, weil das gegenseitige Misstrauen wächst.
 > *Das Argument der Gegner*
 
-Übersetzen wir das Argument in Klartext. Mit "komplexen kulturellen und wirtschaftlichen Fragen" sind konkret gegen Menschenrechte verstossende Akte wie Kinderarbeit oder Sklaverei gemeint.
+Übersetzen wir das Argument in Klartext. Mit "komplexen kulturellen und wirtschaftlichen Fragen" sind konkret gegen Menschenrechte verstossende Akte gemeint.
 
 Natürlich müssen solche Fragen juristisch geklärt werden, denn der juristische Weg ist zweifellos am effektivsten. Jeder, der gegen den juristischen Weg ist, ist auch gegen eine effektive Bekämpfung von Menschenrechtsverletzungen. Die Initiative ist somit keine Reduktion des Problems, wie behauptet wird, sondern der Versuch einer Lösung auf politischer und juristischer Ebene. Wenn die Initiativgegner zusätzlich nicht-formalistische Lösungen möchten, dann werden sie daran sicher nicht durch die Initiative abgehalten.
 
@@ -114,7 +116,7 @@ Es wird von Kooperation gesprochen, obwohl Konzerne noch nie kooperativ waren. I
 Interessanterweise werden auf der Website der Initiativgegner[^2] keine unterstützende Organisationen oder Vereine beim Namen genant. Deshalb müssen uns mit den Testemonials einzelner Personen begnügen.
 
 > Die UVI ist ein direkter Angriff auf unsere Entwicklungshilfe. Sie verhindert die Zusammenarbeit mit lokalen Unternehmen der ärmsten Länder dieser Welt.
-> *Elisabeth Schneider-Schneiter, Nationalrätin CVP, Präsidentin Handelskammer beider Basel*
+> *Elisabeth Schneider-Schneiter, Nationalrätin CVP*
 
 Die Nationalrätin Schneider-Schneiter hat hier nur teilweise Recht, denn die Initiative verhindert le­dig­lich die Zusammenarbeit mit lokalen Unternehmen, *welche gegen die Menschenrechte verstossen*. Die Zusammenarbeit mit Unternehmen, die gegen Menschenrechte vertossen, geht ziemlich sicher nicht unter die Kategorie Entwicklungshilfe.
 
@@ -124,21 +126,21 @@ Die Nationalrätin Schneider-Schneiter hat hier nur teilweise Recht, denn die In
 Eine Beweislastumkehr ist nicht unbedingt etwas Negatives und wird üblicherweise eingesetzt, wenn der Kläger nur schwierig einen Beweis erbringen kann. Genau so verhält es sich auch in diesem Fall, also ist eine Beweislastumkehr durchaus angebracht. Die Opfer von Menschenrechtsverletzung haben kaum die Mittel, juristisch gegen Konzerne wie Glencore oder Nestlé vorzugehen.
 
 > Betroffen sein kann jedes Unternehmen, auch ein kleines, denn auch dieses braucht Vorprodukte, die nicht in der Schweiz produziert werden.
-> *Regine Sauter, Nationalrätin FDP, Direktorin Zürcher Handelskammer*
+> *Regine Sauter, Nationalrätin FDP*
 
 Zu diesem Thema erwähnt der Initiativtext explizit:
 
 > [...] Bei der Regelung der Sorgfaltsprüfungspflicht nimmt der Gesetzgeber **Rücksicht auf die Bedürfnisse kleiner und mittlerer Unternehmen**, die geringe derartige Risiken aufweisen.[^1]
 > *Initiativtext*
 
-Doch selbst wenn jedes Unternehmen gleichermassen betroffen wäre, warum wäre das nicht gut so? Sind Menschenrechtsverletzungen okay, wenn sie von Kleinunternehmen mitverursacht werden? Dieser Appell an KMUs hat kenen anderen Zweck, als Kleinunternehmer*innen zu einer Ablehnung der Initiative zu bewegen.
+Doch selbst wenn jedes Unternehmen gleichermassen betroffen wäre, warum wäre das nicht gut so? Sind Menschenrechtsverletzungen okay, wenn sie von Kleinunternehmen mitverursacht werden? Dieser Appell an KMUs hat kenen anderen Zweck, als Kleinunternehmer zu einer Ablehnung der Initiative zu bewegen.
 
 >Die extreme Haftung erhöht das Risiko für Unternehmen, die von der Schweiz aus tätig sind.
-> *Ruedi Noser, Ständerat FDP, Vorstand Zürcher Handelskammer, Verwaltungsrat Credit Suisse Asset Management AG*
+> *Ruedi Noser, Ständerat FDP*
 
 Ja.
 
-Der ganze Punkt der Initiative ist es, dass Unternehmen, *welche für Menschenrechtsverstösse verantworlich sind*, für solche haften.
+Das Risiko wird erhöht für Unternehmen, *welche Menschenrechtsverletzungen begehen*.
 
 Die Argumente der Gegner sind ein Lückentext, und das Wort, welches ihnen nie einfällt, ist *Menschenrechte*. Offensichtlich haben sie dieses Wort bisher selten in den Mund genommen.
 
@@ -151,7 +153,7 @@ Die Argumente der Gegner sind ein Lückentext, und das Wort, welches ihnen nie e
 Es gibt zwei mögliche Auskommen bei einer Annahme der Initiative:
 
 1. Die Initiative führt zu gewissen Profiteinbussen, doch die Schweizer Wirtschaft verkraftet es.
-2. Die Initiative führt zu derart grossen Profiteinbussen, dass die gesamte Schweizerische Wirtschaft ins wanken kommt.
+2. Die Initiative führt zu derart grossen Profiteinbussen, dass die gesamte Schweizerische Wirtschaft gefährdet ist.
 
 Das Ideal besteht natürlich im ersten Fall, eine schmale Reduktion der Profitrate einiger Grosskonzerne gegen die Einhaltung der Menschenrechte.
 
@@ -168,7 +170,7 @@ Einige scheinen den Profit sehrwohl den Menschenrechten überzuordnen. Ein Beisp
 
 Bei der Recherche fällt uns an erster Stelle einer Google-Suche nach dem Begriff "Konzernverantwortungsinitiative" folgende Anzeige auf.
 
-![Guter Punkt Werbung auf Google-Suche.](/public/media/guter-punkt-advertisement.PNG)
+![Guter Punkt Werbung auf Google-Suche.](/public/media/guter-punkt.PNG)
 *Anzeige der Initiativgegner auf Google.*
 
 Die Anzeige bietet einen angeblich neutralen Faktencheck zur Initative. Sehen wir also, was diese Website über den Glencore-Zwischenfall zu sagen hat.
@@ -176,7 +178,7 @@ Die Anzeige bietet einen angeblich neutralen Faktencheck zur Initative. Sehen wi
 > Der Verein Konzernverantwortungsinitiative prangert auf seiner Website einen vermeintlichen Skandal rund um den Schweizer Rohstoffhändler Glencore an. [...] Dass Luft und Wasser durch die Mine belastet sind, ist erwiesen, nicht zuletzt durch entsprechende Berichte auf BBC und ARD. Allerdings unterschlagen die Initianten den historischen Hintergrund dieser Geschichte. Die Mine gehört seit rund hundert Jahren dem peruanischen Staat und wurde von unterschiedlichen Unternehmen betrieben. Erst 2017 – also vor zwei Jahren – übernahm Glencore die Mehrheit. [...] Und ein Unternehmen für Schäden verantwortlich zu machen, die jahrzehntelang von anderen Parteien verursacht wurden, ist unfair – und zeigt nicht zuletzt eine der Gefahren der Konzern-Verantwortungs-Initiative auf.[^4]
 > *succèSuisse*
 
-Zu dieser angeblichen Rechtfertigung: Bereits vor 2017 hatte Glencore Anteile an der Mine, war also ganz und gar nicht unschuldig. Wer vorher die Mehreit der Anteile an der Mine hatte, ist letztendlich egal, Glencore wusste genau um den Zustand der Mine, doch entschied trotz Menschenrechtsverletzungen, sich am Geschäft zu beteiligen. Genau für solche Fälle ist es wichtig, dass Schweizer Unternehmen auch haften, wenn sie nicht direkt die Akteure sind, sondern sich "nur" finanziell beteiligen. Selbst bei einer Ablehnung der Initiative und dem Inkrafttreten des Gegenvorschlags kann Glencore weiter solche Geschäfte treiben.
+Zu dieser angeblichen Rechtfertigung: Bereits vor 2017 hatte Glencore Anteile an der Mine, war also ganz und gar nicht unschuldig. Wer vorher die Mehreit der Anteile an der Mine hatte, ist letztendlich egal, denn Glencore wusste genau um den Zustand der Mine, doch entschied trotz Menschenrechtsverletzungen, sich am Geschäft zu beteiligen. Genau für solche Fälle ist es wichtig, dass Schweizer Unternehmen auch haften, wenn sie nicht direkt die Akteure sind, sondern sich "nur" finanziell beteiligen. Bei einer Ablehnung der Initiative und dem Inkrafttreten des Gegenvorschlags kann Glencore weiter solche Geschäfte treiben.
 
 Der Betreiber der Website, succèSuisse, setzt sich nach eigenen Angaben "für eine liberale Wirtschaftsordnung" ein.[^5] Die Organisation ist ein Auftraggeber für die Lobbying-Firma furrerhugi. furrerhugi wiederum ist tätig für zahlreiche Grosskonzerne, mitunter Google, Huawei, und wer hätte es geahnt, Glencore.[^6]
 
@@ -188,7 +190,7 @@ Leider ist Lobbying in der Schweiz der Normalfall. So wurde die Transparenziniti
 
 ### Ja oder Nein
 
-Sagen wir, wie's ist: Wer gegen die Initative stimmt, stellt Profit vor Menschenrechte und stellt sich auf die Seite von Lobbyisten und Grosskonzerne. Ob aus Angst vor höheren Preisen, Naivität oder reiner Gier ist letztendlich egal, denn für uns Schweizer ist es nur ein weiteres politisches Spiel, unsere Privilegein standen nie wirklich auf dem Spiel. Für die Minenarbeiter und Kinder an der Glencore-Mine in Peru, oder die indischen Bauern, welche durch Schweizer Pestizide vergiftet werden, die bei uns schon längst verboten sind, hat diese jedoch Initiative massive Folgen und kann in vielen Fällen über Leben und Tod entscheiden.
+Sagen wir, wie's ist: Wer gegen die Initative stimmt, stellt Profit vor Menschenrechte und stellt sich auf die Seite von Lobbyisten und Grosskonzerne. Ob aus Angst vor höheren Preisen, Naivität oder reiner Gier ist letztendlich egal, denn für uns Schweizer ist es nur ein weiteres politisches Spiel, unsere Privilegien standen nie wirklich auf dem Spiel. Für die Minenarbeiter und Kinder an der Glencore-Mine in Peru, oder die indischen Bauern, welche durch Schweizer Pestizide vergiftet werden, die bei uns schon längst verboten sind, hat diese Initiative jedoch massive Folgen und kann in vielen Fällen über Leben und Tod entscheiden.
 
 Deshalb *Ja* zur Volksinitiative "Für verantwortungsvolle Unternehmen" am 29. November 2020.
 
