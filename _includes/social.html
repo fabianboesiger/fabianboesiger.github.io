@@ -1,0 +1,8 @@
+{% if page.url %}
+<div class="share">
+    <p>Teilen</p>
+    <a href="whatsapp://send?text=fabianboesiger.github.io{{ page.url }}" target="_blank"><img src="/public/social/whatsapp.svg"></img></a>
+    <a href="http://twitter.com/share?text={{ page.title }}&url=fabianboesiger.github.io{{ page.url }}" target="_blank"><img src="/public/social/twitter.svg"></img></a>
+</div>
+{% endif %}
+
