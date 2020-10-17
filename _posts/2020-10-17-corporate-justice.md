@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ja zur Einhaltung der Menschenrechte
+title: Ja zur Volksinitiative "Für verantwortungsvolle Unternehmen"
 date: 2020-10-17 10:00:00 +0200
 categories: Politik
 tags: [Schweiz, Initiative, Menschenrechte]
