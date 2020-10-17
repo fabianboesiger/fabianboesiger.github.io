@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ja zur Volksinitiative "Für verantwortungsvolle Unternehmen"
+title: Ja zu verantwortungsvollen Unternehmen
 date: 2020-10-17 10:00:00 +0200
 categories: Politik
 tags: [Schweiz, Initiative, Menschenrechte]
@@ -8,7 +8,7 @@ tags: [Schweiz, Initiative, Menschenrechte]
 
 ## Die Initiative in Kürze
 
-Die Initiative verlangt, dass Unternehmen mit Sitz in der Schweiz die international anerkannten Menschenrechte und Umweltstandards auch im Ausland respektieren müssen.[^1]
+Die Initiative "Für verantwortungsvolle Unternehmen" verlangt, dass Unternehmen mit Sitz in der Schweiz die international anerkannten Menschenrechte und Umweltstandards auch im Ausland respektieren müssen.[^1]
 
 ### Betroffene
 
