@@ -113,7 +113,7 @@ Es wird von Kooperation gesprochen, obwohl Konzerne noch nie kooperativ waren. I
 
 ## Testimonials
 
-Interessanterweise werden auf der Website der Initiativgegner[^2] keine unterstützende Organisationen oder Vereine beim Namen genant. Deshalb müssen uns mit den Testemonials einzelner Personen begnügen.
+Interessanterweise werden auf der Website der Initiativgegner[^2] keine unterstützende Organisationen oder Vereine beim Namen genant. Deshalb müssen uns mit den Testimonials einzelner Personen begnügen.
 
 > Die UVI ist ein direkter Angriff auf unsere Entwicklungshilfe. Sie verhindert die Zusammenarbeit mit lokalen Unternehmen der ärmsten Länder dieser Welt.
 > *Elisabeth Schneider-Schneiter, Nationalrätin CVP*
@@ -184,7 +184,7 @@ Der Betreiber der Website, succèSuisse, setzt sich nach eigenen Angaben "für e
 
 **Im Klartext: Die oberste Anzeige einer Google-Suche zum Thema "Konzernverantwortungsinitiative" behauptet, dass Glencore nicht Schuld trägt an der Luft- und Grundwasserverschmutzung bei der Mine in Peru, der Betreiber dieser Anzeige jedoch pflegt scheinbar gute Beziehungen zu Glencore selbst. Wer diese Anzeige wohl finanziert hat?**
 
-Wie kommt es, dass die Lobbyisten von succèSuisse in der Politik überhaupt etwas zu sagen haben? Das verdanken wir Ruedi Noser, den wir in den Testemonials oben schon kennengelernt haben. Er hat seine Zutrittskarten fürs Bundeshaus den Lobbyisten von furrerhugi überlassen.[^7]
+Wie kommt es, dass die Lobbyisten von succèSuisse in der Politik überhaupt etwas zu sagen haben? Das verdanken wir Ruedi Noser, den wir in den Testimonials oben schon kennengelernt haben. Er hat seine Zutrittskarten fürs Bundeshaus den Lobbyisten von furrerhugi überlassen.[^7]
 
 Leider ist Lobbying in der Schweiz der Normalfall. So wurde die Transparenzinitiative, welche Parteien dazu verpflichten will, die Herkunft ihrer Spendengelder offen zu legen, ohne Gegenvorschlag vom Bundesrat abgelehnt, mit dem Hauptargument, dass die Transparenzinitiative "kaum mit dem politischen System der Schweiz vereinbar" sei.[^8]
 
@@ -196,7 +196,7 @@ Deshalb *Ja* zur Volksinitiative "Für verantwortungsvolle Unternehmen" am 29. N
 
 ## Initiativtext
 
-Die Volksinitiative lautet[^1]:
+Die Volksinitiative lautet:[^1]
 
 Die Bundesverfassung wird wie folgt geändert:
 
