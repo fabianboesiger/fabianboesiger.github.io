@@ -186,7 +186,7 @@ Der Betreiber der Website, succèSuisse, setzt sich nach eigenen Angaben "für e
 
 **Im Klartext: Die oberste Anzeige einer Google-Suche zum Thema "Konzernverantwortungsinitiative" behauptet, dass Glencore nicht Schuld trägt an der Luft- und Grundwasserverschmutzung bei der Mine in Peru, der Betreiber dieser Anzeige jedoch pflegt scheinbar gute Beziehungen zu Glencore selbst. Wer diese Anzeige wohl finanziert hat?**
 
-Wie kommt es, dass die Lobbyisten von succèSuisse in der Politik überhaupt etwas zu sagen haben? Das verdanken wir Ruedi Noser, den wir in den Testimonials oben schon kennengelernt haben. Er hat seine Zutrittskarten fürs Bundeshaus den Lobbyisten von furrerhugi überlassen.[^7]
+Wie kommt es, dass furrerhugi in der Politik überhaupt etwas zu sagen hat? Das verdanken wir Ruedi Noser, den wir in den Testimonials oben schon kennengelernt haben. Er hat seine Zutrittskarten fürs Bundeshaus den Lobbyisten von furrerhugi überlassen.[^7]
 
 Leider ist Lobbying in der Schweiz der Normalfall. So wurde die Transparenzinitiative, welche Parteien dazu verpflichten will, die Herkunft ihrer Spendengelder offen zu legen, ohne Gegenvorschlag vom Bundesrat abgelehnt, mit dem Hauptargument, dass die Transparenzinitiative "kaum mit dem politischen System der Schweiz vereinbar" sei.[^8]
 
