@@ -61,6 +61,8 @@ Ironischerweise haben bei dieser Initiative gerade die Rechtspolitiker am meiste
 
 Die Schweiz ist sehr wohl in der Lage, selbstständig Politik zu machen, mit einem guten Beispiel voraus zu schreiten und für die Menschenrechte einzustehen. Gerade für die Patrioten bei der SVP sollte dies selbstverständlich sein.
 
+Ausserdem kann nicht wirklich von einem Schweizer Alleingang gesprochen werden. In Frankreich beispielsweise müssen Unternehmen mit über 5000 Angestellten zeigen, wie sie Umweltverschmutzung, Menschenrechtsverletzungen und Korruption in der Lieferkette vorbeugen. Bei Verstössen droht eine Busse bis 10 Mio. Euro. Auch den Niederlanden tritt ein Gesetz in Kraft, wonach jedes Unternehmen, das Waren oder Dienstleistungen in die Niederlande verkauft, zeigen muss, ob in seiner Lieferkette Kinderarbeit vorkommt. Bei Verstössen gegen dieses Gesetz drohen Bussen oder Gefängnis. Auch in der EU wird derzeit ein ähnliches Gesetz geplant.[^9]
+
 ### Keine Experimente mit Schweizer Unternehmen
 
 > Die Sonderregulierung stellt die Schweiz ins Abseits. Schweizer Unternehmen sind doppelt betroffen: Einerseits werden sie im internationalen Wettbewerb benachteiligt und tragen ständig das Risiko erpresserischer Klagen. Andererseits schafft das Lieferkettengesetz neue bürokratische Auflagen und zwingt zur Überwachung von Kunden und Zulieferern.
@@ -229,3 +231,5 @@ Die Bundesverfassung wird wie folgt geändert:
 [^7]: [Ständerat. (2020). Register der Zutrittsberechtigten.](https://www.parlament.ch/centers/documents/de/zutrittsberechtigte-sr.pdf)
 
 [^8]: [SRF. (2018). «Kaum mit politischem System der Schweiz vereinbar».](https://www.srf.ch/news/schweiz/nein-zu-transparenz-initiative-kaum-mit-politischem-system-der-schweiz-vereinbar)
+
+[^9]: [SRF. (2020). Die Schweiz ist kein Sonderfall.](https://www.srf.ch/news/abstimmung-29-november-2020/konzernverantwortung/menschenrechte-und-wirtschaft-die-schweiz-ist-kein-sonderfall)
