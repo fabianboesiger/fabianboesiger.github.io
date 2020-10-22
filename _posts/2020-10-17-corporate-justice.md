@@ -61,7 +61,7 @@ Ironischerweise haben bei dieser Initiative gerade die Rechtspolitiker am meiste
 
 Die Schweiz ist sehr wohl in der Lage, selbstständig Politik zu machen, mit einem guten Beispiel voraus zu schreiten und für die Menschenrechte einzustehen. Gerade für die Patrioten bei der SVP sollte dies selbstverständlich sein.
 
-Ausserdem kann nicht wirklich von einem Schweizer Alleingang gesprochen werden. In Frankreich beispielsweise müssen Unternehmen mit über 5000 Angestellten zeigen, wie sie Umweltverschmutzung, Menschenrechtsverletzungen und Korruption in der Lieferkette vorbeugen. Bei Verstössen droht eine Busse bis 10 Mio. Euro. Auch den Niederlanden tritt ein Gesetz in Kraft, wonach jedes Unternehmen, das Waren oder Dienstleistungen in die Niederlande verkauft, zeigen muss, ob in seiner Lieferkette Kinderarbeit vorkommt. Bei Verstössen gegen dieses Gesetz drohen Bussen oder Gefängnis. Auch in der EU wird derzeit ein ähnliches Gesetz geplant.[^9]
+Ausserdem kann nicht wirklich von einem Schweizer Alleingang gesprochen werden. In Frankreich beispielsweise müssen Unternehmen mit über 5000 Angestellten zeigen, wie sie Umweltverschmutzung, Menschenrechtsverletzungen und Korruption in der Lieferkette vorbeugen. Bei Verstössen droht eine Busse bis 10 Mio. Euro. In den Niederlanden tritt ein Gesetz in Kraft, wonach jedes Unternehmen, das Waren oder Dienstleistungen in die Niederlande verkauft, zeigen muss, ob in seiner Lieferkette Kinderarbeit vorkommt. Bei Verstössen gegen dieses Gesetz drohen Bussen oder Gefängnis. Auch in der EU ist derzeit ein ähnliches Gesetz zum verbesserten Schutz der Menschenrechte geplant.[^9]
 
 ### Keine Experimente mit Schweizer Unternehmen
 
