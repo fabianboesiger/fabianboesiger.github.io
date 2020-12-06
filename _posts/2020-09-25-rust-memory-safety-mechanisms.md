@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rust Memory Safety Mechanisms and a Bit of C
-date: 2020-09-25 13:00:00 +0200
+date: 2020-09-25 13:00:00 +0100
 categories: Programmieren
 tags: [Memory Safety, Rust, C]
 ---
