@@ -92,12 +92,13 @@ main {
 }
 
 article {
-    margin-top: 64px;
-    margin-bottom: 64px;
+    margin-top: 32px;
+    margin-bottom: 32px;
 }
 
 article h2 {
-    margin: 0;
+    margin-top: 8px;
+    margin-bottom: 8px;
 }
 
 span.tag {
