@@ -51,7 +51,6 @@ header, footer {
     padding: 16px;
     z-index: 2000;
     background: var(--style-color);
-    color: var(--background-color);
 }
 
 img.social {
@@ -99,6 +98,7 @@ article h2 {
 }
 
 span.tag {
+    display: inline-block;
     font-style: italic;
     background: #eee;
     padding-left: 6px;
@@ -263,6 +263,5 @@ code {
 .highlight .vi
 {
     color: darkmagenta;
-    font-style: italic;
     font-weight: bold;
 }
