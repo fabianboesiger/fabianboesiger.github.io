@@ -64,8 +64,10 @@ header, footer {
 }
 
 img.social {
-    width: 48px;
-    height: 48px;
+    width: 32px;
+    height: 32px;
+    margin-left: 8px;
+    margin-right: 8px;
     filter: invert(100%);
 }
 
@@ -104,7 +106,8 @@ article {
 }
 
 article h2 {
-    margin: 0;
+    margin-top: 8px;
+    margin-bottom: 8px;
 }
 
 span.tag {
@@ -114,6 +117,8 @@ span.tag {
     padding-left: 6px;
     padding-right: 6px;
     border-radius: 16px;
+    margin-top: 1px;
+    margin-bottom: 1px;
 }
 
 span.category {
