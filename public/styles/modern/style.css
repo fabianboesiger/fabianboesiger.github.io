@@ -43,6 +43,15 @@ table th {
     font-family: "Josefin Sans";
 }
 
+img.pp {
+    width: 128px;
+    height: 128px;
+    margin: 1em;
+    margin-left: calc(50% - 64px);
+    margin-right: calc(50% - 64px);
+    border-radius: 50%;
+}
+
 /* HEADER, FOOTER */
 
 header, footer {
@@ -51,6 +60,7 @@ header, footer {
     padding: 16px;
     z-index: 2000;
     background: var(--style-color);
+    color: var(--background-color);
 }
 
 img.social {
