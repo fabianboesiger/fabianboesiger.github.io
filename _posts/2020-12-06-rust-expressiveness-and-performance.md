@@ -25,7 +25,7 @@ We have two pointers to an integer `a` and `b`. In the function body, we add the
 
 If we compile the code snippet above using `gcc 10.2 -O3`, we get the following assembly output:
 
-```assembly
+```nasm
 movl    (%rsi), %eax
 addl    (%rdi), %eax
 movl    %eax, (%rdi)
@@ -34,7 +34,7 @@ movl    %eax, (%rdi)
 ret
 ```
 
-In the first line, we load `b` into the register `%eax`. Next, we load and add to `%eax`. Nothing suprising until now, but the next step is interesting. Instead of simply loading and adding `b` again as we might expect, We proceed to store `%eax` back into `a`. Then we load `b` again and add it to `%eax`. Finally we store `%eax` back into `a` and we are done.
+In the first line, we load `b` into the register `%eax`. Next, we load and add `a` to `%eax`. Nothing suprising until now, but the next step is interesting. Instead of simply loading and adding `b` again as we might expect, We proceed to store `%eax` back into `a`. Then we load `b` again and add it to `%eax`. Finally we store `%eax` back into `a` and we are done.
 
 Our final assemply program which is compiled from C requires 5 load and stores, even with the `-O3` optimization flag enabled. Now let's look at the following Rust program:
 
@@ -47,7 +47,7 @@ pub fn add_two_times(a: &mut i64, b: &i64) {
 
 If we compile the program using `rustc 1.47.0 -C opt-level=3`, we get:
 
-```assembly
+```nasm
 movl    (%rsi), %eax
 addl    %eax, %eax
 addl    %eax, (%rdi)

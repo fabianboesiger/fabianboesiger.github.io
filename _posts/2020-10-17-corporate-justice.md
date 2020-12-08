@@ -168,7 +168,7 @@ Der einzige wirkliche Grund, die Initiative abzulehen, ist eine Überordnung von
 Einige scheinen den Profit sehrwohl den Menschenrechten überzuordnen. Ein Beispiel finden wir auf der Webseite der Initianten:
 
 > In Cerro de Pasco (Peru) sind Luft und Wasser mit Schwermetallen vergiftet. Daran schuld: Eine riesige Mine, die von Glencore kontrolliert wird. Gerade für die Kinder haben die Bleivergiftungen dramatische Folgen: Blutarmut, Behinderungen, Lähmungen. [...] Die Mine produziert zu den niedrigsten Kosten der ganzen Branche. Den Preis dafür zahlen die Menschen mit ihrer Gesundheit. Die Mine führt zu einer extremen Umweltverschmutzung durch Blei, Arsen und viele weitere Schwer­metalle. Alles ist vergiftet: Die Luft, der Boden, das Wasser. Die Lebens­erwartung der Einwohner/innen ist fünf Jahre tiefer, die Kindersterblich­keit höher als in anderen peruani­schen Städten.[^3]
-> *Initianten Konzernverantwortungsinitiative*
+> *Initianten*
 
 Bei der Recherche fällt uns an erster Stelle einer Google-Suche nach dem Begriff "Konzernverantwortungsinitiative" folgende Anzeige auf.
 

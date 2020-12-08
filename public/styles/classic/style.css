@@ -170,3 +170,162 @@ th {
     margin: 0 !important;
     padding-top: 0;
 }
+
+.heading {
+    text-align: center;
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+img {
+    width: 100%;
+}
+
+img + em {
+    font-size: 16px;
+}
+
+.footnotes {
+    font-size: 16px;
+}
+
+div.highlighter-rouge {
+    background: var(--text-color);
+}
+
+div.highlighter-rouge code {
+    display: inline-block;
+    margin-left: 32px;
+    margin-right: 32px;
+}
+
+div.highlighter-rouge, div.MathJax_Display, div.table-wrapper {
+    overflow-x: auto;
+    overflow-y: hidden;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+@media only screen and (max-width: 768px) {
+    img, div.highlighter-rouge {
+        margin-left: -32px;
+        width: calc(100% + 64px);
+    }
+}
+
+/* BLOCKQUOTES */
+
+blockquote {
+    position: relative;
+    margin: 0;
+    margin-left: 32px;
+    margin-right: 32px;
+}
+
+blockquote > p {
+    text-align: center;
+}
+
+blockquote::before {
+    content: "«";
+    bottom: calc(50% - 16px);
+    left: -30px;
+}
+
+blockquote::after {
+    content: "»";
+    bottom: calc(50% - 16px);
+    right: -30px;
+}
+
+blockquote::before, blockquote::after {
+    position: absolute;
+    font-size: 48px;
+}
+
+blockquote > p > em {
+    display: inline-block;
+    width: 100%;
+    font-size: 16px;
+}
+
+/* CODE */
+
+.highlight
+{
+    color: white;
+}
+
+/* Comments */
+.highlight .c,
+.highlight .ch,
+.highlight .cm,
+.highlight .cp,
+.highlight .cpf,
+.highlight .c1,
+.highlight .cs
+{
+    color: lightgrey;
+    font-style: italic;
+}
+
+/* Errors */
+.highlight .err
+{
+    color: tomato;
+}
+
+/* Keywords */
+.highlight .k,
+.highlight .kc,
+.highlight .kd,
+.highlight .kn,
+.highlight .kp,
+.highlight .kr,
+.highlight .kt
+{
+    color: lightcoral;
+    font-weight: bold;
+}
+
+/* Literals */
+.highlight .s,
+.highlight .m,
+.highlight .mb,
+.highlight .mf,
+.highlight .mh,
+.highlight .mi,
+.highlight .mo
+{
+    color: lightgreen;
+}
+
+/* Functions, Macros, Methods */
+.highlight .n,
+.highlight .na,
+.highlight .nc,
+.highlight .nd,
+.highlight .ne,
+.highlight .nf,
+.highlight .ni,
+.highlight .nn,
+.highlight .no,
+.highlight .nt,
+.highlight .nv
+{
+    color: lightblue;
+}
+
+/* Builtins */
+.highlight .nb,
+.highlight .bp,
+.highlight .nl,
+.highlight .vc,
+.highlight .vg,
+.highlight .vi
+{
+    color: lightsalmon;
+    font-style: italic;
+    font-weight: bold;
+}
+
