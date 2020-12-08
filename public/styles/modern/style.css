@@ -52,6 +52,10 @@ img.pp {
     border-radius: 50%;
 }
 
+span.description {
+    font-style: italic;
+}
+
 /* HEADER, FOOTER */
 
 header, footer {
@@ -117,8 +121,8 @@ span.tag {
     padding-left: 6px;
     padding-right: 6px;
     border-radius: 16px;
-    margin-top: 1px;
-    margin-bottom: 1px;
+    margin-top: 2px;
+    margin-bottom: 2px;
 }
 
 span.category {
