@@ -67,6 +67,10 @@ header, footer {
     color: var(--background-color);
 }
 
+header a, footer a {
+    color: var(--background-color);
+}
+
 img.social {
     width: 32px;
     height: 32px;
