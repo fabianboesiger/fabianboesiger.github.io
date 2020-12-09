@@ -88,6 +88,7 @@ nav {
     background: var(--style-color);
     padding: 16px;
     z-index: 1000;
+    box-shadow: 0 0 8px 0 black;
 }
 
 nav a {
@@ -154,8 +155,9 @@ blockquote {
     position: relative;
     border: 1px solid var(--style-color);
     border-radius: 16px;
-    margin: 16px;
     padding: 16px;
+    margin-left: 0;
+    margin-right: 0;
 }
 
 blockquote em {
