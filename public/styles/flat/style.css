@@ -1,0 +1,292 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&family=Josefin+Sans&family=Lora:ital,wght@0,400;0,700;1,400;1,700&family=Rozha+One&display=swap');
+
+:root {
+    --background-color: #fff;
+    --text-color: #111;
+    --style-color: #f11;
+}
+
+/* GENERAL */
+
+html {
+    font-family: "Lora";
+    background: var(--style-color);
+    font-size: 18px;
+    word-break: break-word;
+}
+
+body {
+    margin: 0;
+}
+
+h1 {
+    font-family: "Rozha One";
+    font-weight: normal;
+}
+
+h2, h3, h4, h5, h6 {
+    font-family: "Josefin Sans";
+    font-weight: normal;
+}
+
+a {
+    color: var(--style-color);
+}
+
+table {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+table th {
+    text-align: left;
+    font-family: "Josefin Sans";
+}
+
+img.pp {
+    width: 128px;
+    height: 128px;
+    margin: 1em;
+    margin-left: calc(50% - 64px);
+    margin-right: calc(50% - 64px);
+    border-radius: 50%;
+}
+
+span.description {
+    font-style: italic;
+}
+
+/* HEADER, FOOTER */
+
+header, footer {
+    position: relative;
+    text-align: center;
+    padding: 16px;
+    z-index: 2000;
+    background: var(--style-color);
+    color: var(--background-color);
+}
+
+header a, footer a {
+    color: var(--background-color);
+}
+
+img.social {
+    width: 32px;
+    height: 32px;
+    margin-left: 8px;
+    margin-right: 8px;
+    filter: invert(100%);
+}
+
+/* NAV */
+
+nav {
+    position: sticky;
+    top: 0;
+    text-align: center;
+    background: var(--style-color);
+    padding: 16px;
+    z-index: 1000;
+    box-shadow: 0 0 8px 0 black;
+}
+
+nav a {
+    color: var(--background-color);
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+/* MAIN */
+
+main {
+    background: var(--background-color);
+    padding: 16px;
+}
+
+#content {
+    margin: auto;
+    max-width: 768px;
+}
+
+article {
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+article h2 {
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+span.tag {
+    display: inline-block;
+    font-style: italic;
+    background: #eee;
+    padding-left: 6px;
+    padding-right: 6px;
+    border-radius: 16px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+span.category {
+    font-weight: bold;
+}
+
+/* ARTICLE */
+
+img {
+    width: 100%;
+}
+
+ol, ul {
+    padding-left: 24px;
+}
+
+@media only screen and (max-width: 768px) {
+    main img, main div.highlighter-rouge {
+        margin-left: -16px;
+        width: calc(100% + 32px);
+    }
+}
+
+blockquote {
+    position: relative;
+    border: 1px solid var(--style-color);
+    border-radius: 16px;
+    padding: 16px;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+blockquote em {
+    display: inline-block;
+    max-width: calc(100% - 64px);
+    text-align: right;
+    position: absolute;
+    bottom: -10px;
+    right: 16px;
+    color: var(--style-color);
+    background-color: var(--background-color);
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+blockquote::before {
+    content: "❠";
+    position: absolute;
+    top: -10px;
+    left: 16px;
+    font-size: 32px;
+    transform: rotate(180deg);
+    color: var(--style-color);
+    background-color: var(--background-color);
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+/*
+blockquote::after {
+    content: "❠";
+    position: absolute;
+    bottom: 0;
+    right: -32px;
+    font-size: 32px;
+}
+*/
+
+/* CODE */
+
+code {
+    font-family: "Fira Code";
+    font-size: 16px;
+}
+
+.highlighter-rouge {
+    background: #eee;
+    overflow-x: auto;
+    position: relative;
+}
+
+.highlighter-rouge code {
+    display: inline-block;
+    margin-left: 16px;
+    margin-right: 16px;
+}
+
+.highlight {
+    color: var(--text-color);
+}
+
+/* Comments */
+.highlight .c,
+.highlight .ch,
+.highlight .cm,
+.highlight .cp,
+.highlight .cpf,
+.highlight .c1,
+.highlight .cs
+{
+    color: grey;
+    font-style: italic;
+}
+
+/* Errors */
+.highlight .err
+{
+    color: darkred;
+}
+
+/* Keywords */
+.highlight .k,
+.highlight .kc,
+.highlight .kd,
+.highlight .kn,
+.highlight .kp,
+.highlight .kr,
+.highlight .kt
+{
+    color: darkmagenta;
+    font-weight: bold;
+}
+
+/* Literals */
+.highlight .s,
+.highlight .m,
+.highlight .mb,
+.highlight .mf,
+.highlight .mh,
+.highlight .mi,
+.highlight .mo
+{
+    color: darkgreen;
+}
+
+/* Functions, Macros, Methods */
+.highlight .n,
+.highlight .na,
+.highlight .nc,
+.highlight .nd,
+.highlight .ne,
+.highlight .nf,
+.highlight .ni,
+.highlight .nn,
+.highlight .no,
+.highlight .nt,
+.highlight .nv
+{
+    color: darkblue;
+}
+
+/* Builtins */
+.highlight .nb,
+.highlight .bp,
+.highlight .nl,
+.highlight .vc,
+.highlight .vg,
+.highlight .vi
+{
+    color: darkmagenta;
+    font-weight: bold;
+}
