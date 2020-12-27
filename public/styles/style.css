@@ -28,6 +28,8 @@ nav {
 nav a {
     display: inline-block;
     margin: 8px;
+    margin-top: 16px;
+    margin-bottom: 16px;
     font-family: "Open Sans Condensed";
     text-transform: uppercase;
 }
