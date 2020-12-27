@@ -27,7 +27,7 @@ nav {
 
 nav a {
     display: inline-block;
-    padding: 16px;
+    margin: 8px;
     font-family: "Open Sans Condensed";
     text-transform: uppercase;
 }
