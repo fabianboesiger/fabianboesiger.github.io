@@ -1,8 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&family=Lora:ital,wght@0,400;0,700;1,400;1,700&family=Open+Sans+Condensed:wght@700&display=swap');
 
+:root {
+    --bg-color: white;
+    --text-color: black;
+}
+
 html {
     font-family: "Lora";
     word-break: break-word;
+    background: var(--bg-color);
+    color: var(--text-color);
 }
 
 body {
@@ -13,8 +20,8 @@ nav {
     position: sticky;
     top: 0;
     text-align: center;
-    border-bottom: 2px solid black;
-    background: white;
+    border-bottom: 2px solid var(--text-color);
+    background: var(--bg-color);
     z-index: 1000;
 }
 
@@ -36,7 +43,7 @@ header h1 {
 }
 
 footer {
-    border-top: 2px solid black;
+    border-top: 2px solid var(--text-color);
     text-align: center;
     padding: 16px;
 }
@@ -59,7 +66,7 @@ h3 {
 }
 
 a {
-    color: black;
+    color: var(--text-color);
 }
 
 table {
@@ -84,7 +91,7 @@ article h2 {
 
 .tag {
     display: inline-block;
-    border: 2px solid black;
+    border: 2px solid var(--text-color);
     border-radius: 16px;
     padding-left: 4px;
     padding-right: 4px;
@@ -103,7 +110,7 @@ img.profile-picture {
     margin: calc(50% - 96px);
     margin-top: 1em;
     margin-bottom: 1em;
-    border: 2px solid black;
+    border: 2px solid var(--text-color);
 }
 
 img.social {
@@ -115,7 +122,7 @@ img.social {
 
 main img {
     width: 100%;
-    border: 2px solid black;
+    border: 2px solid var(--text-color);
 }
 
 @media only screen and (max-width: 512px) {
@@ -129,7 +136,7 @@ main img {
 
 blockquote {
     position: relative;
-    border: 2px solid black;
+    border: 2px solid var(--text-color);
     padding: 16px;
     margin-left: 0;
     margin-right: 0;
@@ -142,7 +149,7 @@ blockquote em {
     position: absolute;
     bottom: -10px;
     right: 16px;
-    background-color: white;
+    background-color: var(--bg-color);
     padding-left: 2px;
     padding-right: 2px;
 }
@@ -154,7 +161,7 @@ blockquote::before {
     left: 16px;
     font-size: 32px;
     transform: rotate(180deg);
-    background-color: white;
+    background-color: var(--bg-color);
     padding-left: 2px;
     padding-right: 2px;
 }
