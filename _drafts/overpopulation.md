@@ -14,11 +14,11 @@ Unter dem Begriff der Überbevölkerung wird der Zustand verstanden, bei dem die
 
 ### Nahrungsmittel
 
-Laut den UN produzierte die Welt bereits 2009 genügend Nahrungsmittel für 10 Milliarden Menschen.[^2] Das Problem ist nicht die Produktion, sondern die Verteilung.
+Laut den UN produzierte die Welt bereits 2009 genügend Nahrungsmittel für 10 Milliarden Menschen.[^2] Das Problem hier ist also offensichtlich nicht die Produktion, sondern die Verteilung.
 
 Ein Problem stellt jedoch die zu lansam wachsende Landwirtschaftliche Effizienz dar, welche um die Menschheit weiterhin zu ernähren, um 1.75% jährlich wachsen müsste. Für entwickelte Länder stellt dieses Wachstum kein grosses Problem dar, jedoch erreichen Entwicklungsländer nur 0.96% Wachstum pro Jahr.[^3]
 
-Auch dieses Problem ist relativ leicht überwindbar wenn man beachtet, dass die Landwirtschaft vieler Entwicklungsländer kaum mechanisiert ist. Die Verwendung von Maschinen erzielte in der Vergangenheit eine Verdoppelung der Effizienz.[^4]
+Doch dieses zu kleine Wachstum ist relativ leicht überwindbar wenn man beachtet, dass die Landwirtschaft vieler Entwicklungsländer kaum mechanisiert ist. Die Verwendung von Maschinen erzielte in der Vergangenheit eine Verdoppelung der Effizienz.[^4]
 
 ### Wasser
 
@@ -29,7 +29,7 @@ Am meisten Wasser wird in der Landwirtschaft und der Industrie, insbesondere in 
 > If agriculture manages to increase water productivity, the pressure on precious water resources can be reduced and water can be released to other sectors.[^6]
 > *Food and Agriculture Organization of the United States*
 
-Die naheliegende Lösung um Wasser zu sparen wäre eine Reduktion der Fleischproduktion. Mit Kläranlagen kann ausserdem eine Übernutzung von Grundwasser vermieden werden, jedoch sind diese relativ Kapitalintensiv und bringen keinen Profit. Insbesondere ärmere Regionen, welche von Wasserknappheit betroffen sind, können sich deshalb keine Kläranlagen leisten. Von Überbevölkerung kann aber nicht die Rede sein.
+Die naheliegende Lösung um Wasser zu sparen wäre eine Reduktion der Fleischproduktion. Mit Kläranlagen kann ausserdem eine Übernutzung von Grundwasser vermieden werden, jedoch sind diese relativ Kapitalintensiv und bringen keinen Profit. Insbesondere ärmere Regionen, welche von Wasserknappheit betroffen sind, können sich deshalb keine Kläranlagen leisten. Die Tragfähigkeit ist aber vorhanden.
 
 ### Energie
 
@@ -52,46 +52,40 @@ Obwohl es in manchen Städten recht eng sein kann, so gibt es trotzdem mehr als 
 
 Mit zuhnehmender Bevölkerung und Automatisierung kommt zunehmend das Argument auf, dass es zu wenige Arbeitsstellen gibt, um allen ein stabiles Einkommen zu ermöglichen.
 
-Es scheint jedoch offensichtlich, dass eine Wachsende Bevölkerung auch proportional mehr Arbeitsmöglichkeiten schafft. Obwohl die weltweite Bevölkerung zunimmt, bleibt weltweite Arbeitslosenquote etwa gleich.[^12] Im Gegenteil, erhöhte Immigration zum Beispiel scheint die Arbeitslosenrate positiv zu beeinflussen.[^11]
+Es scheint jedoch offensichtlich, dass eine Wachsende Bevölkerung auch proportional mehr Arbeitsmöglichkeiten schafft. Obwohl die weltweite Bevölkerung zunimmt, bleibt weltweite Arbeitslosenquote etwa gleich.[^12] Arbeitslosigkeit scheint also nicht von der Anzahl Menschen abzuhängen. Im Gegenteil, erhöhte Immigration zum Beispiel scheint die Arbeitslosenrate positiv zu beeinflussen.[^11]
 
-## Implikationen
+## Überbevölkerung in der Geschichte
 
-Betrachten wir als Nächstes mögliche Folgen und Implikationen von einer Notion der Überbevölkerung.
+Betrachten wir als Nächstes historische Beispiele, bei denen von Überbevölkerung gesprochen wurde, und schauen uns die entsprechenden Ziele und Folgen an.
 
-### Der Imperialismus
+### Im 19. Jahrhundert
 
 Das Argument der Überbevölkerung wurde in der Vergangenheit mehrfach verwendet, um gewisse politische Aktionen zu rechtfertigen.
 
-Cecil Rhodes war Unternehmer, Politiker und führender Akteur des britischen Imperialismus im 19. Jahrhundert. Er sah die miserablen Verhältnisse der Arbeiterklasse zu seiner Zeit nicht als Resultat der extremen Profitgier der Unternehmen und dem Fehlen von Arbeiterrechten, sondern als Produkt einer "Surplus Population". In der Expansion des British Empires sah er eine Lösung, und rechtfertigte damit den Imperialismus.
+Cecil Rhodes war Unternehmer, Politiker und führender Akteur des britischen Imperialismus im 19. Jahrhundert. Betrachten wir seine Ansichtsweise:
 
 > I was in the East End of London (a working-class quarter) yesterday and attended a meeting of the unemployed. I listened to the wild speeches, which were just a cry for ‘bread! bread!’ and on my way home I pondered over the scene and I became more than ever convinced of the importance of imperialism.... My cherished idea is a solution for the social problem, i.e., in order to save the 40,000,000 inhabitants of the United Kingdom from a bloody civil war, we colonial statesmen must acquire new lands to settle the surplus population, to provide new markets for the goods produced in the factories and mines. The Empire, as I have always said, is a bread and butter question. If you want to avoid civil war, you must become imperialists.[^13]
 > *Cecil Rhodes*
 
-### Der Zweite Weltkrieg
+Cecil Rhodes sah die miserablen Verhältnisse der Arbeiterklasse zu seiner Zeit nicht als Resultat der extremen Profitgier der Unternehmen und dem Fehlen von Arbeiterrechten, sondern als Produkt einer "Surplus Population". In der Expansion des British Empires sah er eine Lösung, und rechtfertigte somit durch eine angebliche Überbevölkerung den Britischen Imperialismus.
+
+### Im 20. Jahrhundert
 
 Auch im 20. Jahrhundert kam das Argument der Überbevölkerung wieder auf. Aus der Aussage, dass die Welt überbevolkert ist, folgt implizit, dass die Anzahl Menschen abnehmen muss. Diese Denkweise kann unter gewissen Umständen, insbesondere bei einem starken Hang zum Nationalismus, sehr gefährlich werden.
 
 Es liegt in der Natur des Nationalismus, Menschen in verschiedene Gruppen, üblicherweise entlang ethnischer Linien, einzuordnen. Mit der Herausbildung eines Gruppendenkens erfolgt  auch eine subjektive Einteilung dieser Gruppen in "wir" und "sie", oder "gut" und "böse". Wenn eine dieser Gruppen nun zum Schluss kommt, dass die Erde nicht tragfähig genug für beide Seiten ist, liegt die Lösung nahe: Die einzige Option ist die Auslöschung der anderen Gruppe.
 
-Ein Extremfall dieses Prozesses ereignete sich insbesondere auch in der Phase des deutschen Nationalsozialismus. Das hypernationalistische Denken gepaart mit der Idee der Überbevölkerung führte zur sogenannten Blut-und-Boden-Ideologie, welche das Ziel hatte, den Lebensraum des deutschen Volkes gegen Osten auszudehnen, wobei die dortige Bevölkerung entweder ermordet oder vertrieben wurde.[^14] Im Gegensatz zur Westfront wurden Zivilisten deshalb an der Ostfront Opfer gezielter Gewalt, was zum Tod von ungefähr 14 Millionen Zivilisten führte.[^15]
+Ein Extremfall dieses Prozesses ereignete sich insbesondere auch während des Deutschen Nationalsozialismus. Das hypernationalistische Denken gepaart mit der Idee der Überbevölkerung führte zur sogenannten Blut-und-Boden-Ideologie, welche das Ziel hatte, den Lebensraum des deutschen Volkes gegen Osten auszudehnen, wobei die dortige Bevölkerung entweder ermordet oder vertrieben wurde.[^14] Im Gegensatz zur Westfront wurden Zivilisten deshalb an der Ostfront Opfer gezielter Gewalt, was zum Tod von ungefähr 14 Millionen Zivilisten führte.[^15]
 
 Natürlich stellen die obig genannten historischen Ereignisse Extremfälle dar, dennoch steht der Punkt, dass die Notion von Überbevölkerung in der Vergangenheit verwendet wurde, um schlimme Taten zu rechtfertigen, vom Imperialismus bis zum Genozid. Natürlich waren weder Imperialismus noch Genozid in der Lage, das scheinbare Problem der Überbevölkerung zu lösen.
 
-### Die Ecopop-Initiative
-
-
-In der Schweiz resultiert diese Ansichtsweise in Organisationen wie [Ecopop](https://www.ecopop.ch/), welche sich einsetzt, um "die Lebensgrundlagen und die Lebensqualität in der Schweiz und weltweit auch für kommende Generationen zu erhalten und sich hierfür insbesondere mit dem Faktor Bevölkerung zu befassen".[^16] Konkret sind ihre Anliegen eine Limitierung der Zuwanderung in die Schweiz und eine Umleitung von Entwicklungsgeldern zur Förderung von Familienplanung in Entwicklungsländern. Statt das Problem in dere Verteilung und der Produktion zu erkennen, wird die Verantwortung also wiederum auf Andere geschoben.[^17] Das Komitee solidarische Schweiz bringt die Problematik auf den Punkt.
-
-> Die Ecopop-Initiative gibt vor, die Umwelt zu schützen. Doch statt kluge Lösungen für eine nachhaltige Wirtschaft und den Umweltschutz zu fördern, setzt sie auf Ausgrenzung und bevormundende Geburtenkontrolle in Entwicklungsländern.[^18]
-> *Komitee solidarische Schweiz*
-
 ## Schlussfolgerung
 
-Wir haben gesehen, dass viele Symptome von scheinbarer Überbevölkerung auf eine ineffiziente Verteilung von Waren und Kapital zurückzuführen sind. Schon knapp vor zwei Jahrhunderten beklagte man sich über Überbevölkerung, obwohl die damalige Bevölkerungszahl bei nur ungefähr 15% des Heutigen Standes lag.[^19] Selbst wenn die Bevölkerung drastisch reduziert würde, Hunger, Armut und Arbeitslosigkeit würden nicht aufhören zu existieren.
+Wir haben gesehen, dass viele Symptome von scheinbarer Überbevölkerung auf eine ineffiziente Verteilung von Waren und Kapital zurückzuführen sind. Schon vor zwei Jahrhunderten beklagte man sich über Überbevölkerung, obwohl die damalige Bevölkerungszahl bei nur ungefähr 15% des Heutigen Standes lag.[^19] Selbst wenn die Bevölkerung drastisch reduziert würde, Hunger, Armut und Arbeitslosigkeit würden nicht aufhören zu existieren.
 
-Es liegt nahe, dass das eigentliche Problem nicht eine zu grosse Population ist, sondern ein System, welches Ressourcen nicht im Interesse der Vielen, sondern im Interesse der Wenigen verteilt. Doch für Befürworter des Kapitals und des freien Marktes jedoch ist es leichter, die oben genannten Folgen als Konsequenzen der Überbevolkerung darzustellen, statt sich die Fehler ihres Systems einzugestehen.
+Es liegt nahe, dass das eigentliche Problem nicht eine zu grosse Population ist, sondern ein System, welches Ressourcen nicht im Interesse der Vielen, sondern im Interesse der Wenigen verteilt. Für Befürworter des freien Marktes jedoch ist es leichter, die oben genannten Folgen als Konsequenzen der Überbevolkerung darzustellen, statt die Nachteile des freien Marktes einzugestehen.
 
-Die allermeisten Menschen sind durchaus in der Lage, für sich selbst zu sorgen, doch fehlen ihnen die Mittel dazu. Durch die Trennung von Produktivkräften und Produktionsmittel wird dies verunmöglicht, es bilden sich Hunger, Armut, Arbeitslosigkeit und Bodenknappheit, also genau die Folgen, für die Überbevölkerung verantwortlich gemacht wird.
+Die allermeisten Menschen sind durchaus in der Lage, für sich selbst zu sorgen, doch fehlen ihnen die Mittel dazu. Durch die Trennung von Produktivkräften und Produktionsmittel wird dies verunmöglicht, es ensteht Hunger, Armut, und Arbeitslosigkeit, also genau die Folgen, für die angeblich die Überbevölkerung Schuld trägt.
 
 Um Hunger, Armut und Arbeitslosigkeit zu stoppen, muss nicht die Bevölkerung reduziert werden, sondern ein grundlegend neues Produktions- und Verteilungssystem geschaffen werden, welches nicht den Profit einzelner Individuen, sondern das Wohlergehen der Gesamtbevölkerung optimiert.
 
