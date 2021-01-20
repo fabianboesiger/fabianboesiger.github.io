@@ -172,7 +172,7 @@ Einige scheinen den Profit sehrwohl den Menschenrechten überzuordnen. Ein Beisp
 
 Bei der Recherche fällt uns an erster Stelle einer Google-Suche nach dem Begriff "Konzernverantwortungsinitiative" folgende Anzeige auf.
 
-![Guter Punkt Werbung auf Google-Suche.](/public/media/posts/guter-punkt.PNG)
+![Guter Punkt Werbung auf Google-Suche.](/public/media/posts/corporate-justice/guter-punkt.PNG)
 *Anzeige der Initiativgegner auf Google.*
 
 Die Anzeige bietet einen angeblich neutralen Faktencheck zur Initative. Sehen wir also, was diese Website über den Glencore-Zwischenfall zu sagen hat.
