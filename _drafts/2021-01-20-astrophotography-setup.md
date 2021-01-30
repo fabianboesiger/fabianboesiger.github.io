@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Automatisierung meines Astrofotografie-Setups
-date: 2020-03-13 17:00:00 +0200
+date: 2021-01-20 11:00:00 +0100
 categories: Astronomie
 tags: [Astrofotografie, Automatisierung, Raspberry Pi]
 ---
@@ -33,6 +33,7 @@ Es muss also nicht nur ein Bild geschossen werden, sondern eher hundert. Wenn je
 Die Idee ist es, sowohl Kamera, als auch die motorisierte Montierung des Teleskops an einen Raspberry-Pi Computer anzuschliessen. Der Raspberry Pi ist per WLAN mit einem Computer drinnen verbunden, über den sich die gesamte Ausrüstung steuern lässt. Hier eine Übersicht des Plans, und eine Demonstration meiner Zeichenkünste:
 
 ![übersicht](/public/media/posts/astrophotography-setup/overview.png)
+*Eine grobe Übersicht der Idee.*
 
 Scheint einfach zu sein, oder? Natürlich müssen noch einige Hürden überwunden werden. Wie genau kommunizert der Raspberry Pi mit der Ausrüstung? Und mit welcher Software lässt sich das Teleskop am besten bedienen? Glücklicherweise gibt es kaum ein Problem, welches noch nicht gelöst wurde.
 
@@ -45,7 +46,21 @@ Ein einfacher Weg, INDI auf dem Raspberry Pi zum laufen zu bringen, ist der [Ast
 Der INDI Server ist dann über das lokale Netzwerk zum [KStars Astronomieprogramm](https://edu.kde.org/kstars/) verbunden, welches auf dem Computer drinnen läuft. Hier eine grobe Übersicht zur Software:
 
 ![Diagramm](/public/media/posts/astrophotography-setup/diagram.png)
+*Übersicht der Kommunikation zwischen den Komponenten.*
 
-Erstaunlich an diesem Setuop ist, dass sämtlichte verwendete Software Open Source und somit kostenlos verwendbar ist.
+Erstaunlich an diesem Setup ist, dass sämtlichte verwendete Software Open Source und somit kostenlos verwendbar ist.
 
 ## Der Test
+
+### Aufstellen des Teleskops
+
+Natürlich muss das Teleskop noch immer manuell aufgestellt und nach dem Nordstern ausgerichtet werden. Zusätzlich muss der Raspberry Pi eingesteckt werden. Dafür ist jedoch der Hand-Controller der Montierung nicht mehr notwendig.
+
+Ausserdem fällt der relativ aufwendige Prozess des N-Star-Alignments weg. Dabei richtet sich das Teleskop nach verschiedenen Sternen aus. Anschliessend muss der Benutzer manuell den Stern im Zielsucher zentrieren. Daraus berechnet das Teleskop die genaue Position der Sterne relativ zum Standort des Teleskops. Dieser Prozess kann jetzt vollständig durch die Astronomiesoftware übernommen werden, da diese Zugriff auf die Kamera und die Montierung des Teleskops hat.
+
+### Auswählen des Ziels
+
+Das Ziel kann nun gemütlich drinnen vor dem Computer ausgewählt werden. Nach der Auswahl schwenkt das Teleskop automatisch zum Ziel und verfolgt es. Hier wählen wir ...
+
+### Fotografie
+

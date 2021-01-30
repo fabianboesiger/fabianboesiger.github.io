@@ -77,7 +77,7 @@ Es liegt in der Natur des Nationalismus, Menschen in verschiedene Gruppen, übli
 
 Ein Extremfall dieses Prozesses ereignete sich insbesondere auch während des Deutschen Nationalsozialismus. Das hypernationalistische Denken gepaart mit der Idee der Überbevölkerung führte zur sogenannten Blut-und-Boden-Ideologie, welche das Ziel hatte, den Lebensraum des deutschen Volkes gegen Osten auszudehnen, wobei die dortige Bevölkerung entweder ermordet oder vertrieben wurde.[^14] Im Gegensatz zur Westfront wurden Zivilisten deshalb an der Ostfront Opfer gezielter Gewalt, was zum Tod von ungefähr 14 Millionen Zivilisten führte.[^15]
 
-Natürlich stellen die obig genannten historischen Ereignisse Extremfälle dar, dennoch steht der Punkt, dass die Notion von Überbevölkerung in der Vergangenheit verwendet wurde, um schlimme Taten zu rechtfertigen, vom Imperialismus bis zum Genozid. Natürlich waren weder Imperialismus noch Genozid in der Lage, das scheinbare Problem der Überbevölkerung zu lösen.
+Natürlich stellen beide der genannten historischen Ereignisse Extremfälle dar, dennoch steht der Punkt, dass die Notion von Überbevölkerung in der Vergangenheit verwendet wurde, um schlimme Taten zu rechtfertigen, vom Imperialismus bis hin zum Genozid. Natürlich waren weder Imperialismus noch Genozid in der Lage, das scheinbare Problem der Überbevölkerung zu lösen, da dieses Problem nie wirklich existierte.
 
 ## Schlussfolgerung
 
