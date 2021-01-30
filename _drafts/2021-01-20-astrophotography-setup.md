@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Automatisierung meines Astrofotografie-Setups
-date: 2020-03-13 17:00:00 +0200
+date: 2021-01-20 11:00:00 +0100
 categories: Astronomie
 tags: [Astrofotografie, Automatisierung, Raspberry Pi]
 ---
@@ -41,8 +41,21 @@ Die [INDI Library](https://www.indilib.org/) ist eine Open Source Software, welc
 
 Ein einfacher Weg, INDI auf dem Raspberry Pi zum laufen zu bringen, ist der [Astroberry Server](https://www.astroberry.io/). Astroberry Server ist ein vorgefertigtes Betriebssystem für den Raspberry Pi, welches nur auf die SD Karte des Raspberry Pi geflasht werden muss, und dann sofort betriebsbereit ist, zumindest theoretisch.
 
-Der INDI Server ist dann über das lokale Netzwerk zum [KStars Astronomieprogramm](https://edu.kde.org/kstars/) verbunden, welches auf dem Computer drinnen läuft. Hier eine grobe Übersicht zur Software:
+Der INDI Server ist dann über das lokale Netzwerk zum [KStars Astronomieprogramm](https://edu.kde.org/kstars/) verbunden, welches auf dem Computer drinnen läuft.
 
 Erstaunlich an diesem Setup ist, dass sämtlichte verwendete Software Open Source und somit kostenlos verwendbar ist.
 
 ## Der Test
+
+### Aufstellen des Teleskops
+
+Natürlich muss das Teleskop noch immer manuell aufgestellt und nach dem Nordstern ausgerichtet werden. Zusätzlich muss der Raspberry Pi eingesteckt werden. Der Hand-Controller der Montierung ist aber nicht mehr notwendig.
+
+Ausserdem fällt der relativ aufwendige Prozess des N-Star-Alignments weg. Dabei richtet sich das Teleskop nach verschiedenen Sternen aus. Anschliessend muss der Benutzer manuell den Stern im Zielsucher zentrieren. Daraus berechnet das Teleskop die genaue Position der Sterne relativ zum Standort des Teleskops. Dieser Prozess kann jetzt vollständig durch die Astronomiesoftware übernommen werden, da diese Zugriff auf die Kamera und die Montierung des Teleskops hat.
+
+### Auswählen des Ziels
+
+Das Ziel kann nun gemütlich drinnen vor dem Computer ausgewählt werden. Nach der Auswahl schwenkt das Teleskop automatisch zum Ziel und verfolgt es. Hier wählen wir ...
+
+### Fotografie
+
