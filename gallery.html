@@ -2,46 +2,7 @@
 layout: default
 ---
 
-<style>
-    :root {
-        /* Invert base colors for dark theme */
-        --bg-color: black;
-        --text-color: white;
-    }
-
-    img.social {
-        filter: invert(100%);
-    }
-
-    main {
-        max-width: initial;
-        margin: 0px;
-        padding: 0px;
-    }
-
-    .image {
-        position: relative;
-        height: min(calc(100vh - 55px), 100vw);
-        width: 100%;
-        margin: 0;
-        background-size: contain;
-        background-repeat: no-repeat;
-        background-position: 50% 50%;
-    }
-    
-    .image:not(:last-child) {
-        border-bottom: 2px solid var(--text-color);
-    }
-
-    .image .text {
-        position: absolute;
-        bottom: 0;
-        left: 0;
-        width: calc(100vw - 32px);
-        margin: 16px;
-        background: linear-gradient(transparent, var(--bg-color));
-    }
-</style>
+<link rel="stylesheet" type="text/css" href="/public/styles/gallery.css">
 
 {% for post in site.posts %}
 {% if post.categories contains "Bild" %}
