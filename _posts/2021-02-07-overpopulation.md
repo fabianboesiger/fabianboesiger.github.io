@@ -3,7 +3,7 @@ layout: post
 title: Überbevölkerung
 date: 2021-02-07 17:00:00 +0100
 categories: Politik
-tags: [Überbevölkerung, Klimawandel]
+tags: [Wirtschaft, Klimawandel]
 ---
 
 Viele scheinen der Ansicht zu sein, dass diese Erde überbevölkert ist. Diese Ansicht soll im Folgenden infrage gestellt werden.
@@ -67,11 +67,11 @@ Cecil Rhodes war Unternehmer, Politiker und führender Akteur des britischen Imp
 > I was in the East End of London (a working-class quarter) yesterday and attended a meeting of the unemployed. I listened to the wild speeches, which were just a cry for ‘bread! bread!’ and on my way home I pondered over the scene and I became more than ever convinced of the importance of imperialism.... My cherished idea is a solution for the social problem, i.e., in order to save the 40,000,000 inhabitants of the United Kingdom from a bloody civil war, we colonial statesmen must acquire new lands to settle the surplus population, to provide new markets for the goods produced in the factories and mines. The Empire, as I have always said, is a bread and butter question. If you want to avoid civil war, you must become imperialists.[^13]
 > *Cecil Rhodes*
 
-Cecil Rhodes sah die miserablen Verhältnisse der Arbeiterklasse zu seiner Zeit nicht als Resultat der extremen Profitgier der Unternehmen und dem Fehlen von Arbeiterrechten, sondern als Produkt einer "Surplus Population". In der Expansion des British Empires sah er eine Lösung, und rechtfertigte somit durch eine angebliche Überbevölkerung den Britischen Imperialismus.
+Cecil Rhodes sah die miserablen Verhältnisse der Arbeiterklasse zu seiner Zeit nicht als Resultat der extremen Profitgier der Unternehmen und der Abwesenheit von Arbeiterrechten, sondern als Produkt einer "Surplus Population". In der Expansion des British Empires sah er eine Lösung, und rechtfertigte somit durch eine angebliche Überbevölkerung den Britischen Imperialismus.
 
 ### Im 20. Jahrhundert
 
-Auch im 20. Jahrhundert kam das Argument der Überbevölkerung wieder auf. Aus der Aussage, dass die Welt überbevolkert ist, folgt implizit, dass die Anzahl Menschen abnehmen muss. Diese Denkweise kann unter gewissen Umständen, insbesondere bei einem starken Hang zum Nationalismus, sehr gefährlich werden.
+Auch im 20. Jahrhundert kam das Argument der Überbevölkerung wieder auf. Aus der Aussage, dass die Welt überbevölkert ist, folgt implizit, dass die Anzahl Menschen abnehmen muss. Diese Denkweise kann unter gewissen Umständen, insbesondere bei einem starken Hang zum Nationalismus, sehr gefährlich werden.
 
 Es liegt in der Natur des Nationalismus, Menschen in verschiedene Gruppen, üblicherweise entlang ethnischer Linien, einzuordnen. Mit der Herausbildung eines Gruppendenkens erfolgt  auch eine subjektive Einteilung dieser Gruppen in "wir" und "sie", oder "gut" und "böse". Wenn eine dieser Gruppen nun zum Schluss kommt, dass die Erde nicht tragfähig genug für beide Seiten ist, liegt die Lösung nahe: Die einzige Option ist die Auslöschung der anderen Gruppe.
 
