@@ -6,7 +6,7 @@ categories: Politik
 tags: [Überbevölkerung, Klimawandel]
 ---
 
-Viele scheinen zu glauben, dass diese Erde überbevölkert ist. Diese Ansicht soll im Folgenden infrage gestellt werden.
+Viele scheinen der Ansicht zu sein, dass diese Erde überbevölkert ist. Diese Ansicht soll im Folgenden infrage gestellt werden.
 
 ## Tragfähigkeit unseres Lebensraums
 
@@ -22,14 +22,14 @@ Doch dieses zu kleine Wachstum ist relativ leicht überwindbar wenn man beachtet
 
 ### Wasser
 
-Laut der Food and Agriculture Organization of the United States existiert keine Wasserkrise.[^5]
+Laut der Food and Agriculture Organization of the United States existiert keine globale Wasserkrise.[^5]
 
 Am meisten Wasser wird in der Landwirtschaft und der Industrie, insbesondere in der Viehwirtschaft, verbraucht. Für die Herstellung eines Kilogramms Rindfleisch wird etwa 15'500 Liter Wasser benötigt.[^6]
 
 > If agriculture manages to increase water productivity, the pressure on precious water resources can be reduced and water can be released to other sectors.[^6]
 > *Food and Agriculture Organization of the United States*
 
-Die naheliegende Lösung um Wasser zu sparen wäre eine Reduktion der Fleischproduktion. Mit Kläranlagen kann ausserdem eine Übernutzung von Grundwasser vermieden werden, jedoch sind diese relativ Kapitalintensiv und bringen keinen Profit. Insbesondere ärmere Regionen, welche von Wasserknappheit betroffen sind, können sich deshalb keine Kläranlagen leisten. Die Tragfähigkeit ist aber vorhanden.
+Die naheliegende Lösung um Wasser zu sparen wäre eine Reduktion der Fleischproduktion. Mit Kläranlagen kann ausserdem eine Übernutzung von Grundwasser vermieden werden, jedoch sind diese relativ Kapitalintensiv und bringen keinen Profit. Insbesondere ärmere Regionen, welche von Wasserknappheit betroffen sind, können sich deshalb keine Kläranlagen leisten. Wenn zukünftig mehr in diesen Bereich investiert ist, kann die Tragfähigkeit auch in der Zukunft gewährleistet werden.
 
 ### Energie
 
@@ -39,7 +39,7 @@ Das grösste Problem im Energiesektor im Bezug auf Überbevölkerung ist die nic
 
 Nur 25 Unternehmen sind verantwortlich für 51% aller Treibhausgasemissionen. Sämtliche dieser Unterehmen sind tätig im Bereich fossile Energieträger.[^7]
 
-![Fossil Fuel Companies](/public/media/fossil-fuel-companies.PNG)
+![Fossil Fuel Companies](/public/media/posts/overpopulation/fossil-fuel-companies.PNG)
 *Die 25 Unternehmen, welche verantwortlich für 51% aller Treibhausemissionen sind.[^7]*
 
 Durch die Förderung von erneuerbaren Energien wäre es relativ leicht, diese Emissionen erheblich zu senken. Auch hiermit hat Überbevölkerung nichts zu tun, vielmehr ist es unsere scheinbare Abhänigkeit von fossilen Energieträgern. Ein Umstieg auf eine erneuerbare Energieversorgung würde sowohl die bevorstehende Knappheit von fossilen Energieträgern, als auch die Problematik der globalen Erwärmung lösen.
