@@ -39,7 +39,7 @@ Das grösste Problem im Energiesektor im Bezug auf Überbevölkerung ist die nic
 
 Nur 25 Unternehmen sind verantwortlich für 51% aller Treibhausgasemissionen. Sämtliche dieser Unterehmen sind tätig im Bereich fossile Energieträger.[^7]
 
-![Fossil Fuel Companies](/public/media/fossil-fuel-companies.PNG)
+![Fossil Fuel Companies](/public/media/posts/overpopulation/fossil-fuel-companies.PNG)
 *Die 25 Unternehmen, welche verantwortlich für 51% aller Treibhausemissionen sind.[^7]*
 
 Durch die Förderung von erneuerbaren Energien wäre es relativ leicht, diese Emissionen erheblich zu senken. Auch hiermit hat Überbevölkerung nichts zu tun, vielmehr ist es unsere scheinbare Abhänigkeit von fossilen Energieträgern. Ein Umstieg auf eine erneuerbare Energieversorgung würde sowohl die bevorstehende Knappheit von fossilen Energieträgern, als auch die Problematik der globalen Erwärmung lösen.
