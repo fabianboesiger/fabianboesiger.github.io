@@ -6,7 +6,7 @@ categories: Politik
 tags: [Wirtschaft, Klimawandel]
 ---
 
-Viele scheinen der Ansicht zu sein, dass diese Erde überbevölkert ist. Diese Ansicht soll im Folgenden infrage gestellt werden.
+Viele scheinen der Ansicht zu sein, dass unsere Erde überbevölkert ist. Diese Ansicht soll im Folgenden infrage gestellt werden.
 
 ## Tragfähigkeit unseres Lebensraums
 
@@ -16,7 +16,7 @@ Unter dem Begriff der Überbevölkerung wird der Zustand verstanden, bei dem die
 
 Laut den UN produzierte die Welt bereits 2009 genügend Nahrungsmittel für 10 Milliarden Menschen.[^2] Das Problem hier ist also offensichtlich nicht die Produktion, sondern die Verteilung.
 
-Ein Problem stellt jedoch die zu lansam wachsende Landwirtschaftliche Effizienz dar, welche um die Menschheit weiterhin zu ernähren, um 1.75% jährlich wachsen müsste. Für entwickelte Länder stellt dieses Wachstum kein grosses Problem dar, jedoch erreichen Entwicklungsländer nur 0.96% Wachstum pro Jahr.[^3]
+Ein Problem stellt jedoch die zu langsam wachsende Landwirtschaftliche Effizienz dar, welche um die Menschheit weiterhin zu ernähren, um 1.75% jährlich wachsen müsste. Für entwickelte Länder stellt dieses Wachstum kein grosses Problem dar, jedoch erreichen Entwicklungsländer nur 0.96% Wachstum pro Jahr.[^3]
 
 Doch dieses zu kleine Wachstum ist relativ leicht überwindbar wenn man beachtet, dass die Landwirtschaft vieler Entwicklungsländer kaum mechanisiert ist. Die Verwendung von Maschinen erzielte in der Vergangenheit eine Verdoppelung der Effizienz.[^4]
 
