@@ -30,7 +30,6 @@ main {
 .image {
     width: 100%;
     margin: 0;
-
 }
 
 .image:not(:last-child) {
@@ -55,6 +54,6 @@ main {
     bottom: 0;
     left: 0;
     width: calc(100vw - 32px);
-    margin: 16px;
+    padding: 16px;
     background: linear-gradient(transparent, var(--bg-color));
 }

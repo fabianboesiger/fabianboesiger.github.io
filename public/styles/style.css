@@ -131,13 +131,13 @@ img.social {
     margin-right: 8px;
 }
 
-main img {
+main > p > img {
     width: 100%;
     border: 2px solid var(--text-color);
 }
 
 @media only screen and (max-width: 512px) {
-    main img, main div.highlighter-rouge, .table-wrapper {
+    main > p > img, main div.highlighter-rouge, .table-wrapper {
         margin-left: -16px;
         width: calc(100% + 32px);
         border-left: none;
