@@ -79,6 +79,15 @@ table {
 
 th {
     text-align: left;
+    padding: 2px;
+    /*
+    background: var(--text-color);
+    color: var(--bg-color);
+    */
+}
+
+td {
+    padding: 2px;
 }
 
 article {
@@ -128,7 +137,7 @@ main img {
 }
 
 @media only screen and (max-width: 512px) {
-    main img, main div.highlighter-rouge {
+    main img, main div.highlighter-rouge, .table-wrapper {
         margin-left: -16px;
         width: calc(100% + 32px);
         border-left: none;

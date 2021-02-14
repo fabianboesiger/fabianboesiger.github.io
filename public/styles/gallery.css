@@ -13,7 +13,7 @@ main {
     margin: 0px;
     padding: 0px;
 }
-
+/*
 .image {
     position: relative;
     height: min(calc(100vh - 55px), 100vw);
@@ -24,11 +24,33 @@ main {
     background-position: 50% 50%;
 }
 
+
+*/
+
+.image {
+    width: 100%;
+    margin: 0;
+
+}
+
 .image:not(:last-child) {
     border-bottom: 2px solid var(--text-color);
 }
 
-.image .text {
+.image-wrapper {
+    position: relative;
+    width: 100%;
+    max-width: 768px;
+    margin: auto;
+}
+
+.image-wrapper img {
+    display: block;
+    border: none;
+    width: 100%;
+}
+
+.image-wrapper .text {
     position: absolute;
     bottom: 0;
     left: 0;
