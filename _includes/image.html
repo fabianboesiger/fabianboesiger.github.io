@@ -2,7 +2,7 @@
     <div class="image-wrapper">
         <img src="{{ post.link }}"></img>
         <div class="text">
-            <span><span class="date">{{ post.date | date: "%d.%m.%Y" }}</span> | <a class="download" href="{{ post.link }}" download>Download</a></spam>
+            <span><span class="date">{{ post.date | date: "%d.%m.%Y" }}</span> | <a href="{{ post.link }}">Öffnen</a> | <a href="{{ post.link }}" download>Download</a></spam>
             <h2 class="title">{{ post.title }}</h2>
             <span class="description">{{ post.description }}</span>
         </div>
