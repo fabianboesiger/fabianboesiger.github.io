@@ -39,7 +39,7 @@ Das grösste Problem im Energiesektor im Bezug auf Überbevölkerung ist die nic
 
 Nur 25 Unternehmen sind verantwortlich für 51% aller Treibhausgasemissionen. Sämtliche dieser Unterehmen sind tätig im Bereich fossile Energieträger.[^7]
 
-![Fossil Fuel Companies](/public/media/posts/overpopulation/fossil-fuel-companies.PNG)
+![Fossil Fuel Companies](/public/media/fossil-fuel-companies.PNG)
 *Die 25 Unternehmen, welche verantwortlich für 51% aller Treibhausemissionen sind.[^7]*
 
 Durch die Förderung von erneuerbaren Energien wäre es relativ leicht, diese Emissionen erheblich zu senken. Auch hiermit hat Überbevölkerung nichts zu tun, vielmehr ist es unsere scheinbare Abhänigkeit von fossilen Energieträgern. Ein Umstieg auf eine erneuerbare Energieversorgung würde sowohl die bevorstehende Knappheit von fossilen Energieträgern, als auch die Problematik der globalen Erwärmung lösen.
@@ -81,7 +81,7 @@ Natürlich stellen beide der genannten historischen Ereignisse Extremfälle dar,
 
 ## Schlussfolgerung
 
-Wir haben gesehen, dass viele Symptome von scheinbarer Überbevölkerung auf eine ineffiziente Verteilung von Waren und Kapital zurückzuführen sind. Schon vor zwei Jahrhunderten beklagte man sich über Überbevölkerung, obwohl die damalige Bevölkerungszahl bei nur ungefähr 15% des Heutigen Standes lag.[^19] Selbst wenn die Bevölkerung drastisch reduziert würde, Hunger, Armut und Arbeitslosigkeit würden nicht aufhören zu existieren.
+Wir haben gesehen, dass viele Symptome von scheinbarer Überbevölkerung auf eine ineffiziente Verteilung von Waren und Kapital zurückzuführen sind. Schon vor zwei Jahrhunderten beklagte man sich über Überbevölkerung, obwohl die damalige Bevölkerungszahl bei nur ungefähr 15% des Heutigen Standes lag.[^16] Selbst wenn die Bevölkerung drastisch reduziert würde, Hunger, Armut und Arbeitslosigkeit würden nicht aufhören zu existieren.
 
 Es liegt nahe, dass das eigentliche Problem nicht eine zu grosse Population ist, sondern ein System, welches Ressourcen nicht im Interesse der Vielen, sondern im Interesse der Wenigen verteilt. Für Befürworter des freien Marktes jedoch ist es leichter, die oben genannten Folgen als Konsequenzen der Überbevolkerung darzustellen, statt die Nachteile des freien Marktes einzugestehen.
 
@@ -121,10 +121,4 @@ Um Hunger, Armut und Arbeitslosigkeit zu stoppen, muss nicht die Bevölkerung re
 
 [^15]: [Britannica. (2020). Costs of the war.](https://www.britannica.com/event/World-War-II/Costs-of-the-war)
 
-[^16]: [Ecopop. (2020). Ecopop Vorstand.](https://www.ecopop.ch/de/ueber-uns)
-
-[^17]: [Ecopop. (2014). Ecopop-Initiative - Das Volk entscheidet im November.](https://www.ecopop.ch/de/blog/initiative/469-ecopop-initiative-das-volk-entscheidet-im-november)
-
-[^18]: [Unia. (2014). Komitee solidarische Schweiz startet Abstimmungskampf gegen Ecopop-Initiative](https://www.unia.ch/de/aktuell/aktuell/artikel/a/10277)
-
-[^19]: [Population Reference Bureau. (2015). World Population Data Sheet.](https://assets.prb.org/pdf16/prb-wpds2016-web-2016.pdf)
+[^16]: [Population Reference Bureau. (2015). World Population Data Sheet.](https://assets.prb.org/pdf16/prb-wpds2016-web-2016.pdf)
