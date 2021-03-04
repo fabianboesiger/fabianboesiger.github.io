@@ -51,11 +51,21 @@ Erstaunlich an diesem Setup ist, dass sämtlichte verwendete Software Open Sourc
 
 Natürlich muss das Teleskop noch immer manuell aufgestellt und nach dem Nordstern ausgerichtet werden. Zusätzlich muss der Raspberry Pi eingesteckt werden. Der Hand-Controller der Montierung ist aber nicht mehr notwendig.
 
-Ausserdem fällt der relativ aufwendige Prozess des N-Star-Alignments weg. Dabei richtet sich das Teleskop nach verschiedenen Sternen aus. Anschliessend muss der Benutzer manuell den Stern im Zielsucher zentrieren. Daraus berechnet das Teleskop die genaue Position der Sterne relativ zum Standort des Teleskops. Dieser Prozess kann jetzt vollständig durch die Astronomiesoftware übernommen werden, da diese Zugriff auf die Kamera und die Montierung des Teleskops hat.
+Ausserdem fällt der relativ aufwendige Prozess des N-Star-Alignments weg. Dabei richtet sich das Teleskop nach verschiedenen Sternen aus. Anschliessend muss der Benutzer manuell den Stern im Zielsucher zentrieren. Daraus berechnet das Teleskop die genaue Position der Sterne relativ zum Standort des Teleskops.
+
+Dieser Prozess kann jetzt vollständig durch die Astronomiesoftware übernommen werden, da diese Zugriff auf die Kamera und die Montierung des Teleskops hat.
+So nimmt die Software ein Bild auf, vergleicht dieses Bild mit einer Sternenkarte
+und berechnet daraus die Differenz zwischen der gewünschten und der wirklichen
+Position.
 
 ### Auswählen des Ziels
 
-Das Ziel kann nun gemütlich drinnen vor dem Computer ausgewählt werden. Nach der Auswahl schwenkt das Teleskop automatisch zum Ziel und verfolgt es. Hier wählen wir ...
+Das Ziel kann nun gemütlich drinnen vor dem Computer ausgewählt werden. Nach der Auswahl schwenkt das Teleskop automatisch zum Ziel und verfolgt es. Hier wählen wir den Orionnebel als Ziel.
+
+![übersicht](/public/media/posts/astrophotography-setup/map.PNG)
+*Auf der Sternenkarte wählen wir den Orionnebel als Ziel.*
 
 ### Fotografie
 
+In der Software können wir nun gemütlich die gewünschte Anzahl an Aufnahmen und
+die Belichtungszeit angeben
