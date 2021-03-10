@@ -1,10 +1,10 @@
 <article class="image">
     <div class="image-wrapper">
-        <img class="lazyload" src="/public/styles/loading.gif" lazysrc="{{ post.link }}"></img>
+        <img src="{{ post.link }}" loading="lazy"></img>
         <div class="text">
-            <span><span class="date">{{ post.date | date: "%d.%m.%Y" }}</span> | <a href="{{ post.link }}">Öffnen</a> | <a href="{{ post.link }}" download>Download</a></spam>
+            <span class="date">{{ post.date | date: "%d.%m.%Y" }} | <a href="{{ post.link }}">Öffnen</a></span>
             <h2 class="title">{{ post.title }}</h2>
-            <span class="description">{{ post.description }}</span>
+            <span class="description">{{ post.description }}</span><br>
         </div>
     </div>
 </article>
