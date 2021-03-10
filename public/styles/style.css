@@ -168,13 +168,14 @@ blockquote em {
 blockquote::before {
     content: "❠";
     position: absolute;
-    top: -24px;
+    top: -8px;
     left: 16px;
     font-size: 32px;
     transform: rotate(180deg);
     background-color: var(--bg-color);
     padding-left: 2px;
     padding-right: 2px;
+    line-height: 32px;
 }
 
 /* CODE */
