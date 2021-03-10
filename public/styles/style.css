@@ -108,10 +108,7 @@ article h2 {
     padding-right: 4px;
     margin-top: 2px;
     margin-bottom: 2px;
-}
-
-.tag.category {
-    font-weight: bold;
+    cursor: pointer;
 }
 
 img.profile-picture {

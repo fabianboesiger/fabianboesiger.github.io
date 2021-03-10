@@ -2,6 +2,76 @@
 layout: default
 ---
 
+
+<script>
+    document.addEventListener("DOMContentLoaded", () => {
+        let posts = document.getElementsByClassName("post");
+        let overview = document.getElementById("overview");
+        let allTags = Object.values(document.getElementsByClassName("tag")).map(tag => tag.innerText);
+        
+        let allTagsCounted = {};
+        for (tag of allTags) {
+            if (allTagsCounted[tag] === undefined) {
+                allTagsCounted[tag] = 1;
+            } else {
+                allTagsCounted[tag]++;
+            }
+        }
+        allTagsCounted["Alles"] = posts.length;
+
+        var allTagsSorted = Object.entries(allTagsCounted);
+        allTagsSorted.sort(function(a, b) {
+            return b[1] - a[1];
+        });
+
+        for (let [tag, count] of allTagsSorted) {
+            overview.innerHTML += "<span class=\"tag overview\">" + tag + "</span>\n";
+        }
+
+        let tags = document.getElementsByClassName("tag");
+
+        update();
+        for (let tag of tags) {
+            tag.onclick = function() {
+                if (this.innerText === "Alles") {
+                    window.location.hash = "";
+                } else {
+                    window.location.hash = this.innerText;
+                }
+                update();
+            };
+        }
+
+        function update() {
+            let selected = decodeURIComponent(window.location.hash);
+            if (selected.length > 0) {
+                selected = selected.substr(1);
+            }
+
+            for (let tag of tags) {
+                if (tag.innerText === selected) {
+                    tag.style.backgroundColor = "#eee";
+                } else {
+                    tag.style.backgroundColor = "var(--background-color)";
+                }
+            }
+
+            for (let post of posts) {
+                let postTags = post.getElementsByClassName("tag");
+                if (!Object.values(postTags).map(tag => tag.innerText).includes(selected) && selected !== "") {
+                    post.style.display = "none";
+                } else {
+                    post.style.display = "block";
+                }
+            }
+        }
+        
+    });
+</script>
+
+<em>Wähle aus den Themen</em>
+<div id="overview"></div>
+
 {% for post in site.posts %}
 {% if post.categories contains "Projekt" or post.categories contains "Bild" %}
 {% else if %}
