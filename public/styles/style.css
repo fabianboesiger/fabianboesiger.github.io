@@ -168,7 +168,7 @@ blockquote em {
 blockquote::before {
     content: "❠";
     position: absolute;
-    top: -10px;
+    top: -24px;
     left: 16px;
     font-size: 32px;
     transform: rotate(180deg);
