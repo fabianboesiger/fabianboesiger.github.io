@@ -3,7 +3,7 @@ layout: post
 title: How Rusts Expressiveness enables better Performance
 date: 2020-12-06 17:00:00 +0100
 categories: Programmieren
-tags: [Rust, C, Aliasing, Optimization]
+tags: [Rust, C, Optimization]
 ---
 
 More expressive languages allow for better transfer of information. This concept is not only true for spoken languages, but also for programming languages.

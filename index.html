@@ -4,6 +4,8 @@ layout: default
 
 
 <script>
+    const ALL = "Alles";
+
     document.addEventListener("DOMContentLoaded", () => {
         let posts = document.getElementsByClassName("post");
         let overview = document.getElementById("overview");
@@ -17,7 +19,7 @@ layout: default
                 allTagsCounted[tag]++;
             }
         }
-        allTagsCounted["Alles"] = posts.length;
+        allTagsCounted[ALL] = posts.length;
 
         var allTagsSorted = Object.entries(allTagsCounted);
         allTagsSorted.sort(function(a, b) {
@@ -33,7 +35,7 @@ layout: default
         update();
         for (let tag of tags) {
             tag.onclick = function() {
-                if (this.innerText === "Alles") {
+                if (this.innerText === ALL) {
                     window.location.hash = "";
                 } else {
                     window.location.hash = this.innerText;
@@ -46,6 +48,8 @@ layout: default
             let selected = decodeURIComponent(window.location.hash);
             if (selected.length > 0) {
                 selected = selected.substr(1);
+            } else {
+                selected = ALL;
             }
 
             for (let tag of tags) {
@@ -58,7 +62,7 @@ layout: default
 
             for (let post of posts) {
                 let postTags = post.getElementsByClassName("tag");
-                if (!Object.values(postTags).map(tag => tag.innerText).includes(selected) && selected !== "") {
+                if (!Object.values(postTags).map(tag => tag.innerText).includes(selected) && selected !== ALL) {
                     post.style.display = "none";
                 } else {
                     post.style.display = "block";
