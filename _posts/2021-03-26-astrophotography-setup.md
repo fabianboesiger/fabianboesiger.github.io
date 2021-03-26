@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Automatisierung meines Astrofotografie-Setups
-date: 2021-01-20 11:00:00 +0100
+title: Die Automatisierung meines Astrofotografie-Setups
+date: 2021-03-26 16:00:00 +0100
 categories: Astronomie
 tags: [Astrofotografie, Automatisierung, Raspberry Pi]
 ---
@@ -20,7 +20,7 @@ Die Kamera, derzeit eine Canon EOS 1300d, unterstützt "out of the box" eine max
 
 Mit dem "Bulb"-Modus belichtet die Kamera solange wie der Benutzer den Auslöser gedrückt hält. Jedoch führt der ständige Druck auf den Auslöser zu Vibrationen in der Teleskopoptik, was das Bild unbrauchbar macht.
 
-Die Kamera kann über ein Netzwerk mit einem Smartphone verbunden und bedient werden, was gegen die Vibrationen hilft. Dennoch muss der Auslöser über die gesamte Belichtungszeit gedrückt gehalten werden.
+Die Kamera kann über ein eigenes Netzwerk mit einem Smartphone verbunden und bedient werden, was gegen die Vibrationen hilft. Dennoch muss der Auslöser über die gesamte Belichtungszeit gedrückt gehalten werden.
 
 ### Stacking
 
@@ -39,7 +39,7 @@ Scheint einfach zu sein, oder? Natürlich müssen noch einige Hürden überwunde
 
 Die [INDI Library](https://www.indilib.org/) ist eine Open Source Software, welche verwendet wird, um Astronomie-Equipment anzusteuern. INDI agiert als Brücke zwischen der Teleskop-Hardware und der Steuerungs-Software.
 
-Ein einfacher Weg, INDI auf dem Raspberry Pi zum laufen zu bringen, ist der [Astroberry Server](https://www.astroberry.io/). Astroberry Server ist ein vorgefertigtes Betriebssystem für den Raspberry Pi, welches nur auf die SD Karte des Raspberry Pi geflasht werden muss, und dann sofort betriebsbereit ist, zumindest theoretisch.
+Ein einfacher Weg, INDI auf dem Raspberry Pi zum laufen zu bringen, ist der [Astroberry Server](https://www.astroberry.io/). Astroberry Server ist ein vorgefertigtes Betriebssystem für den Raspberry Pi, welches nur auf die SD Karte geflasht werden muss, und dann sofort betriebsbereit ist.
 
 Der INDI Server ist dann über das lokale Netzwerk zum [KStars Astronomieprogramm](https://edu.kde.org/kstars/) verbunden, welches auf dem Computer drinnen läuft.
 
@@ -60,12 +60,20 @@ Position.
 
 ### Auswählen des Ziels
 
-Das Ziel kann nun gemütlich drinnen vor dem Computer ausgewählt werden. Nach der Auswahl schwenkt das Teleskop automatisch zum Ziel und verfolgt es. Hier wählen wir den Orionnebel als Ziel.
+Das Ziel kann nun gemütlich drinnen vor dem Computer ausgewählt werden. Nach der Auswahl schwenkt das Teleskop automatisch zum Ziel und verfolgt es. Hier wählen wir die Pinwheel-Galaxie als Ziel.
 
-![übersicht](/public/media/posts/astrophotography-setup/map.PNG)
-*Auf der Sternenkarte wählen wir den Orionnebel als Ziel.*
+![übersicht](/public/media/posts/astrophotography-setup/map.png)
+*Auf der Sternenkarte wählen wir die Pinwheel-Galaxie als Ziel.*
 
 ### Fotografie
 
-In der Software können wir nun gemütlich die gewünschte Anzahl an Aufnahmen und
-die Belichtungszeit angeben
+In der Software können wir nun gemütlich die gewünschte Anzahl an Aufnahmen und die Belichtungszeit angeben werden. Der Computer übernimmt den Rest.
+
+
+![übersicht](/public/media/posts/astrophotography-setup/summary.png)
+*In der Übersicht sehen wir den Gesamtfortschritt der Aufnahme.*
+
+### Das Resultat
+
+![übersicht](/public/media/gallery/2021-03-26-pinwheel-galaxy.jpg)
+*Das Resultat nach dem Stacking und einigen Anpassungen.*
