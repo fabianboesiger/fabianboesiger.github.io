@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Die Automatisierung meines Astrofotografie-Setups
+title: Die Automatisierung meiner Astrofotografie-Ausrüstung
 date: 2021-03-26 16:00:00 +0100
 categories: Astronomie
 tags: [Astrofotografie, Automatisierung, Raspberry Pi]
@@ -43,7 +43,7 @@ Ein einfacher Weg, INDI auf dem Raspberry Pi zum laufen zu bringen, ist der [Ast
 
 Der INDI Server ist dann über das lokale Netzwerk zum [KStars Astronomieprogramm](https://edu.kde.org/kstars/) verbunden, welches auf dem Computer drinnen läuft.
 
-Erstaunlich an diesem Setup ist, dass sämtlichte verwendete Software Open Source und somit kostenlos verwendbar ist.
+Interessant ist auch, dass sämtlichte verwendete Software Open Source und somit kostenlos verwendbar ist.
 
 ## Der Test
 
