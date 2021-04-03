@@ -8,7 +8,7 @@ tags: [Astrofotografie, Automatisierung, Raspberry Pi]
 
 ## Das Problem
 
-Obwohl "manuelle" Astrofotografie schon sehr interessant ist, gibt es dennoch einige Ungemütlichkeiten. Als Informatiker ist es sozusagen mein Instinkt, diese ungemütlichen Prozesse zu automatisieren.
+Obwohl manuelle Astrofotografie schon sehr interessant ist, gibt es dennoch einige Ungemütlichkeiten. Als Informatiker ist es sozusagen mein Instinkt, diese ungemütlichen Prozesse zu automatisieren.
 
 ### Die Kälte
 
