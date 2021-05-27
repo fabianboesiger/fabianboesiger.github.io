@@ -16,4 +16,5 @@ Im Folgenden möchte ich einige Argumente gegen den Glauben an Karma formulieren
 
 Das erste Argument ist grundsät
 
+
 ## Tue Böses, um Gutes zu erhalten
