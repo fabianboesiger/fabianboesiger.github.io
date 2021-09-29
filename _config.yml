@@ -1,5 +1,5 @@
 title: Fabian Bösiger
-description:
+description: Fabians persönlicher Blog.
 lang: de
 owner:
   name: Fabian Bösiger
@@ -8,6 +8,7 @@ social:
   github: fabianboesiger
   twitter: fabianboesiger
   instagram: fabian_boesiger
+  linkedin: fabian-bösiger-178912219
 permalink: /:title
 kramdown:
   smart_quotes: ["lsquo", "rsquo", "laquo", "raquo"]

@@ -62,7 +62,7 @@ Position.
 
 Das Ziel kann nun gemütlich drinnen vor dem Computer ausgewählt werden. Nach der Auswahl schwenkt das Teleskop automatisch zum Ziel und verfolgt es. Hier wählen wir die Pinwheel-Galaxie als Ziel.
 
-![übersicht](/public/media/posts/astrophotography-setup/map.png)
+![](/public/media/posts/astrophotography-setup/map.png)
 *Auf der Sternenkarte wählen wir die Pinwheel-Galaxie als Ziel.*
 
 ### Fotografie
@@ -70,10 +70,10 @@ Das Ziel kann nun gemütlich drinnen vor dem Computer ausgewählt werden. Nach d
 In der Software können wir nun gemütlich die gewünschte Anzahl an Aufnahmen und die Belichtungszeit angeben werden. Der Computer übernimmt den Rest.
 
 
-![übersicht](/public/media/posts/astrophotography-setup/summary.png)
+![](/public/media/posts/astrophotography-setup/summary.png)
 *In der Übersicht sehen wir den Gesamtfortschritt der Aufnahme.*
 
 ### Das Resultat
 
-![übersicht](/public/media/gallery/2021-03-26-pinwheel-galaxy.jpg)
+![](/public/media/posts/astrophotography-setup/pinwheel-galaxy.jpg)
 *Das Resultat nach dem Stacking und einigen Anpassungen.*

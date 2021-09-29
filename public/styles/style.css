@@ -1,189 +1,104 @@
-@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&family=Lora:ital,wght@0,400;0,700;1,400;1,700&family=Open+Sans+Condensed:wght@700&display=swap');
-
-:root {
-    --bg-color: white;
-    --text-color: black;
-}
-
-html {
-    font-family: "Lora";
-    word-break: break-word;
-    background: var(--bg-color);
-    color: var(--text-color);
-}
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&family=Lora:ital,wght@0,400;0,700;1,400;1,700&family=Poppins:wght@700&display=swap');
 
 body {
-    margin: 0;
-}
-
-nav {
-    position: sticky;
-    top: 0;
-    text-align: center;
-    border-bottom: 2px solid var(--text-color);
-    background: var(--bg-color);
-    z-index: 1000;
-}
-
-nav a {
-    display: inline-block;
-    margin: 8px;
-    margin-top: 16px;
-    margin-bottom: 16px;
-    font-family: "Open Sans Condensed";
-    text-transform: uppercase;
-}
-
-main, header h1 {
-    max-width: 512px;
-    margin: auto;
-    padding: 16px;
-}
-
-header h1 {
-    text-align: center;
-}
-
-footer {
-    border-top: 2px solid var(--text-color);
-    text-align: center;
-    padding: 16px;
+    margin: 16px;
+    font-family: "Lora";
+    color: #111;
 }
 
 h1, h2, h3, h4, h5, h6, th {
-    font-family: "Open Sans Condensed";
-    text-transform: uppercase;
+    font-family: "Poppins";
 }
 
-h1 {
-    font-size: 40px;
+main {
+    padding-top: 32px;
+    padding-bottom: 32px;
 }
 
-h2 {
-    font-size: 32px;
+nav, header, footer {
+    text-align: center;
 }
 
-h3 {
-    font-size: 24px;
+main, header, footer {
+    margin: auto;
+    max-width: 768px;
 }
 
-a {
-    color: var(--text-color);
+nav a {
+    margin-left: 2px;
+    margin-right: 2px;
 }
 
-table {
+img {
     width: 100%;
-    margin-top: 1em;
-    margin-bottom: 1em;
+}
+
+p {
+    line-height: 22px;
 }
 
 th {
     text-align: left;
+}
+
+.post {
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+.post h2 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.profile-picture {
+    width: 192px;
+    border-radius: 50%;
+    display: block;
+}
+
+.about th, .about td {
     padding: 2px;
-    /*
-    background: var(--text-color);
-    color: var(--bg-color);
-    */
 }
 
-td {
-    padding: 2px;
+.about th:first-child, .about td:first-child {
+    padding-top: 0;
+    padding-bottom: 0;
+    font-size: 18px;
 }
 
-article {
-    margin-top: 48px;
-    margin-bottom: 48px;
+.about th {
+    padding: 4px;
+    padding-top: 1em;
 }
 
-article h2 {
-    margin-top: 2px;
-    margin-bottom: 2px;
+.social {
+    width: 32px;
+}
+
+.center > * {
+    margin: auto;
 }
 
 .tag {
-    display: inline-block;
-    border: 2px solid var(--text-color);
-    border-radius: 16px;
-    padding-left: 4px;
-    padding-right: 4px;
-    margin-top: 2px;
-    margin-bottom: 2px;
     cursor: pointer;
+    font-style: italic;
+    margin-left: 2px;
+    margin-right: 2px;
 }
 
-img.profile-picture {
-    border-radius: 50%;
-    width: 192px;
-    height: 192px;
-    margin: calc(50% - 96px);
-    margin-top: 1em;
-    margin-bottom: 1em;
-    border: 2px solid var(--text-color);
+.tag.selected {
+    font-weight: bold;
 }
 
-img.social {
-    width: 32px;
-    height: 32px;
-    margin-left: 8px;
-    margin-right: 8px;
-}
-
-main > p > img {
-    width: 100%;
-    border: 2px solid var(--text-color);
-}
-
-@media only screen and (max-width: 512px) {
-    main > p > img, main div.highlighter-rouge, .table-wrapper {
-        margin-left: -16px;
-        width: calc(100% + 32px);
-        border-left: none;
-        border-right: none;
-    }
-}
-
-blockquote {
-    position: relative;
-    border: 2px solid var(--text-color);
-    padding: 16px;
-    margin-left: 0;
-    margin-right: 0;
-}
-
-blockquote em {
-    display: inline-block;
-    max-width: calc(100% - 64px);
-    text-align: right;
-    position: absolute;
-    bottom: -10px;
-    right: 16px;
-    background-color: var(--bg-color);
-    padding-left: 2px;
-    padding-right: 2px;
-}
-
-blockquote::before {
-    content: "❠";
-    position: absolute;
-    top: -8px;
-    left: 16px;
-    font-size: 32px;
-    transform: rotate(180deg);
-    background-color: var(--bg-color);
-    padding-left: 2px;
-    padding-right: 2px;
-    line-height: 32px;
+a {
+    color: #b11;
 }
 
 /* CODE */
 
 code {
     font-family: "Fira Code";
-    font-size: 16px;
-}
-
-.highlighter-rouge {
-    background: #eee;
 }
 
 code.highlighter-rouge {
@@ -194,7 +109,6 @@ code.highlighter-rouge {
 div.highlighter-rouge {
     overflow-x: auto;
     position: relative;
-    border: 2px solid black;
 }
 
 div.highlighter-rouge code {
@@ -212,14 +126,16 @@ div.highlighter-rouge code {
 .highlight .c1,
 .highlight .cs
 {
-    color: grey;
+    color: #777;
     font-style: italic;
 }
 
 /* Errors */
 .highlight .err
 {
-    color: darkred;
+    color: #111;
+    font-weight: bold;
+    font-style: italic;
 }
 
 /* Keywords */
@@ -231,7 +147,7 @@ div.highlighter-rouge code {
 .highlight .kr,
 .highlight .kt
 {
-    color: darkmagenta;
+    color: #111;
     font-weight: bold;
 }
 
@@ -244,7 +160,7 @@ div.highlighter-rouge code {
 .highlight .mi,
 .highlight .mo
 {
-    color: darkgreen;
+    color: #111;
 }
 
 /* Functions, Macros, Methods */
@@ -260,7 +176,7 @@ div.highlighter-rouge code {
 .highlight .nt,
 .highlight .nv
 {
-    color: darkblue;
+    color: #111;
 }
 
 /* Builtins */
@@ -271,6 +187,5 @@ div.highlighter-rouge code {
 .highlight .vg,
 .highlight .vi
 {
-    color: darkmagenta;
-    font-weight: bold;
+    color: #111;
 }

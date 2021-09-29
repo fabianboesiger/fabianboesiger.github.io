@@ -1,19 +1,13 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="{{ site.lang }}">
+    {% include head.html %}
+    <body>
+        {% include header.html %}
+        {% include nav.html %}
+        <main>
+            {{ content }}
+        </main>
+        {% include footer.html %}
+    </body>
+</html>
 
-<script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-<script>
-    document.addEventListener("DOMContentLoaded", () => {
-        let tables = document.getElementsByTagName("table");
-        for (let i = 0; i < tables.length; i++) {
-            let table = tables[i];
-            let wrapper = document.createElement("div");
-            wrapper.classList.add("table-wrapper");
-            table.parentNode.insertBefore(wrapper, table);
-            wrapper.appendChild(table);
-        }
-    });
-</script>
-
-{{ content }}
