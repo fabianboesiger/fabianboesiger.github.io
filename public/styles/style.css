@@ -8,6 +8,7 @@ body {
 
 h1, h2, h3, h4, h5, h6, th {
     font-family: "Poppins";
+    word-wrap: break-word;
 }
 
 main {
@@ -23,6 +24,15 @@ main, header, footer {
     margin: auto;
     max-width: 768px;
 }
+
+/*
+nav {
+    position: sticky;
+    top: 0;
+    background: white;
+    padding: 12px;
+}
+*/
 
 nav a {
     margin-left: 2px;
@@ -93,6 +103,31 @@ th {
 
 a {
     color: #b11;
+}
+
+blockquote em {
+    display: block;
+    text-align: right;
+}
+
+blockquote {
+    position: relative;
+}
+
+blockquote::before {
+    content: "❝";
+    font-size: 32px;
+    position: absolute;
+    top: -8px;
+    left: -32px;
+}
+
+blockquote::after {
+    content: "❞";
+    font-size: 32px;
+    position: absolute;
+    bottom: -18px;
+    right: -32px;
 }
 
 /* CODE */
