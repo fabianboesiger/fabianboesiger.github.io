@@ -34,7 +34,7 @@ Die FDP hätte es lieber, wenn bei einer Ablehnung der Initiative der Gegenvorsc
 umgesetzt wird. Auf ihrer Website behaupten sie:
 
 > Der Gegenvorschlag ist praktisch eine Umsetzung der Initiative.[^2]
-- Aussagenlogik-Helden bei der FDP
+*Aussagenlogik-Helden bei der FDP*
 
 Wenn der Gegenvorschlag praktisch eine Umsetzung der Initiative ist,
 warum dann nicht gleich für die Initiative stimmen?
@@ -48,7 +48,7 @@ Gerade die Wirtschaftler bei der FDP sollten doch die Dynamik im Arbeitsmarkt ve
 ### Die Initiative geht zu weit
 
 > Lohnregulierung durch den Bund wäre ein gefährlicher Präzedenzfall einer Einmischung in ein funktionierendes System.[^2]
-- Gegenargument der FDP
+*Gegenargument der FDP*
 
 Scheint, als wäre die Covid-Pandemie noch nicht bei der FDP angekommen.
 Muss ein funktionierendes System Operationen stoppen, weil zu wenig Pfleger auf den Intensivstationen verfügbar sind?[^3] Wenn die Nachfrage
