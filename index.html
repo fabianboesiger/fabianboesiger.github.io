@@ -2,7 +2,7 @@
 layout: default
 ---
 
-
+<!--
 <script>
     const ALL = "Alles";
 
@@ -27,7 +27,7 @@ layout: default
         });
 
         for (let [tag, count] of allTagsSorted) {
-            overview.innerHTML += "<span class=\"tag overview\">" + tag + "</span>\n";
+            overview.innerHTML += "<a class=\"tag overview\">" + tag + "</a>\n";
         }
 
         let tags = document.getElementsByClassName("tag");
@@ -72,11 +72,13 @@ layout: default
         
     });
 </script>
-
+-->
+<!--
 <section>
     <p>Wähle aus den Themen</p>
     <p id="overview"></p>
 </section>
+-->
 
 {% for post in site.posts %}
 {% if post.categories contains "Projekt" or post.categories contains "Bild" %}

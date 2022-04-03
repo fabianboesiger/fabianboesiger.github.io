@@ -1,42 +1,58 @@
-@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&family=Lora:ital,wght@0,400;0,700;1,400;1,700&family=Poppins:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&family=Lora:ital,wght@0,400;0,700;1,400;1,700&family=Oswald:wght@400;700&display=swap');
 
 body {
     margin: 16px;
     font-family: "Lora";
-    color: #111;
+    color: black;
 }
 
 h1, h2, h3, h4, h5, h6, th {
-    font-family: "Poppins";
+    font-family: "Oswald";
+    text-transform: uppercase;
     word-wrap: break-word;
 }
 
-main {
-    padding-top: 32px;
-    padding-bottom: 32px;
+h1 {
+    font-size: 32px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+h3 {
+    font-weight: normal;
+    font-size: 16px;
+}
+
+main, header, footer, nav {
+    margin: auto;
+    max-width: 768px;
 }
 
 nav, header, footer {
     text-align: center;
 }
 
-main, header, footer {
-    margin: auto;
-    max-width: 768px;
+header {
+    border-bottom: 1px solid #ccc;
 }
 
-/*
 nav {
     position: sticky;
     top: 0;
+    z-index: 1000;
+    padding-top: 12px;
+    padding-bottom: 12px;
     background: white;
-    padding: 12px;
+    border-bottom: 1px solid #ccc;
 }
-*/
 
-nav a {
-    margin-left: 2px;
-    margin-right: 2px;
+footer {
+    margin-top: 12px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border-top: 1px solid #ccc;
 }
 
 img {
@@ -52,19 +68,22 @@ th {
 }
 
 .post {
-    margin-top: 32px;
-    margin-bottom: 32px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+.post * {
+    font-style: normal;
+    text-decoration: none;
+}
+
+.post ~ .post {
+    border-top: 1px solid #ccc;
 }
 
 .post h2 {
     margin-top: 0;
     margin-bottom: 0;
-}
-
-.profile-picture {
-    width: 192px;
-    border-radius: 50%;
-    display: block;
 }
 
 .about th, .about td {
@@ -86,15 +105,22 @@ th {
     width: 32px;
 }
 
-.center > * {
-    margin: auto;
+nav {
+    font-size: 0;
 }
 
-.tag {
-    cursor: pointer;
-    font-style: italic;
-    margin-left: 2px;
-    margin-right: 2px;
+.tag, nav > a {
+    font-size: 16px;
+    padding-left: 8px;
+    padding-right: 8px;
+    font-family: "Oswald";
+    font-style: normal;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.tag ~ .tag, nav > a ~ a {
+    border-left: 1px solid #ccc;
 }
 
 .tag.selected {
@@ -102,7 +128,7 @@ th {
 }
 
 a {
-    color: #b11;
+    color: black;
 }
 
 blockquote em {
@@ -161,14 +187,14 @@ div.highlighter-rouge code {
 .highlight .c1,
 .highlight .cs
 {
-    color: #777;
+    color: gray;
     font-style: italic;
 }
 
 /* Errors */
 .highlight .err
 {
-    color: #111;
+    color: black;
     font-weight: bold;
     font-style: italic;
 }
@@ -182,7 +208,7 @@ div.highlighter-rouge code {
 .highlight .kr,
 .highlight .kt
 {
-    color: #111;
+    color: black;
     font-weight: bold;
 }
 
@@ -195,7 +221,7 @@ div.highlighter-rouge code {
 .highlight .mi,
 .highlight .mo
 {
-    color: #111;
+    color: black;
 }
 
 /* Functions, Macros, Methods */
@@ -211,7 +237,7 @@ div.highlighter-rouge code {
 .highlight .nt,
 .highlight .nv
 {
-    color: #111;
+    color: black;
 }
 
 /* Builtins */
@@ -222,5 +248,5 @@ div.highlighter-rouge code {
 .highlight .vg,
 .highlight .vi
 {
-    color: #111;
+    color: black;
 }

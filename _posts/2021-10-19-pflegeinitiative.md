@@ -4,6 +4,7 @@ title: Ja zur Pflegeinitiative
 date: 2021-10-19 10:00:00 +0100
 categories: Politik
 tags: [Schweiz, Initiative, Gesundheit]
+description: "Eine Diskussion der Gegenargumente."
 ---
 
 ## Die Initiative in Kürze

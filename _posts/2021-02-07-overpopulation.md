@@ -4,6 +4,7 @@ title: Überbevölkerung
 date: 2021-02-07 17:00:00 +0100
 categories: Politik
 tags: [Wirtschaft, Klimawandel]
+description: "Viele scheinen der Ansicht zu sein, dass unsere Erde überbevölkert ist. Diese Ansicht soll im Folgenden infrage gestellt werden."
 ---
 
 Viele scheinen der Ansicht zu sein, dass unsere Erde überbevölkert ist. Diese Ansicht soll im Folgenden infrage gestellt werden.
