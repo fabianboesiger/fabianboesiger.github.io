@@ -41,10 +41,11 @@ section {
     padding: 12px;
     padding-top: 1px;
     padding-bottom: 1px;
-    margin-left: 28px;
+    margin-left: 29px;
 }
 
-.date {
+.year {
+    background: white;
     border: 4px solid black;
     padding: 4px;
     border-radius: 4px;
@@ -64,80 +65,82 @@ section {
     margin-bottom: 12px;
 }
 </style>
-<p style="text-align: center;">
-    <img class="profile-picture" src="https://avatars0.githubusercontent.com/u/37577569">
-    <a href="https://github.com/{{ site.social.github }}"><img src="/public/social/github.png" class="social"></a>
-    <a href="https://www.linkedin.com/in/{{ site.social.linkedin }}"><img src="/public/social/linkedin.png" class="social"></a>
-    <a href="https://instagram.com/{{ site.social.instagram }}"><img src="/public/social/instagram.png" class="social"></a>
-</p>
-<p>
-    I'm a master's student in computer science at ETH Zürich with a focus on building secure and reliable systems.
-    Next to my studies, I also work part time as an application engineer.
-    
-    Besides computer scinence, I'm also interested in economics, politics and astrophotography.
-</p>
 
-<h2>Work Experience</h2>
+<div id="cv">
+    <p style="text-align: center;">
+        <img class="profile-picture" src="https://avatars0.githubusercontent.com/u/37577569">
+        <a href="https://github.com/{{ site.social.github }}"><img src="/public/social/github.png" class="social"></a>
+        <a href="https://www.linkedin.com/in/{{ site.social.linkedin }}"><img src="/public/social/linkedin.png" class="social"></a>
+        <a href="https://instagram.com/{{ site.social.instagram }}"><img src="/public/social/instagram.png" class="social"></a>
+    </p>
+    <p>
+        I'm a master's student in computer science at ETH Zürich with a focus on building secure and reliable systems.
+        Next to my studies, I also work part time as an application engineer.
+        Besides computer scinence, I'm interested in economics, politics and astrophotography.
+    </p>
 
-<span class="date">Today</span>
-<section class="schindler">
-    <h3>Application Engineer at Schindler</h3>
-    <p>
-        While completing the master's studies at ETH, I began working part time as an application engineer at Schindler Berufsbildung,
-        where I had the chance to not only contribute to existing projects, but also build my own projects from scratch.
-    </p>
-</section>
-<span class="date">2021</span>
-<section class="open-source-projects">
-    <h3>Various Open Source Projects</h3>
-    <p>
-        During my studies at ETH Zürich, I worked on various open source projects.
-        These projects, together with the excellent education at ETH, helped to push my programming skills to an advanced level.
-    </p>
-    <p>
-        A notable example of such a project is a <a href="https://crates.io/crates/ftx">Rust Crate</a> that provides API bindings to the FTX Crypto Exchange.
-        This Project has attracted various users, nearly 1000 downloads and 17 Contributors.
-    </p>
-</section>
-<span class="date">2019</span>
+    <h2>Work Experience</h2>
 
-<h2>Education</h2>
+    <span class="year">Today</span>
+    <section class="schindler">
+        <h3>Application Engineer at Schindler</h3>
+        <p>
+            While completing the master's studies at ETH, I began working part time as an application engineer at Schindler Berufsbildung,
+            where I had the chance to not only contribute to existing projects, but also build my own projects from scratch.
+        </p>
+    </section>
+    <span class="year">2021</span>
+    <section class="open-source-projects">
+        <h3>Various Open Source Projects</h3>
+        <p>
+            During my studies at ETH Zürich, I worked on various open source projects.
+            These projects, together with the excellent education at ETH, helped to push my programming skills to an advanced level.
+        </p>
+        <p>
+            A notable example of such a project is a <a href="https://crates.io/crates/ftx">Rust Crate</a> that provides API bindings to the FTX Crypto Exchange.
+            This Project has attracted various users, nearly 1000 downloads and 17 Contributors.
+        </p>
+    </section>
+    <span class="year">2019</span>
 
-<span class="date">Today</span>
-<section class="eth">
-    <h3>MSc ETH in Computer Science</h3>
-    <p>
-        After finishing the bachelor's degree in computer science,
-        I continued studing for the master's degree with a major in
-        the field of secure and reliable systems, and a minor in networking.
-    </p>
-</section>
-<span class="date">2021</span>
-<section class="eth">
-    <h3>BSc ETH in Computer Science</h3>
-    <p>
-        I started studing computer science at ETH Zürich due to the passion for programming
-        that I developed in the introductory courses for computer science at the Kantonsschule Sursee. 
-    </p>
-    <p>
-        During my bachelor's studies, my interest in building reliable software began to grow.
-        This motivated me to learn the Rust programming language in 2019, influenced my selection of the major for
-        my master's studies. I also wrote my
-        <a href="https://ethz.ch/content/dam/ethz/special-interest/infk/chair-program-method/pm/documents/Education/Theses/Fabian_Boesiger_BS_Report.pdf">bachelor's thesis</a> in the field of program verification.
-    </p>
-</section>
-<span class="date">2018</span>
-<section class="ks">
-    <h3>Kantonsschule Sursee</h3>
-    <p>
-        My educational career began at the Kantonsschule Sursee.
-        Here, I acquired a fundamental knowledge base for which I'm very thankful today.
-    </p>
-    <p>
-        The introductory computer science courses sparked my interest for programming,
-        and my focus in mathematics and physics provided me with the necessary mathematical and logical intuition for studing computer science.
-        For my <a href="https://kssursee.lu.ch/-/media/KSSursee/Dokumente/sb/HallOfFame/AusgezeichneteArbeiten/MA17_GHE_Boesiger_Fabian_6B.pdf?la=de-CH">Maturaarbeit</a>,
-        I implemented neural network for facial recognition from stratch.
-    </p>
-</section>
-<span class="date">2012</span>
+    <h2>Education</h2>
+
+    <span class="year">Today</span>
+    <section class="eth">
+        <h3>MSc ETH in Computer Science</h3>
+        <p>
+            After finishing the bachelor's degree in computer science,
+            I continued studing for the master's degree with a major in
+            the field of secure and reliable systems, and a minor in networking.
+        </p>
+    </section>
+    <span class="year">2021</span>
+    <section class="eth">
+        <h3>BSc ETH in Computer Science</h3>
+        <p>
+            I started studing computer science at ETH Zürich due to the passion for programming
+            that I developed in the introductory courses for computer science at the Kantonsschule Sursee. 
+        </p>
+        <p>
+            During my bachelor's studies, my interest in building reliable software began to grow.
+            This motivated me to learn the Rust programming language in 2019, influenced my selection of the major for
+            my master's studies. I also wrote my
+            <a href="https://ethz.ch/content/dam/ethz/special-interest/infk/chair-program-method/pm/documents/Education/Theses/Fabian_Boesiger_BS_Report.pdf">bachelor's thesis</a> in the field of program verification.
+        </p>
+    </section>
+    <span class="year">2018</span>
+    <section class="ks">
+        <h3>Kantonsschule Sursee</h3>
+        <p>
+            My educational career began at the Kantonsschule Sursee.
+            Here, I acquired a fundamental knowledge base for which I'm very thankful today.
+        </p>
+        <p>
+            The introductory computer science courses sparked my interest for programming,
+            and my focus in mathematics and physics provided me with the necessary mathematical and logical intuition for studing computer science.
+            For my <a href="https://kssursee.lu.ch/-/media/KSSursee/Dokumente/sb/HallOfFame/AusgezeichneteArbeiten/MA17_GHE_Boesiger_Fabian_6B.pdf?la=de-CH">Maturaarbeit</a>,
+            I implemented neural network for facial recognition from stratch.
+        </p>
+    </section>
+    <span class="year">2012</span>
+</div>

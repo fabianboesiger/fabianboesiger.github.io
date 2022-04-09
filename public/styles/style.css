@@ -1,15 +1,41 @@
 @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&family=Lora:ital,wght@0,400;0,700;1,400;1,700&family=Oswald:wght@400;700&display=swap');
 
+:root {
+    --light-text-color: #888888;
+    --text-color: #000000;
+    --background-color: #ffffff;
+    --spacer-style: 1px solid #dddddd;
+    --spacing: 12px;
+}
+
+/*
+@media (prefers-color-scheme: dark) {
+    :root {
+        --light-text-color: #777777;
+        --text-color: #ffffff;
+        --background-color: #111111;
+        --spacer-style: 1px solid #333333;
+        --spacing: 12px;
+    }
+}
+*/
+
+html {
+    background: var(--background-color);
+    color: var(--text-color);
+}
+
 body {
     margin: 16px;
     font-family: "Lora";
-    color: black;
+    line-height: 1.4em;
 }
 
 h1, h2, h3, h4, h5, h6, th {
     font-family: "Oswald";
     text-transform: uppercase;
     word-wrap: break-word;
+    line-height: 1.2em;
 }
 
 h1 {
@@ -35,32 +61,28 @@ nav, header, footer {
 }
 
 header {
-    border-bottom: 1px solid #ccc;
+    border-bottom: var(--spacer-style);
 }
 
 nav {
     position: sticky;
     top: 0;
     z-index: 1000;
-    padding-top: 12px;
-    padding-bottom: 12px;
-    background: white;
-    border-bottom: 1px solid #ccc;
+    padding-top: var(--spacing);
+    padding-bottom: var(--spacing);
+    background: var(--background-color);
+    border-bottom: var(--spacer-style);
 }
 
 footer {
-    margin-top: 12px;
-    padding-top: 12px;
-    padding-bottom: 12px;
-    border-top: 1px solid #ccc;
+    margin-top: var(--spacing);
+    padding-top: var(--spacing);
+    padding-bottom: var(--spacing);
+    border-top: var(--spacer-style);
 }
 
 img {
     width: 100%;
-}
-
-p {
-    line-height: 22px;
 }
 
 th {
@@ -68,8 +90,8 @@ th {
 }
 
 .post {
-    padding-top: 12px;
-    padding-bottom: 12px;
+    padding-top: var(--spacing);
+    padding-bottom: var(--spacing);
 }
 
 .post * {
@@ -78,27 +100,12 @@ th {
 }
 
 .post ~ .post {
-    border-top: 1px solid #ccc;
+    border-top: var(--spacer-style);
 }
 
 .post h2 {
-    margin-top: 0;
-    margin-bottom: 0;
-}
-
-.about th, .about td {
-    padding: 2px;
-}
-
-.about th:first-child, .about td:first-child {
-    padding-top: 0;
-    padding-bottom: 0;
-    font-size: 18px;
-}
-
-.about th {
-    padding: 4px;
-    padding-top: 1em;
+    margin-top: 4px;
+    margin-bottom: 4px;
 }
 
 .social {
@@ -107,28 +114,46 @@ th {
 
 nav {
     font-size: 0;
+    height: 24px;
 }
 
-.tag, nav > a {
+nav > a {
     font-size: 16px;
-    padding-left: 8px;
-    padding-right: 8px;
+    padding-left: var(--spacing);
+    padding-right: var(--spacing);
     font-family: "Oswald";
     font-style: normal;
     text-transform: uppercase;
     text-decoration: none;
 }
 
-.tag ~ .tag, nav > a ~ a {
-    border-left: 1px solid #ccc;
+nav > a ~ a {
+    border-left: var(--spacer-style);
+}
+
+.tag {
+    font-size: 16px;
+    font-family: "Oswald";
+    font-style: normal;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: var(--light-text-color);
+}
+
+.tag ~ .tag::before {
+    content: " - ";
 }
 
 .tag.selected {
     font-weight: bold;
 }
 
+.date {
+    color: var(--light-text-color);
+}
+
 a {
-    color: black;
+    color: var(--text-color);
 }
 
 blockquote em {
@@ -187,14 +212,14 @@ div.highlighter-rouge code {
 .highlight .c1,
 .highlight .cs
 {
-    color: gray;
+    color: var(--light-text-color);
     font-style: italic;
 }
 
 /* Errors */
 .highlight .err
 {
-    color: black;
+    color: var(--text-color);
     font-weight: bold;
     font-style: italic;
 }
@@ -208,7 +233,7 @@ div.highlighter-rouge code {
 .highlight .kr,
 .highlight .kt
 {
-    color: black;
+    color: var(--text-color);
     font-weight: bold;
 }
 
@@ -221,7 +246,7 @@ div.highlighter-rouge code {
 .highlight .mi,
 .highlight .mo
 {
-    color: black;
+    color: var(--text-color);
 }
 
 /* Functions, Macros, Methods */
@@ -237,7 +262,7 @@ div.highlighter-rouge code {
 .highlight .nt,
 .highlight .nv
 {
-    color: black;
+    color: var(--text-color);
 }
 
 /* Builtins */
@@ -248,5 +273,5 @@ div.highlighter-rouge code {
 .highlight .vg,
 .highlight .vi
 {
-    color: black;
+    color: var(--text-color);
 }

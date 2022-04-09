@@ -1,29 +1,40 @@
 ---
 layout: post
-title: "Der Verkehr von Morgen: Ein Konzept"
-date: 2020-08-04 13:00:00 +0100
-categories: [Politik, Wirtschaft]
-tags: []
+title: "Über das Verkehrsproblem"
+date: 2022-03-17 13:00:00 +0100
+categories: [Politik]
+tags: [Wirtschaft, Schweiz]
+description: "Eine Konzept des Schweizer Verkehrs von Morgen."
 ---
 
 Verkehr war schon immer ein äusserst wichtiges Thema und wird es auch bleiben.
 Jede erfolgreiche Nation muss über ein gutes Verkehrsnetz verfügen, denn
-es ist das Rückgrat einer jeden Wirtschaft. Gerade deshalb ist ständige Innovation in diesem Bereich unverzichtbar. Und bevor jemand auf falsche Gedanken kommt: Nein, ein Tunnel nur für Teslas mit cooler Beleuchtung ist keine Innovation.
+dieses bildet das Rückgrat einer jeden Wirtschaft. Gerade deshalb ist ständige Innovation in diesem Bereich unverzichtbar. Und bevor jemand auf falsche Gedanken kommt: Nein, ein Tunnel nur für Teslas mit cooler Beleuchtung ist keine Innovation.
 
 ![](/public/media/posts/future-transportation/vegas-loop.jpg)
-*Elon Musks pseudo-futuristische Todesfalle a.k.a. Vegas Loop. Ich kann garantieren, dass alle, die in diesem Tunnel fahren, noch nie eine Batterie haben explodieren sehen, geschweige denn eine Tesla-Batterie, die eine halbe Tonne wiegt.*
+*Elon Musks pseudo-futuristische Todesfalle a.k.a. Vegas Loop. Ich würde wetten, dass alle, die in diesem Tunnel fahren, noch nie eine Batterie haben brennen sehen, geschweige denn eine Tesla-Batterie, die eine halbe Tonne wiegt.*
 
 ## Ein Rückblick in die Geschichte
 
-Bevor wir eine Vision für die Zukunft entwickeln, sollten wir zuerst die Vergangenheit verstehen. Schauen wir uns deshalb kurz die Geschichte des Verkehrs in der Schweiz an.
+Bevor wir eine Vision für den Verkehr der zukünftigen Schweiz entwickeln, sollten wir zuerst die Vergangenheit verstehen. Schauen wir uns deshalb kurz die Geschichte des Verkehrs in der Schweiz an.
 
 ### Die Modernisierung des Strassenverkehrs
 
-Im 18. Jahrundert begannen die Orte der damaligen Schweizerischen Eidgenossenschaft mit dem Strassenbau, natürlich damals für den Transport mit Pferden. Am Ende des 18. Jahrunderts waren die wichtigsten Städte über dieses Strassennetz verbunden, und die Pässe wurden fahrbar gemacht. Das war eine wichtige Voraussetzung für die Industrialisierung und somit für die Entwicklung der heutigen Schweiz.
+Im 18. Jahrundert begannen die Orte der damaligen Schweizerischen Eidgenossenschaft mit dem Strassenbau, natürlich damals für den Transport mit Pferden. Am Ende des 18. Jahrunderts waren die wichtigsten Städte über dieses Strassennetz verbunden, und die Pässe wurden fahrbar gemacht. Das war eine wichtige Voraussetzung für die Industrialisierung und somit für die Entwicklung der heutigen Schweiz.[^1]
 
 ### Das Zeitalter der Eisenbahn
 
+Ab 1850 wurden Güter in der Schweiz zunehmend mit der Eisenbahn Transportiert. Dies führte zu einer Beschleunigung der wirtschaftlichen Entwicklung der an das Schienennetz angeschlossenen Städte. Der Gütertransport über die Schifffahrt wurde zuhnehmends bedeutungslos.[^1]
+
+Ab 1880 gewann die Bahn an Bedeutung im Personenverkehr, auch durch das aufkommen von längeren Arbeitswegen von den Agglomerationen in die Städte.[^1]
+
+### Die Motorisierung
+
+
+
 ### Die Ausgangslage
+
+
 
 Eisenbahnprojekte
 
@@ -48,7 +59,9 @@ Motorisierter Strassenverkehr verursacht eine Reihe von verschiedenen negativen 
 
 https://www.are.admin.ch/are/de/home/mobilitaet/grundlagen-und-daten/kosten-und-nutzen-des-verkehrs.html
 
-### Verkehr in Grossstädten
+### Lärm- und Staubemissionen
+
+### CO2-Ausstoss
 
 ## Der Lösungsvorschlag
 
@@ -67,7 +80,9 @@ Die Teuerung des Autofahrens und der günstigere und ständig effizienter werden
 
 Autoverkehr innerhalb von Städten wird verboten, abgesehen von Zubringerdienst und Notfalldienst.
 
-https://www.swissinfo.ch/ger/vcs-fordert-mehr-oeffentlichen-verkehr/7467768
+[^1]: [Historisches Lexikon der Schweiz. (2014). Verkehr.](https://hls-dhs-dss.ch/de/articles/013898/2014-01-15/)
+
+[^2]: https://www.swissinfo.ch/ger/vcs-fordert-mehr-oeffentlichen-verkehr/7467768
 
 https://reporting.sbb.ch/finanzen?=&years=0,1,4,5,6,7&scroll=342&highlighted=8e222679f50e32c11a71983b56261875
 
@@ -77,6 +92,5 @@ https://www.bfs.admin.ch/bfs/de/home/statistiken/mobilitaet-verkehr/kosten-finan
 
 https://www.bfs.admin.ch/bfs/de/home/statistiken/mobilitaet-verkehr/verkehrsinfrastruktur-fahrzeuge/schweiz-strassenverkehrszaehlung/stau.html
 
-https://hls-dhs-dss.ch/de/articles/013898/2014-01-15/
 
 https://www.latimes.com/california/story/2019-11-27/how-405-freeway-gridlock-became-the-iconic-image-of-l-a-thanksgiving
