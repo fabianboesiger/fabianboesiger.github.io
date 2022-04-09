@@ -1,6 +1,6 @@
 <section class="post">
     <a href="{{ post.url }}">
-        <span class="tag category">{{ post.category }}</span><span class="date"> {{ post.date | date: "%d.%m.%Y" }}</span>
+        <p class="tag category">{{ post.category }}</p>
         <h2 class="title">{{ post.title }}</h2>
 
         <!--
@@ -10,8 +10,8 @@
             {% endfor %}
         </div>
         -->
-        <span>{{ post.description }}</span>
-        
+        <p>{{ post.description }}</p>
+        <p class="date">{{ post.date | date: "%d.%m.%Y" }}</p>
     </a>
 </section>
 

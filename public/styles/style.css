@@ -94,18 +94,18 @@ th {
     padding-bottom: var(--spacing);
 }
 
-.post * {
-    font-style: normal;
+
+.post > a {
     text-decoration: none;
+}
+
+.post > a > * {
+    margin-top: 4px;
+    margin-bottom: 4px;
 }
 
 .post ~ .post {
     border-top: var(--spacer-style);
-}
-
-.post h2 {
-    margin-top: 4px;
-    margin-bottom: 4px;
 }
 
 .social {
