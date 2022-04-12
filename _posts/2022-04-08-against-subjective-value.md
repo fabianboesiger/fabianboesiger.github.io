@@ -19,4 +19,4 @@ Jeder, den zu in der Lage bist zu erreichen, wird ebenfalls Zugang zu einem Mark
 
 Der Tauschwert ist also die Erscheinungsform des Wertes im Kontext einer Marktwirtschaft. Doch der Tauschwert eines Gutes ist zweifellos objektiv. Es ist ja gerade der Markt, der die Tauschwerte zwischen Waren objektiv bestimmt, durch den Mechanismus der Preisbildung. Dass der Preis eines Cheeseburgers im McDonald's 2.90 Franken beträgt ist eine objektive Tatsache, und verändert sich nicht aufgrund der subjektiven Wertschätzung eines einzelnen Individuums.
 
-Wenn der Tauschwert die Erscheinungsform des Werts ist, und der Tauschwert objektiv ist, dann gilt folglich, dass der Wert eines Wirschaftsguts dessen objektive Eigenschaft sein muss. Schlussfolgernd tragen subjektive Wertlehren keine Bedeutung bei der Erklärung der Wertbildung.
+Wenn der Tauschwert die Erscheinungsform des Werts ist, und der Tauschwert objektiv ist, dann gilt folglich, dass der Wert eines Wirtschaftsguts dessen objektive Eigenschaft sein muss. Schlussfolgernd tragen subjektive Wertlehren keine Bedeutung bei der Erklärung der Wertbildung.
