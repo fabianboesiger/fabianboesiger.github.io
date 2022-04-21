@@ -30,7 +30,7 @@ Am meisten Wasser wird in der Landwirtschaft und der Industrie, insbesondere in 
 > If agriculture manages to increase water productivity, the pressure on precious water resources can be reduced and water can be released to other sectors.[^6]
 > *Food and Agriculture Organization of the United States*
 
-Die naheliegende Lösung um Wasser zu sparen wäre eine Reduktion der Fleischproduktion. Mit Kläranlagen kann ausserdem eine Übernutzung von Grundwasser vermieden werden, jedoch sind diese relativ Kapitalintensiv und bringen keinen Profit. Insbesondere ärmere Regionen, welche von Wasserknappheit betroffen sind, können sich deshalb keine Kläranlagen leisten. Wenn zukünftig mehr in diesen Bereich investiert ist, kann die Tragfähigkeit auch in der Zukunft gewährleistet werden.
+Die naheliegende Lösung um Wasser zu sparen wäre eine Reduktion der Fleischproduktion. Mit Kläranlagen kann ausserdem eine Übernutzung von Grundwasser vermieden werden, jedoch sind diese relativ Kapitalintensiv und bringen keinen Profit. Insbesondere ärmere Regionen, welche von Wasserknappheit betroffen sind, können sich deshalb keine Kläranlagen leisten. Wenn zukünftig mehr in diesen Bereich investiert wird, kann die Tragfähigkeit auch in der Zukunft gewährleistet werden.
 
 ### Energie
 
