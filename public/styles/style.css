@@ -17,6 +17,10 @@
         --spacer-style: 1px solid #333333;
         --spacing: 12px;
     }
+
+    .social {
+        filter: invert(100%);
+    }
 }
 */
 
@@ -85,8 +89,23 @@ img {
     width: 100%;
 }
 
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: var(--spacer-style);
+    padding: 4px;
+}
+
 th {
     text-align: left;
+    background-color: #dddddd;
+}
+
+ul, ol {
+    padding-left: 32px;
 }
 
 .post {
