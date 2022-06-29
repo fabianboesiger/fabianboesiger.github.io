@@ -53,7 +53,7 @@ Gerade die Wirtschaftler bei der FDP sollten doch die Dynamik im Arbeitsmarkt ve
 
 Scheint, als wäre die Covid-Pandemie noch nicht bei der FDP angekommen.
 Muss ein funktionierendes System Operationen stoppen, weil zu wenig Pfleger auf den Intensivstationen verfügbar sind?[^3] Wenn die Nachfrage
-an Pflegefachpersonen so dramatisch das Angebot übersteigt, und fast 12'000 Pflegende fehlen[^4], dann spricht man normalerweise von einem *Marktversagen*, und nicht von einem *funktionierendem System*.
+an Pflegefachpersonen so dramatisch das Angebot übersteigt, und fast 12'000 Pflegende fehlen[^4], dann spricht man normalerweise von einem *Marktversagen*, und nicht von einem *funktionierenden System*.
 
 Bei einem Marktversagen ist aus wirtschaftspolitischer Sicht ein Eingriff durch den Staat in die freie Marktwirtschaft durchaus angebracht.[^5] Man könnte sogar behaupten, es ist eine der wenigen Aufgaben eines kapitalistischen Staats, die Markteffizienz zu bewahren.
 Die FDP behauptet von sich, das beste für die Wirtschaft zu wollen. Wie kommt es also, dass die FDP gegen eine effektive Bekämpfung einer Marktineffizienz ist, und stattdessen einen nutzlosen Gegenvorschlag befürwortet? Ganz einfach, die FDP vertritt schon lange nicht mehr die Interessen der Gesamtwirtschaft, sondern vielmehr die Interessen der Arbeitgeber. Folglich sind staatlich kontrollierte Arbeitsbedingungen für die FDP ein No-Go.
