@@ -6,7 +6,7 @@ categories: Politics
 description: "The Russian military has adopted a strategy of attrition in the Ukraine War. We show this by analyzing equipment losses from the Russian and Ukrainian sides."
 ---
 
-The Russian military has adopted a strategy of attrition in the Ukraine War. We show this by analyzing equipment losses from the Russian[^1] and Ukrainian[^2] sides.
+The Russian military has adopted a strategy of attrition in the Ukraine War. We show this by analyzing equipment losses from both the Russian[^1] and the Ukrainian[^2] side.
 
 ![Plot](/public/media/posts/equipment-losses-ukraine-war/plot.png)
 
