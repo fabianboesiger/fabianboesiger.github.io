@@ -2,7 +2,7 @@
 layout: post
 title: "Attrition Warfare in the Ukraine War"
 date: 2023-01-28 13:00:00 +0100
-categories: Politics
+category: Politics
 description: "The Russian military has adopted a strategy of attrition in the Ukraine War. We show this by analyzing equipment losses from the Russian and Ukrainian sides."
 ---
 
