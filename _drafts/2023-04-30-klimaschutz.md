@@ -8,7 +8,7 @@ description: "Eine Diskussion der Gegenargumente."
 ---
 
 > Wir müssen diesem Wahnsinn der rosa-grünen Linken ein Ende setzen und dieses verlogene und teure Gesetz versenken
-*Marco Chiesa, Vorsitzender Clown der SVP*
+*Marco Chiesa, Präsident SVP*
 
 > Die Energiekrise ist eine Realität, heute und in Zukunft. Und was machen die anderen Parteien? Sie machen die Situation noch schlimmer. [^3]
 *Marco Chiesa, Präsident SVP*
@@ -21,9 +21,9 @@ Diese Aussage ist schlicht und einfach falsch. Der Energieminister Albert Rösti
 > Das Gesetz legt nicht fest, wie der Weg zu Netto Null genau aussieht. [^3]
 *Marco Chiesa, Präsident SVP*
 
-Das lässt nur eine Möglichkeit offen: Chiesa scheint die Ansicht zu vertreten, dass der einzige Weg auf einen netto Null CO2-Ausstoss zu kommen ist, auf fossile Energieträger zu verzichten.
+Das lässt nur zwei Möglichkeiten offen. Entweder vertritt Chiesa die Ansicht, dass der einzige Weg zu netto Null ist, auf fossile Energieträger zu verzichten. Oder er ist einfach unehrlich, *rosa-grün verlogen*, wie er es wohl eher nennen würde. 
 
-Laut einem Sprecher der Empa gehe die SVP bei dieser Behauptung von einem Extremszenario aus und reisse die Forschungsergebnisse aus dem Kontext. Dieses Szenario beschreibt eine Versorgung des ganzen Landes mit synthetischen Treibstoffen, welcher ausschliesslich aus PV- und Windanlagen gewonnen wird. Hausbesitzer dürften ihre Öl- und Gasheizungen weiterbetreiben, und Autobesitzer würden auch in Zukunft Diesel, Benzin oder Gas tanken.[^2]
+Laut einem Sprecher der Empa gehe die SVP bei dieser Behauptung von einem Extremszenario aus und reisse die Forschungsergebnisse aus dem Kontext. Dieses Szenario beschreibt eine Versorgung des ganzen Landes mit synthetischen Treibstoffen, welcher ausschliesslich aus PV- und Windanlagen gewonnen wird. Hausbesitzer dürften ihre Öl- und Gasheizungen weiterbetreiben, und Autobesitzer würden auch in Zukunft Diesel, Benzin oder Gas tanken.[^2] Aus diesem Extremszenario kommt auch die absurd hohe Zahl der zusätzlichen 5000 Windräder und rund 70 Millionen Quadratmeter Solarpanels, die für die synthetisierung von Treibstoffen benötigt würden.
 
 Natürlich ist dieses Szenario durch die aufwändige Herstellung von Treibstoffen sehr ineffizient, wodurch eine Fläche in der Grösse von 4.5% der Schweizer Landesfläche mit PV-Anlagen bedeckt werden müsste. Diese Infrastruktur würde die Schweiz 6600 Franken pro Jahr und Person kosten.[^1]
 
