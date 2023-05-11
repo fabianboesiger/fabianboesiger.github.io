@@ -38,7 +38,7 @@ Der Bundesrat kann im Alleingang extreme Massnahmen verlangen wie teure Haussani
 
 Nach dem Bundesamt für Umwelt setzt Das Klimaschutzgesetz den Rahmen für die Klimapolitik der Schweiz. Es legt das Ziel und die Etappen auf dem Weg zu einer klimaneutralen Schweiz bis 2050 fest. Als konkrete Massnahme sieht das Klima- und Innovationsgesetz eine finanzielle Unterstützung für Gebäudesanierungen und innovative Unternehmen vor, jedoch *keine* Verbote. Für später notwendige Klimaschutzmassnahmen muss dennoch der Gesetzesweg beschritten werden, wobei gegen diese Gesetzesänderungen das Referendum ergriffen werden kann.[^4]
 
-Wir sehen also, der Bundesrat kann keineswegs im Alleingang solch "extreme" Massnaĥmen treffen. Dieses Argument ist klassische SVP-Angstmacherei mit dem einzigen Ziel, ihre Wählerschaft zum Abstimmen zu bewegen. Auch der SVP-Parteipräsident Chiesa behauptet unehrlicherweise: 
+Wir sehen also, der Bundesrat kann keineswegs im Alleingang solch "extreme" Massnahmen treffen. Dieses Argument ist klassische SVP-Angstmacherei mit dem einzigen Ziel, ihre Wählerschaft zum Abstimmen zu bewegen. Auch der SVP-Parteipräsident Chiesa behauptet unehrlicherweise: 
 
 > Dieses Gesetz wird de facto zu einem Verbot von Heizöl, Benzin, Diesel und Gas führen. Autofahren und Heizen wird nur noch mit Strom möglich sein [..] [^3]
 *Marco Chiesa, Präsident SVP*
