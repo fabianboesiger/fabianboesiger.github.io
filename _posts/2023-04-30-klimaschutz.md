@@ -4,7 +4,7 @@ title: Ja zum Klimaschutzgesetz
 date: 2023-04-30 10:00:00 +0100
 category: Politics
 tags: [Schweiz, Initiative, Klima]
-description: "Eine Diskussion der Gegenargumente der SVP."
+description: "Eine Diskussion der Gegenargumente."
 ---
 
 ![](/public/media/posts/klimaschutz/header.jpg)
