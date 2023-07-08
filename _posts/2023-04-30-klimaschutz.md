@@ -76,7 +76,7 @@ SVP-Wähler scheinen sich sehr über einen kommenden Strommangel zu sorgen, doch
 
 Statt ehrliche Argumente vorzulegen, reisst die SVP lieber Studien und Forschungsergebnisse aus dem Kontext. Es ist klar, dass sich Wissenschaftler gegen eine falsche Darstellung ihrer Studien wehren und sich für ein Ja zum Klimaschutz äussern.
 
-Doch für Michael Graber, SVP Nationalrat ist das zu viel. Es sei zwar grundsätzlich in Ordnung, dass auch die Forschenden ihre Meinung zur anstehenden Abstimmung äussern könnten, "Aber hier handelt es sich um klare Propaganda, die an Scheinheiligkeit kaum zu überbieten ist."[^8]
+Doch für Michael Graber, SVP Nationalrat, ist das zu viel. Es sei zwar grundsätzlich in Ordnung, dass auch die Forschenden ihre Meinung zur anstehenden Abstimmung äussern könnten, "Aber hier handelt es sich um klare Propaganda, die an Scheinheiligkeit kaum zu überbieten ist."[^8]
 
 Scheinheilig, weil die kleine Schweiz mit ihrem vergleichsweise kleinen CO₂-Ausstoss den Klimawandel kaum beeinflussen könne.[^8] Grabers Argumentation ist hier natürlich absolut korrekt. Deshalb, liebe SVP-Wähler, enthaltet eure Stimme beim Klimaschutzgesetz! Ihr als Einzelperson mit eurer vergleichsweise kleinen Stimme könnt das Abstimmungsergebnis wohl kaum beeinflussen!
 
