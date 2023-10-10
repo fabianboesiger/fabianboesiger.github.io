@@ -8,7 +8,7 @@ social:
   github: fabianboesiger
   twitter: fabianboesiger
   instagram: fabian_boesiger
-  linkedin: fabian-bösiger-178912219
+  linkedin: fabianboesiger
 permalink: /:title
 kramdown:
   smart_quotes: ["lsquo", "rsquo", "laquo", "raquo"]
