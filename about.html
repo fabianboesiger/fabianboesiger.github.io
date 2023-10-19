@@ -3,9 +3,14 @@ layout: default
 ---
 
 <style>
+main {
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
 .break {
-    border-left: 4px dashed black;
-    min-height: 16px;
+    border-left: 4px dashed var(--text-color);
+    min-height: 24px;
 }
 .schindler {
     border-left: 4px solid #DC0000;
@@ -53,12 +58,21 @@ section {
 </style>
 
 <div id="cv">
+
+    <img class="profile-picture" src="https://avatars0.githubusercontent.com/u/37577569">
     <p style="text-align: center;">
-        <img class="profile-picture" src="https://avatars0.githubusercontent.com/u/37577569">
+        <i>
+            Software Engineer<br>
+            M.Sc. ETH in Computer Science<br>
+            Member Social Democratic Party of Switzerland
+        </i>
+    </p>
+    <p style="text-align: center;">
         <a href="https://github.com/{{ site.social.github }}"><img src="/public/social/github.png" class="social"></a>
         <a href="https://www.linkedin.com/in/{{ site.social.linkedin }}"><img src="/public/social/linkedin.png" class="social"></a>
         <a href="https://instagram.com/{{ site.social.instagram }}"><img src="/public/social/instagram.png" class="social"></a>
     </p>
+
     <p>
         I'm a software engineer focusing on building secure and reliable systems with a master's degree in computer science from ETH Zürich.
         Besides computer science, I'm interested in economics, politics and astrophotography.
@@ -66,6 +80,13 @@ section {
 
     <h2>Work Experience</h2>
 
+    <!--<span class="year">Now</span>
+    <section class="ajila">
+        <h3>Software Engineer at Ajila</h3>
+        <p>
+            After completing my master's degree at ETH, I started working at ajila AG in Sursee.
+        </p>
+    </section>-->
     <span class="year">2023</span>
     <section class="break"></section>
     <span class="year">2022</span>

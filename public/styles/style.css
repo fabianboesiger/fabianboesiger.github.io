@@ -12,7 +12,7 @@
 @media (prefers-color-scheme: dark) {
     :root {
         --light-text-color: #777777;
-        --text-color: #ffffff;
+        --text-color: #dddddd;
         --background-color: #111111;
         --spacer-style: 1px solid #333333;
         --spacing: 12px;
@@ -23,6 +23,7 @@
     }
 }
 */
+
 
 html {
     background: var(--background-color);
