@@ -295,3 +295,13 @@ div.highlighter-rouge code {
 {
     color: var(--text-color);
 }
+
+@media print {
+    nav {
+        display: none !important;
+    }
+
+    footer {
+        display: none !important;
+    }
+}
