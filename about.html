@@ -55,10 +55,28 @@ section {
     margin-top: 12px;
     margin-bottom: 12px;
 }
+
+.noprint {
+    display: initial;
+}
+.print {
+    display: none;
+}
+
+@media print {
+    .noprint {
+        display: none;
+    }
+    .print {
+        display: initial;
+    }
+}
+
 </style>
 
 <div id="cv">
 
+    <div>
     <img class="profile-picture" src="https://avatars0.githubusercontent.com/u/37577569">
     <p style="text-align: center;">
         <i>
@@ -68,25 +86,30 @@ section {
         </i>
     </p>
     <p style="text-align: center;">
-        <a href="https://github.com/{{ site.social.github }}"><img src="/public/social/github.png" class="social"></a>
-        <a href="https://www.linkedin.com/in/{{ site.social.linkedin }}"><img src="/public/social/linkedin.png" class="social"></a>
-        <a href="https://instagram.com/{{ site.social.instagram }}"><img src="/public/social/instagram.png" class="social"></a>
+        <a href="https://github.com/{{ site.social.github }}"><img src="/public/social/github.png" class="social"><span class="print"> github.com/{{ site.social.github }}<br></span></a>
+        <a href="https://www.linkedin.com/in/{{ site.social.linkedin }}"><img src="/public/social/linkedin.png" class="social"><span class="print"> linkedin.com/in/{{ site.social.github }}<br></span></a>
+        <a href="https://instagram.com/{{ site.social.instagram }}"><img src="/public/social/instagram.png" class="social"><span class="print"> instagram.com/{{ site.social.github }}<br></span></a>
     </p>
+    </div>
 
+    <div>
     <p>
         I'm a software engineer focusing on building secure and reliable systems with a master's degree in computer science from ETH Zürich.
         Besides computer science, I'm interested in economics, politics and astrophotography.
     </p>
+    </div>
 
+
+    <div>
     <h2>Work Experience</h2>
 
-    <!--<span class="year">Now</span>
+    <span class="year">Now</span>
     <section class="ajila">
-        <h3>Software Engineer at Ajila</h3>
+        <h3>Junior Software Engineer at Ajila AG</h3>
         <p>
             After completing my master's degree at ETH, I started working at ajila AG in Sursee.
         </p>
-    </section>-->
+    </section>
     <span class="year">2023</span>
     <section class="break"></section>
     <span class="year">2022</span>
@@ -108,7 +131,9 @@ section {
     </section>
     <span class="year">2019</span>
     -->
+    </div>
 
+    <div>
     <h2>Education</h2>
 
     <span class="year">2023</span>
@@ -152,9 +177,10 @@ section {
         </p>
     </section>
     <span class="year">2012</span>
+    </div>
 
+    <div>
     <h2>Projects</h2>
-
     <ul>
         <li>
             <h3>Website Development</h3>
@@ -169,5 +195,6 @@ section {
             <p>I created a <a href="https://github.com/fabianboesiger/debug-plotter">tool</a> for easy visual debugging of numerical data in Rust.</p>
         </li>
     </ul>
-    
+    </div>
+
 </div>
