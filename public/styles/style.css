@@ -1,39 +1,35 @@
 @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&family=Lora:ital,wght@0,400;0,700;1,400;1,700&family=Oswald:wght@400;700&display=swap');
 
 :root {
-    --light-text-color: #888888;
-    --text-color: #000000;
-    --background-color: #ffffff;
-    --spacer-style: 1px solid #dddddd;
+    --light-text-color: #888;
+    --text-color: #111;
+    --background-color: #fff;
+    --spacer-style: 1px solid #ddd;
     --spacing: 12px;
 }
 
-/*
+
 @media (prefers-color-scheme: dark) {
     :root {
-        --light-text-color: #777777;
-        --text-color: #dddddd;
-        --background-color: #111111;
-        --spacer-style: 1px solid #333333;
-        --spacing: 12px;
+        --text-color: #fff;
+        --background-color: #111;
+        --light-text-color: #777;
+        --spacer-style: 1px solid #333;
     }
 
     .social {
         filter: invert(100%);
     }
 }
-*/
 
-
-html {
-    background: var(--background-color);
-    color: var(--text-color);
-}
 
 body {
+    background: var(--background-color);
+    color: var(--text-color);
     margin: 16px;
     font-family: "Lora";
-    line-height: 1.4em;
+    line-height: 1.8em;
+    text-rendering: optimizeLegibility;
 }
 
 h1, h2, h3, h4, h5, h6, th {
@@ -294,14 +290,4 @@ div.highlighter-rouge code {
 .highlight .vi
 {
     color: var(--text-color);
-}
-
-@media print {
-    nav {
-        display: none !important;
-    }
-
-    footer {
-        display: none !important;
-    }
 }
