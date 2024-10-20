@@ -2,7 +2,7 @@
 layout: post
 title: "Gegen subjektive Werttheorien"
 date: 2022-04-09 18:00:00 +0100
-category: Politics
+category: Politik
 tags: [Wirtschaft, Schweiz]
 description: "Ein kurzes Argument gegen die Gültigkeit von subjektiven Wertlehren."
 ---
