@@ -5,9 +5,8 @@ date: 2023-04-30 10:00:00 +0100
 category: Politik
 tags: [Schweiz, Initiative, Klimawandel]
 description: "Eine Diskussion der Gegenargumente."
+image: "/public/media/posts/klimaschutz/background.jpg"
 ---
-
-![](/public/media/posts/klimaschutz/header.jpg)
 
 Die Schweiz soll bis zum Jahr 2050 klimaneutral werden. Um dieses Ziel zu erreichen, plant der Bund Massnahmen: Der Ersatz von Öl-, Gas- und Elektroheizungen mit klimaschonenden Heizungen soll mit zwei Milliarden Franken unterstützt werden. Betriebe in Industrie und Gewerbe, die innovative Technologien zur klimaschonenden Produktion einsetzen, sollen von Fördermitteln in der Höhe von 1,2 Milliarden Franken profitieren. Das ist der Kern des «Bundesgesetzes über die Ziele im Klimaschutz, die Innovation und die Stärkung der Energiesicherheit (indirekter Gegenvorschlag zur Gletscher-Initiative)», über das am 18. Juni abgestimmt wird.[^7]
 

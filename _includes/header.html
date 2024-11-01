@@ -1,8 +1,18 @@
 <header> 
     {% if page.title %}
-    <h1>{{ page.title }}</h1>
-    <!--<p class="date">{{ site.owner.name }}, {{ page.date | date: "%d.%m.%Y" }}</p>-->
+    <h1 id="title"><span>{{ page.title }}</span></h1>
     {% else %}
-    <h1>{{ site.title }}</h1>
+    <h1 id="title"><span>{{ site.title }}</span></h1>
     {% endif %}
+    <script>
+        if (document.getElementById("title").innerText.length < 3) {
+            document.getElementById("title").classList.add("largest");
+        } else
+        if (document.getElementById("title").innerText.length < 6) {
+            document.getElementById("title").classList.add("larger");
+        } else
+        if (document.getElementById("title").innerText.length < 9) {
+            document.getElementById("title").classList.add("large");
+        }
+    </script>
 </header>

@@ -2,10 +2,11 @@
 layout: post
 title: Automatisierte Astrofotografie
 date: 2021-03-26 16:00:00 +0100
-category: Astrophotography
+category: Astrofotografie
 tags: [Astrofotografie]
 description: "So habe ich mein Astrofotografie-Prozess automatisiert."
 ---
+
 ## Das Problem
 
 Obwohl manuelle Astrofotografie schon sehr interessant ist, gibt es dennoch einige Ungemütlichkeiten. Als Informatiker ist es sozusagen mein Instinkt, diese ungemütlichen Prozesse zu automatisieren.

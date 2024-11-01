@@ -1,7 +1,24 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang }}">
     {% include head.html %}
+    {% if page.image %}
+    <body class="background-image-layout">
+    {% else %}
     <body>
+    {% endif %}
+        {% if page.image and page.title %}
+            <div id="background" style="background-image: url({{ page.image }});"></div>
+            <div id="background-overlay"></div>
+            <script>
+                document.addEventListener("scroll", function() {
+                    if (document.documentElement.scrollTop > 0) {
+                        document.body.classList.add("scrolled");
+                    } else {
+                        document.body.classList.remove("scrolled");
+                    }
+                });
+            </script>
+        {% endif %}
         {% include header.html %}
         {% include nav.html %}
         <main>

@@ -5,6 +5,7 @@ date: 2020-10-17 10:00:00 +0100
 category: Politik
 tags: [Schweiz, Initiative, Menschenrechte]
 description: "Eine Diskussion der Gegenarumente."
+image: "/public/media/posts/corporate-justice/background.jpg"
 ---
 
 ## Die Initiative in Kürze
