@@ -37,6 +37,13 @@ In this post I'd like to introduce a way to create a customizable, completely st
         border: 1px solid #ddd;
     }
 
+    @media (prefers-color-scheme: dark) {
+        .dropdown {
+            border: 1px solid #222;
+        }
+    }
+
+
     label {
         display: none;
         padding: 4px;
