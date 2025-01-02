@@ -331,7 +331,7 @@ div.highlighter-rouge code {
 .highlight .vg,
 .highlight .vi
 {
-    color: var(--text-color);
+    color: darkg;
 }
 
 #background {
