@@ -12,3 +12,5 @@ social:
 permalink: /:title
 kramdown:
   smart_quotes: ["lsquo", "rsquo", "laquo", "raquo"]
+plugins:
+  - jekyll-katex

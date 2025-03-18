@@ -8,7 +8,7 @@
     --spacing: 12px;
     --margin: 24px;
 }
-
+/*
 @media (prefers-color-scheme: dark) {
     :root {
         --text-color: #fff;
@@ -21,7 +21,7 @@
         filter: invert(100%);
     }
 }
-
+*/
 
 body {
     background: var(--background-color);
@@ -230,7 +230,7 @@ blockquote::after {
     background-repeat: no-repeat;
     background-size: cover;
 }
-
+/*
 @media (prefers-color-scheme: dark) {
     blockquote::before,
     blockquote::after {
@@ -238,7 +238,7 @@ blockquote::after {
     }
     
 }
-
+*/
 /* CODE */
 
 code {
@@ -363,13 +363,13 @@ div.highlighter-rouge code {
 .scrolled #background-overlay {
     background: rgba(255, 255, 255, 0.8);
 }
-
+/*
 @media (prefers-color-scheme: dark) {
     .scrolled #background-overlay {
         background: rgba(0, 0, 0, 0.8);
     }
 }
-
+*/
 .background-image-layout header {
     border: none;
 }
