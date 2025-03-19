@@ -1,88 +1,22 @@
 ---
-layout: default
+layout: posts
+title: Home
 ---
 
-<!--
-<script>
-    const ALL = "Alles";
-
-    document.addEventListener("DOMContentLoaded", () => {
-        let posts = document.getElementsByClassName("post");
-        let overview = document.getElementById("overview");
-        let allTags = Object.values(document.getElementsByClassName("tag")).map(tag => tag.innerText);
-        
-        let allTagsCounted = {};
-        for (tag of allTags) {
-            if (allTagsCounted[tag] === undefined) {
-                allTagsCounted[tag] = 1;
-            } else {
-                allTagsCounted[tag]++;
-            }
-        }
-        allTagsCounted[ALL] = posts.length;
-
-        var allTagsSorted = Object.entries(allTagsCounted);
-        allTagsSorted.sort(function(a, b) {
-            return b[1] - a[1];
-        });
-
-        for (let [tag, count] of allTagsSorted) {
-            overview.innerHTML += "<a class=\"tag overview\">" + tag + "</a>\n";
-        }
-
-        let tags = document.getElementsByClassName("tag");
-
-        update();
-        for (let tag of tags) {
-            tag.onclick = function() {
-                if (this.innerText === ALL) {
-                    window.location.hash = "";
-                } else {
-                    window.location.hash = this.innerText;
-                }
-                update();
-            };
-        }
-
-        function update() {
-            let selected = decodeURIComponent(window.location.hash);
-            if (selected.length > 0) {
-                selected = selected.substr(1);
-            } else {
-                selected = ALL;
-            }
-
-            for (let tag of tags) {
-                if (tag.innerText === selected) {
-                    tag.classList.add("selected");
-                } else {
-                    tag.classList.remove("selected");
-                }
-            }
-
-            for (let post of posts) {
-                let postTags = post.getElementsByClassName("tag");
-                if (!Object.values(postTags).map(tag => tag.innerText).includes(selected) && selected !== ALL) {
-                    post.style.display = "none";
-                } else {
-                    post.style.display = "block";
-                }
-            }
-        }
-        
-    });
-</script>
--->
-<!--
-<section>
-    <p>Wähle aus den Themen</p>
-    <p id="overview"></p>
-</section>
--->
-
 {% for post in site.posts %}
-{% if post.categories contains "Projekt" or post.categories contains "Bild" %}
-{% else if %}
-{% include post.html %}
+{% if post.image %}
+<article class="highlight" style="background-image: url('{{ post.image }}')" onclick="window.location.href='{{ post.url }}'">
+    <a href="{{ post.url }}">
+        <h2><span class="inverted">{{ post.title }}</span></h2>
+        <p><span class="inverted">{{ post.description }}</span></p>
+    </a>
+</article>
+{% else %}
+<article onclick="window.location.href='{{ post.url }}'">
+    <a href="{{ post.url }}">
+        <h2>{{ post.title }}</h2>
+        <p>{{ post.description }}</p>
+    </a>
+</article>
 {% endif %}
 {% endfor %}

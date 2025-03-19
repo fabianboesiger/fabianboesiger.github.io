@@ -1,8 +1,8 @@
 <header> 
     {% if page.title %}
-    <h1 id="title"><span>{{ page.title }}</span></h1>
+    <h1 id="title">{{ page.title }}</h1>
     {% else %}
-    <h1 id="title"><span>{{ site.title }}</span></h1>
+    <h1 id="title">{{ site.title }}</h1>
     {% endif %}
     <script>
         if (document.getElementById("title").innerText.length < 3) {

@@ -121,7 +121,7 @@ Now to the tricky part. Remember, the labels act as an option in the select fiel
 2. If one of the inputs is focused. This corresponds to a focused select field where all options are shown.
 3. If one of the inputs which is not checked is hovered. This is necessary to avoid closing the dropdown while selecting another value with the cursor.
 
-This thranslates into the CSS below.
+This translates into the CSS below.
 
 ```css
 label:has(input:checked),
