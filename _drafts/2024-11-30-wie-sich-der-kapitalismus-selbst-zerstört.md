@@ -3,7 +3,6 @@ layout: post
 title: Wie sich der Kapitalismus selbst zerstört
 date: 2024-11-30 10:00:00 +0100
 category: Politik
-tags: [Wirtschaft]
 description: "Eine Analyse der Kapitalintensivierung, und warum ich mich für einen demokratischen Sozialismus einsetze."
 image: "/public/media/posts/wie-sich-der-kapitalismus-selbst-zerstört/background.png"
 ---

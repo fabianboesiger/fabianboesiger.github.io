@@ -1,0 +1,21 @@
+<div class="posts">
+    {% for post in site.posts %}
+    {% if post.title != page.title %}
+    {% if post.image %}
+    <article class="highlight" style="background-image: url('{{ post.image }}')" onclick="window.location.href='{{ post.url }}'">
+        <a href="{{ post.url }}">
+            <h2><span class="inverted">{{ post.title }}</span></h2>
+            <p><span class="inverted">{{ post.description }}</span></p>
+        </a>
+    </article>
+    {% else %}
+    <article onclick="window.location.href='{{ post.url }}'">
+        <a href="{{ post.url }}">
+            <h2>{{ post.title }}</h2>
+            <p>{{ post.description }}</p>
+        </a>
+    </article>
+    {% endif %}
+    {% endif %}
+    {% endfor %}
+</div>
