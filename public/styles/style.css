@@ -13,7 +13,7 @@ body {
     font-family: 'Inter', sans-serif;
 }
 
-p {
+p, li {
     line-height: 1.5;
 }
 

@@ -315,5 +315,5 @@ All dies ist aus meiner Sicht nicht abwendbar, es sei denn, wir überwinden den 
 Die Sozialdemokratische Partei ist die einzige grosse Partei der Schweiz, welche diesen Standpunkt vertritt, und für mich somit die einzige Partei, die effektiv gegen diese drohenden Gefahren ankämpfen kann.
 
 > Die Sozialdemokratische Partei der Schweiz (SP Schweiz) tritt auf der Grundlage
-ihres Programms für die Ziele des demokratischen Sozialismus ein
+ihres Programms für die Ziele des demokratischen Sozialismus ein.
 *Statuten der SP Schweiz, Artikel 1, Paragraph 1*
