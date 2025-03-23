@@ -52,6 +52,7 @@ nav {
     border-bottom: 1px solid black;
     display: flex;
     align-items: center;
+    justify-content: space-between;
 }
 
 #title {
@@ -60,7 +61,7 @@ nav {
     padding: var(--padding);
 }
 
-.back {
+.button {
     text-decoration: none;
     font-size: 24px;
     display: inline-block;
