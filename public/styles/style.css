@@ -188,6 +188,10 @@ img {
     }
 }
 
+.MathJax_Display {
+    overflow-x: auto;
+}
+
 .footnotes p {
     overflow-x: auto;
 }
