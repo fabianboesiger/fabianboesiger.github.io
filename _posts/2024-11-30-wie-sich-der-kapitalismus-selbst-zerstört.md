@@ -7,8 +7,6 @@ description: "Eine Analyse der Kapitalintensivierung, und warum ich mich für ei
 image: "/public/media/posts/wie-sich-der-kapitalismus-selbst-zerstört/background.png"
 ---
 
-{% katexmm %}
-
 ## Einführung
 
 Der moderne Kapitalismus, der seit etwa 200 Jahren dominiert, steht vor Problemen, die seine langfristige Existenz bedrohen. Klimawandel, soziale Ungleichheiten, Kriege und wirtschaftliche Instabilitäten lassen sich nur schwer in einem sozioökonomischen System lösen, welches als oberstes Ziel die Maximierung des Profits anstrebt. So wird die Fähigkeit des Kapitalismus, diese Herausforderungen zu bewältigen, zunehmend in Frage gestellt.
@@ -319,5 +317,3 @@ Die Sozialdemokratische Partei ist die einzige grosse Partei der Schweiz, welche
 > Die Sozialdemokratische Partei der Schweiz (SP Schweiz) tritt auf der Grundlage
 ihres Programms für die Ziele des demokratischen Sozialismus ein
 *Statuten der SP Schweiz, Artikel 1, Paragraph 1*
-
-{% endkatexmm %}
