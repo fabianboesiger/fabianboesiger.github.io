@@ -16,3 +16,6 @@ kramdown:
   markdown: kramdown
 plugins:
   - jekyll-katex
+  - jekyll-compress-images
+compress_images:
+  images_path: "public/media/**/*.{gif,png,jpg,jpeg,svg}"
