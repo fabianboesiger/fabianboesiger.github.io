@@ -4,6 +4,19 @@ settings:
   content:
     merge: true
 
+components:
+  tile_size:
+    type: select
+    label: Grösse
+    description: "Leer lassen für automatisch: mit Bild gross (2×2), ohne Bild normal (1×1)."
+    options:
+      choices:
+        - { value: "",     label: "Automatisch" }
+        - { value: normal, label: "Normal (1×1)" }
+        - { value: wide,   label: "Breit (2×1)" }
+        - { value: tall,   label: "Hoch (1×2)" }
+        - { value: large,  label: "Gross (2×2)" }
+
 content:
   - name: posts
     label: Posts
@@ -22,16 +35,24 @@ content:
       - { name: published, label: Veröffentlicht, type: boolean, default: true }
       - { name: description, label: Beschreibung, type: text }
       - { name: image, label: Bild, type: image }
+      - { name: tile_size, component: tile_size }
       - { name: body, label: Inhalt, type: code, options: { language: markdown } }
 
-  - name: about
-    label: Über mich
-    path: about.md
+  - name: cards
+    label: Kacheln
+    path: _data/cards.yml
     type: file
-    format: yaml-frontmatter
+    format: yaml
     fields:
-      - { name: title, label: Titel, type: string }
-      - { name: body, label: Inhalt, type: rich-text }
+      - name: items
+        label: Kacheln
+        type: object
+        list: true
+        fields:
+          - { name: title, label: Titel, type: string }
+          - { name: text, label: Inhalt, type: rich-text }
+          - { name: image, label: Hintergrundbild, type: image }
+          - { name: tile_size, component: tile_size }
 
   - name: fehlerseite
     label: Fehlerseite (404)

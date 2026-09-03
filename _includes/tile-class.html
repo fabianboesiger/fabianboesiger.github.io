@@ -1,0 +1,5 @@
+{%- assign tile_size = include.size -%}
+{%- if tile_size == nil or tile_size == '' -%}
+{%- if include.image -%}{%- assign tile_size = 'large' -%}{%- else -%}{%- assign tile_size = 'normal' -%}{%- endif -%}
+{%- endif -%}
+{%- if include.image -%}highlight {% endif -%}size-{{ tile_size }}
