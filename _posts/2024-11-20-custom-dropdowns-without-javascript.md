@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 title: Custom Dropdowns without Javascript
 date: 2024-11-20 13:00:00 +0100
 description: "Create a custom dropdown component with custom styling, entirely without JavaScript."

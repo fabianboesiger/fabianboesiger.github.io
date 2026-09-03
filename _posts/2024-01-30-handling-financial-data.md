@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 title: Handling Financial Data
 date: 2024-01-30 18:00:00 +0100
 description: "How to store and manipulate financial data."

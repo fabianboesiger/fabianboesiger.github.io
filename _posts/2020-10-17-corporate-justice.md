@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 title: Ja zu verantwortungsvollen Unternehmen
 date: 2020-10-17 10:00:00 +0100
 description: "Eine Diskussion der Gegenarumente."
