@@ -1,31 +1,73 @@
 media: public/media
+
+settings:
+  content:
+    merge: true
+
 content:
   - name: posts
     label: Posts
     type: collection
-    path: '_posts'
+    path: _posts
+    filename: "{year}-{month}-{day}-{primary}.md"
+    format: yaml-frontmatter
     view:
-      fields: [ title, published, date ]
+      fields: [title, published, date, category]
+      primary: title
+      sort: [date]
+      order: desc
     fields:
-      - name: published
-        label: Published
-        type: boolean
-        default: true
-      - name: date
-        label: Date
-        type: date
-      - name: title
-        label: Title
-        type: string
-      - name: description
-        label: Description
-        type: string
-      - name: category
-        label: Category
-        type: string
-      - name: image
-        label: Image
-        type: image
-      - name: body
-        label: Body
-        type: rich-text
+      - { name: title, label: Titel, type: string }
+      - { name: date, label: Datum, type: date, options: { time: true } }
+      - { name: published, label: Veröffentlicht, type: boolean, default: true }
+      - { name: category, label: Kategorie, type: string }
+      - { name: description, label: Beschreibung, type: text }
+      - { name: image, label: Bild, type: image }
+      - { name: body, label: Inhalt, type: code, options: { language: markdown } }
+
+  - name: drafts
+    label: Entwürfe
+    type: collection
+    path: _drafts
+    filename: "{year}-{month}-{day}-{primary}.md"
+    format: yaml-frontmatter
+    view:
+      fields: [title, date, category]
+      primary: title
+      sort: [date]
+      order: desc
+    fields:
+      - { name: title, label: Titel, type: string }
+      - { name: date, label: Datum, type: date, options: { time: true } }
+      - { name: category, label: Kategorie, type: string }
+      - { name: description, label: Beschreibung, type: text }
+      - { name: image, label: Bild, type: image }
+      - { name: body, label: Inhalt, type: code, options: { language: markdown } }
+
+  - name: about
+    label: Über mich
+    path: about.md
+    type: file
+    format: yaml-frontmatter
+    fields:
+      - { name: title, label: Titel, type: string }
+      - { name: body, label: Inhalt, type: rich-text }
+
+  - name: fehlerseite
+    label: Fehlerseite (404)
+    path: 404.html
+    type: file
+    format: yaml-frontmatter
+    fields:
+      - { name: heading, label: Titel, type: string }
+      - { name: message, label: Nachricht, type: text }
+
+  - name: site
+    label: Website-Einstellungen
+    path: _data/site.yml
+    type: file
+    format: yaml
+    fields:
+      - { name: title, label: Website-Titel, type: string }
+      - { name: description, label: Website-Beschreibung, type: string }
+      - { name: lang, label: Sprache, type: string, description: "z.B. de" }

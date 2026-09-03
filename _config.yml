@@ -1,6 +1,9 @@
-title: Fabian Bösiger
-description: Persönlicher Blog.
-lang: de
+# NOTE: The editable site texts (title, description, lang) live in
+# _data/site.yml, which is what the Pages CMS writes to. Keep them there, NOT
+# here: the CMS rewrites the file it manages with only the fields it knows
+# about, so anything extra in that file gets silently dropped. This file is
+# intentionally NOT managed by the CMS, so the structural config below is
+# safe from that.
 owner:
   name: Fabian Bösiger
   email: boesiger.fabian@outlook.com
