@@ -1,11 +1,11 @@
 ---
 layout: post
-published: true
+published: false
 title: Ja zur Ernährungsinitiative
-description: "Warum ich Ja stimmen werde."
-image: "/public/media/posts/wie-sich-der-kapitalismus-selbst-zerstört/background.png"
+description: Warum ich Ja stimmen werde.
+image: /public/media/posts/wie-sich-der-kapitalismus-selbst-zerstört/background.png
+date: 2026-09-03T13:26
 ---
-
 ## Einführung
 
 Nie hätte ich gedacht, dass ich tatsächlich mal gegen meine eigene Partei stimme, aber nun ist es endlich soweit, und ich habe die grosse Ehre, die SP und die Grünen von links zu flankieren.
