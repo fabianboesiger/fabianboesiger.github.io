@@ -2,7 +2,6 @@
 layout: post
 title: Automatisierte Astrofotografie
 date: 2021-03-26 16:00:00 +0100
-category: Astrofotografie
 description: "So habe ich mein Astrofotografie-Prozess automatisiert."
 ---
 
