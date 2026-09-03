@@ -2,7 +2,7 @@
 layout: post
 title: "Über das Verkehrsproblem"
 date: 2022-03-17 13:00:00 +0100
-categories: [Politik]
+published: false
 tags: [Wirtschaft, Schweiz]
 description: "Eine Konzept des Schweizer Verkehrs von Morgen."
 ---

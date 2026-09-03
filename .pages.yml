@@ -12,7 +12,7 @@ content:
     filename: "{year}-{month}-{day}-{primary}.md"
     format: yaml-frontmatter
     view:
-      fields: [title, published, date, category]
+      fields: [title, published, date]
       primary: title
       sort: [date]
       order: desc
@@ -20,26 +20,6 @@ content:
       - { name: title, label: Titel, type: string }
       - { name: date, label: Datum, type: date, options: { time: true } }
       - { name: published, label: Veröffentlicht, type: boolean, default: true }
-      - { name: category, label: Kategorie, type: string }
-      - { name: description, label: Beschreibung, type: text }
-      - { name: image, label: Bild, type: image }
-      - { name: body, label: Inhalt, type: code, options: { language: markdown } }
-
-  - name: drafts
-    label: Entwürfe
-    type: collection
-    path: _drafts
-    filename: "{year}-{month}-{day}-{primary}.md"
-    format: yaml-frontmatter
-    view:
-      fields: [title, date, category]
-      primary: title
-      sort: [date]
-      order: desc
-    fields:
-      - { name: title, label: Titel, type: string }
-      - { name: date, label: Datum, type: date, options: { time: true } }
-      - { name: category, label: Kategorie, type: string }
       - { name: description, label: Beschreibung, type: text }
       - { name: image, label: Bild, type: image }
       - { name: body, label: Inhalt, type: code, options: { language: markdown } }
