@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 title: Rust Memory Safety Mechanisms and a Bit of C
 date: 2020-09-25 13:00:00 +0100
 description: "Both Google and Microsoft agree that around 70% of all security bugs are memory safety issues. But what to do about it?"

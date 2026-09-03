@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 title: How Rusts Expressiveness enables better Performance
 date: 2020-12-06 17:00:00 +0100
 description: "A comparison between Rust and C."

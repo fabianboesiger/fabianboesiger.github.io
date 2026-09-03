@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 title: Ja zur Pflegeinitiative
 date: 2021-10-19 10:00:00 +0100
 description: "Eine Diskussion der Gegenargumente."

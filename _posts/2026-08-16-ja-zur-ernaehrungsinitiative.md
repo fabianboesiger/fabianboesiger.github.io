@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 title: Ja zur Ernährungsinitiative
 description: "Warum ich Ja stimmen werde."
 image: "/public/media/posts/wie-sich-der-kapitalismus-selbst-zerstört/background.png"

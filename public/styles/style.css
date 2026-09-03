@@ -112,10 +112,6 @@ article.card {
     box-sizing: border-box;
 }
 
-article.card > :first-child {
-    margin-top: 0;
-}
-
 article.card > :last-child {
     margin-bottom: 0;
 }
