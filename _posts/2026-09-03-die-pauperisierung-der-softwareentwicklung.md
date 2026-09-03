@@ -43,8 +43,20 @@ Die Webmaschine und die KI sind aber keineswegs Einzelfälle, solche explosionsa
 
 Nun mag es Gegenargumente geben, das KI revolutionärer ist als alles andere, weil es eben gerade Intelligenz automatisiert. KI-Modelle entstehen, indem das kollektive geistige Produkt der Menschheit, also Texte, Open-Source-Code, Kunstwerke, Forenbeiträge und so weiter abgegriffen und als Trainingsdaten angesammelt wird. Das Wissen der Allgemeinheit wird privatisiert und in Modellgewichte gegossen. Was früher jahrelange Bildung, Denkzeit und Erfahrung eines Menschen erforderte, wird nun pro Token eingekauft.
 
-Doch genau eben dieser Punkt, die Kommodifizierung des Intellekts, zeigt eben, dass die KI nicht weiter revolutionär ist im sozioökonomischen sinne, 
+Doch genau eben dieser Punkt, die Kommodifizierung des Intellekts, zeigt eben, dass die KI nicht weiter bemerkenswert ist. Genau diese Kommodifizierung des Intellekts fand auch schon statt beim Buchdruck, der Malerei, dem Weben, dem Rechnen usw.
 
+> Die Entwicklung des capital fixe zeigt an, bis zu welchem Grade das allgemeine
+gesellschaftliche Wissen, knowledge, zur unmittelbaren Produktivkraft geworden ist
+
+
+
+> Ihre differentia specifica ist keineswegs, wie beim Arbeitsmittel
+[gemeint ist etwa das einfache Werkzeug – WG], die Tätigkeit des Arbeiters
+auf das Objekt zu vermitteln, sondern diese Tätigkeit ist vielmehr so gesetzt,
+dass sie nur noch die Arbeit der Maschine, ihre Aktion auf das Rohmaterial
+vermittelt – überwacht und sie vor Störungen bewahrt. … Der Produktionsprozeß
+hat aufgehört, Arbeitsprozeß in dem Sinn zu sein, daß die Arbeit
+als die ihn beherrschende Einheit über ihn übergriffe
 
 Doch nach einigen Jahrzehnten war die Webstuhl-Technologie ausgereift und weit verbreitet. Die extrem hohen Profitraten der Pionierphase sanken.
 
