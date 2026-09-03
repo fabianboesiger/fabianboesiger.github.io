@@ -1,15 +1,21 @@
 <div class="posts">
+    {% for card in site.data.cards.items %}
+    <article class="card {% include tile-class.html image=card.image size=card.tile_size %}"{% if card.image %} style="background-image: url('{{ card.image }}')"{% endif %}>
+        {% if card.title %}<h2>{{ card.title }}</h2>{% endif %}
+        {{ card.text | markdownify }}
+    </article>
+    {% endfor %}
     {% for post in site.posts %}
     {% if post.title != page.title %}
     {% if post.image %}
-    <article class="highlight" style="background-image: url('{{ post.image }}')" onclick="window.location.href='{{ post.url }}'">
+    <article class="{% include tile-class.html image=post.image size=post.tile_size %}" style="background-image: url('{{ post.image }}')" onclick="window.location.href='{{ post.url }}'">
         <a href="{{ post.url }}">
             <h2><span class="inverted">{{ post.title }}</span></h2>
             <p><span class="inverted">{{ post.description }}</span></p>
         </a>
     </article>
     {% else %}
-    <article onclick="window.location.href='{{ post.url }}'">
+    <article class="{% include tile-class.html image=post.image size=post.tile_size %}" onclick="window.location.href='{{ post.url }}'">
         <a href="{{ post.url }}">
             <h2>{{ post.title }}</h2>
             <p>{{ post.description }}</p>
