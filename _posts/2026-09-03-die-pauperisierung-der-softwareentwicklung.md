@@ -59,6 +59,8 @@ Den Softwareentwicklern mag das nur allzu bekannt vorkommen. Unsere Arbeit beste
 
 Auch das scheint höchst familiär. Die KIs werden trainiert durch das gesamte gesellschaftliche Wissen, welches vom Internet und anderen Quellen abgezogen wird. Erst vor kurzem aufgedeckt, wie Antropic Millionen von alten Büchern scannt und sie anschliessend vernichtet. Vernichtung natürlich deshalb, um zu verhindern, das Konkurrenten dieses Wissen ebenfalls ihren KIs füttern können: Wissen als unmittelbare Produktivkraft.
 
+Wir als Betroffene dürfen keinesfalls glauben, dass dieser Schritt in der Geschichte diesbezüglich anderst ist, und wir müssen aus der Geschichte lernen, um uns wehren zu können.
+
 
 
 Doch nach einigen Jahrzehnten war die Webstuhl-Technologie ausgereift und weit verbreitet. Die extrem hohen Profitraten der Pionierphase sanken.
