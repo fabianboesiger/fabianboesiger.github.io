@@ -45,6 +45,8 @@ Nun mag es Gegenargumente geben, das KI revolutionärer ist als alles andere, we
 
 Doch genau eben dieser Punkt zeigt gerade, dass diese Entwicklung keineswegs "revolutionär" ist, sondern nur eine natürliche Folge der kapitalistischen Produktionsweise. Genau wie der Webstuhl physisches Geschick und Motorik des Menschen abgelöst hat, der Computer formale Logik und Aritmetik, so löst die KI nun Synthese, Semantik und Abstraktion ab, und degradiert sie von menschlicher Kunst zu einer blossen Ware, die gekauft und verkauft werden kann.
 
+Diese Entwicklung ist sogar so "normal" im Kapitalismus, dass Karl Marx eine solche Entwicklung bereits im Jahr 1857 vorhergesehen hat in seinem Maschinenfragment.
+
 > "Fabrik" bedeutet das Zusammenwirken von Arbeitern [...], die mit Geschick und Pünktlichkeit einem mechanischen produktiven System Folge leisten, das beständig von einer zentralen Kraft angetrieben wird. [...] Diese härteste Fassung des Begriffs entwickelt die Vorstellung eines riesigen Automaten, der aus zahlreichen mechanischen und mit Verstand begabten Organen zusammengesetzt ist, die in Übereinstimmung und ohne Unterbrechung tätig sind, wobei all diese Organe einer treibenden Kraft unterworfen sind, die sich von selbst bewegt.
 >
 > Die Maschine erscheint in keiner Beziehung als Arbeitsmittel des einzelnen Arbeiters. Ihre differentia specifica ist keineswegs, wie beim Arbeitsmittel, die Tätigkeit des Arbeiters auf das Objekt zu vermitteln; sondern diese Tätigkeit [des Arbeiters] ist vielmehr so gesetzt, daß sie nur noch die Arbeit der Maschine, ihre Aktion auf das Rohmaterial vermittelt – überwacht und sie vor Störungen bewahrt. 
