@@ -51,7 +51,7 @@ Diese Entwicklung ist sogar so "normal" im Kapitalismus, dass Karl Marx eine sol
 >
 > Die Maschine erscheint in keiner Beziehung als Arbeitsmittel des einzelnen Arbeiters. Ihre differentia specifica ist keineswegs, wie beim Arbeitsmittel, die Tätigkeit des Arbeiters auf das Objekt zu vermitteln; sondern diese Tätigkeit [des Arbeiters] ist vielmehr so gesetzt, daß sie nur noch die Arbeit der Maschine, ihre Aktion auf das Rohmaterial vermittelt – überwacht und sie vor Störungen bewahrt. 
 
-
+Den Softwareentwicklern mag das nur allzu bekannt vorkommen. Unsere Arbeit besteht exakt darin: Der KI "Rohmaterial" vermitteln, also die Requirements von den Kunden, und sie zu überwachen und vor Störungen zu bewahren.
 
 > Die Entwicklung des capital fixe zeigt an, bis zu welchem Grade das allgemeine
 gesellschaftliche Wissen, knowledge, zur unmittelbaren Produktivkraft geworden ist
