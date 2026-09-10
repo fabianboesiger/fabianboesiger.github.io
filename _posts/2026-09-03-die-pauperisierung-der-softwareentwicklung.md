@@ -45,6 +45,10 @@ Nun mag es Gegenargumente geben, das KI revolutionärer ist als alles andere, we
 
 Doch genau eben dieser Punkt, die Kommodifizierung des Intellekts, zeigt eben, dass die KI nicht weiter bemerkenswert ist. Genau diese Kommodifizierung des Intellekts fand auch schon statt beim Buchdruck, der Malerei, dem Weben, dem Rechnen usw.
 
+> "Fabrik" bedeutet das Zusammenwirken von Arbeitern [...], die mit Geschick und Pünktlichkeit einem mechanischen produktiven System Folge leisten, das beständig von einer zentralen Kraft angetrieben wird. [...] Diese härteste Fassung des Begriffs entwickelt die Vorstellung eines riesigen Automaten, der aus zahlreichen mechanischen und mit Verstand begabten Organen zusammengesetzt ist, die in Übereinstimmung und ohne Unterbrechung tätig sind, wobei all diese Organe einer treibenden Kraft unterworfen sind, die sich von selbst bewegt.
+
+
+
 > Die Entwicklung des capital fixe zeigt an, bis zu welchem Grade das allgemeine
 gesellschaftliche Wissen, knowledge, zur unmittelbaren Produktivkraft geworden ist
 
