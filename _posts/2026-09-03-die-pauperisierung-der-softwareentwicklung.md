@@ -43,7 +43,7 @@ Die Webmaschine und die KI sind aber keineswegs Einzelfälle, solche explosionsa
 
 Nun mag es Gegenargumente geben, das KI revolutionärer ist als alles andere, weil es eben gerade Intelligenz automatisiert. KI-Modelle entstehen, indem das kollektive geistige Produkt der Menschheit, also Texte, Open-Source-Code, Kunstwerke, Forenbeiträge und so weiter abgegriffen und als Trainingsdaten angesammelt wird. Das Wissen der Allgemeinheit wird privatisiert und in Modellgewichte gegossen. Was früher jahrelange Bildung, Denkzeit und Erfahrung eines Menschen erforderte, wird nun pro Token eingekauft.
 
-Doch genau eben dieser Punkt zeigt gerade, dass diese Entwicklung keineswegs "revolutionär" ist, sondern nur eine natürliche Folge der kapitalistischen Produktionsweise. Genau wie der Webstuhl physisches Geschick und Motorik des Menschen abgelöst hat, der Computer formale Logik und Aritmetik, so löst die KI nun Synthese, Semantik und Abstraktion ab, und degradiert sie von menschlicher Kunst zu einer blossen Ware, die gekauft und verkauft werden kann.
+Doch genau eben dieser Punkt zeigt gerade, dass diese Entwicklung keineswegs revolutionär ist, sondern nur eine natürliche Folge der kapitalistischen Produktionsweise. Genau wie der Webstuhl physisches Geschick und Motorik des Menschen abgelöst hat, der Computer formale Logik und Aritmetik, so löst die KI nun Synthese, Semantik und Abstraktion ab, und degradiert sie von menschlicher Kunst zu einer blossen Ware, die gekauft und verkauft werden kann.
 
 Diese Entwicklung ist sogar so "normal" im Kapitalismus, dass Karl Marx eine solche Entwicklung bereits im Jahr 1857 vorhergesehen hat in seinem Maschinenfragment.
 
