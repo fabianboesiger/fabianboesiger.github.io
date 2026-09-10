@@ -51,20 +51,15 @@ Diese Entwicklung ist sogar so "normal" im Kapitalismus, dass Karl Marx eine sol
 >
 > Die Maschine erscheint in keiner Beziehung als Arbeitsmittel des einzelnen Arbeiters. Ihre differentia specifica ist keineswegs, wie beim Arbeitsmittel, die Tätigkeit des Arbeiters auf das Objekt zu vermitteln; sondern diese Tätigkeit [des Arbeiters] ist vielmehr so gesetzt, daß sie nur noch die Arbeit der Maschine, ihre Aktion auf das Rohmaterial vermittelt – überwacht und sie vor Störungen bewahrt. 
 
-Den Softwareentwicklern mag das nur allzu bekannt vorkommen. Unsere Arbeit besteht exakt darin: Der KI "Rohmaterial" vermitteln, also die Requirements von den Kunden, und sie zu überwachen und vor Störungen zu bewahren.
+Den Softwareentwicklern mag das nur allzu bekannt vorkommen. Unsere Arbeit besteht exakt darin: Der KI "Rohmaterial" vermitteln, also die Requirements von den Kunden, und sie zu überwachen und vor Störungen zu bewahren. Weiter:
 
-> Die Entwicklung des capital fixe zeigt an, bis zu welchem Grade das allgemeine
-gesellschaftliche Wissen, knowledge, zur unmittelbaren Produktivkraft geworden ist
+> Die Entwicklung [der Fabriken usw.] zeigt an, bis zu welchem Grade das gesellschaftliche Wissen, knowledge, zur unmittelbaren Produktivkraft geworden ist.
+> [...]
+> Die Geschicklichkeit erscheint vielmehr als in das Gesamtsystem der Maschinerie hineingezogen [...] Die Wissenschaft, die die unbeseeleten Glieder der Maschinerie durch ihre Konstruktion zwingt, zweckmäßig als ein Automat zu wirken, existiert nicht im Bewusstsein des Arbeiters, sondern wirkt durch die Maschine als fremde Macht auf ihn.
+
+Auch das scheint höchst familiär. Die KIs werden trainiert durch das gesamte gesellschaftliche Wissen, welches vom Internet und anderen Quellen abgezogen wird. Erst vor kurzem aufgedeckt, wie Antropic Millionen von alten Büchern scannt und sie anschliessend vernichtet. Vernichtung natürlich deshalb, um zu verhindern, das Konkurrenten dieses Wissen ebenfalls ihren KIs füttern können: Wissen als unmittelbare Produktivkraft.
 
 
-
-> Ihre differentia specifica ist keineswegs, wie beim Arbeitsmittel
-[gemeint ist etwa das einfache Werkzeug – WG], die Tätigkeit des Arbeiters
-auf das Objekt zu vermitteln, sondern diese Tätigkeit ist vielmehr so gesetzt,
-dass sie nur noch die Arbeit der Maschine, ihre Aktion auf das Rohmaterial
-vermittelt – überwacht und sie vor Störungen bewahrt. … Der Produktionsprozeß
-hat aufgehört, Arbeitsprozeß in dem Sinn zu sein, daß die Arbeit
-als die ihn beherrschende Einheit über ihn übergriffe
 
 Doch nach einigen Jahrzehnten war die Webstuhl-Technologie ausgereift und weit verbreitet. Die extrem hohen Profitraten der Pionierphase sanken.
 
