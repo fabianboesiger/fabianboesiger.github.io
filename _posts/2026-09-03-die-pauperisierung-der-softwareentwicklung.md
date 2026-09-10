@@ -1,9 +1,9 @@
 ---
-title: Die Pauperisierung der Softwareentwicklung
+title: Über KI und was Weben mit Softwareentwicklung gemeinsam hat
 date: 2026-09-03T13:28
 published: false
 ---
-nMit dem hervorkommen der KI hat sich vor allem ein Beruf verändert, und zwar der der Softwareentwicklung. Innerhalb von zwei Jahren hat sich das Berufsbild komplett verändert, wo früher noch komplett händisch programmiert wurde, sprechen Softwareentwickler*innen heute mit ChatGPT, Claude, Deepseek oder anderen Sprachmodellen (LLMs), welche von der Planung, Recherche bis zur Umsetzung praktisch alles übernehmen. Entsprechend hat sich die Geschwindigkeit, mit der Programme und Applikationen entwickelt werden massiv beschleunigt, und wird sich wohl noch weiter beschleunigen.
+Mit dem hervorkommen der KI hat sich vor allem ein Beruf verändert, und zwar der der Softwareentwicklung. Innerhalb von zwei Jahren hat sich das Berufsbild komplett verändert, wo früher noch komplett händisch programmiert wurde, sprechen Softwareentwickler*innen heute mit ChatGPT, Claude, Deepseek oder anderen Sprachmodellen (LLMs), welche von der Planung, Recherche bis zur Umsetzung praktisch alles übernehmen. Entsprechend hat sich die Geschwindigkeit, mit der Programme und Applikationen entwickelt werden massiv beschleunigt, und wird sich wohl noch weiter beschleunigen.
 
 Mit so einer Entwicklung im Beruf in dem man selbst tätig ist, fragt man sich natürlich schon wohin das wohl führen mag. Wird mein Job bald komplett überflüssig werden?
 
