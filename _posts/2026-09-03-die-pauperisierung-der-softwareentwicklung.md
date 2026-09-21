@@ -46,13 +46,11 @@ Diese Entwicklung ist sogar so "normal" im Kapitalismus, dass Karl Marx eine sol
 >
 > Die Maschine erscheint in keiner Beziehung als Arbeitsmittel des einzelnen Arbeiters. Ihre differentia specifica ist keineswegs, wie beim Arbeitsmittel, die Tätigkeit des Arbeiters auf das Objekt zu vermitteln; sondern diese Tätigkeit [des Arbeiters] ist vielmehr so gesetzt, daß sie nur noch die Arbeit der Maschine, ihre Aktion auf das Rohmaterial vermittelt – überwacht und sie vor Störungen bewahrt. 
 
-Den Softwareentwicklern mag das nur allzu bekannt vorkommen. Unsere Arbeit besteht exakt darin: Der KI "Rohmaterial" vermitteln, also die Requirements von den Kunden, und sie zu überwachen und vor Störungen zu bewahren. Weiter:
+Den Softwareentwicklern mag das nur allzu bekannt vorkommen. Unsere Arbeit besteht neu exakt darin: Der KI "Rohmaterial" vermitteln, also die Requirements von den Kunden, und sie zu überwachen und vor Störungen zu bewahren. Weiter:
 
-> Die Entwicklung [der Fabriken usw.] zeigt an, bis zu welchem Grade das gesellschaftliche Wissen, knowledge, zur unmittelbaren Produktivkraft geworden ist.
-> [...]
-> Die Geschicklichkeit erscheint vielmehr als in das Gesamtsystem der Maschinerie hineingezogen [...] Die Wissenschaft, die die unbeseeleten Glieder der Maschinerie durch ihre Konstruktion zwingt, zweckmäßig als ein Automat zu wirken, existiert nicht im Bewusstsein des Arbeiters, sondern wirkt durch die Maschine als fremde Macht auf ihn.
+> Die Entwicklung [...] zeigt an, bis zu welchem Grade das gesellschaftliche Wissen, knowledge, zur unmittelbaren Produktivkraft geworden ist.
 
-Auch das scheint höchst familiär. Die KIs werden trainiert durch das gesamte gesellschaftliche Wissen, welches vom Internet und anderen Quellen abgezogen wird. Erst vor kurzem aufgedeckt, wie Antropic Millionen von alten Büchern scannt und sie anschliessend vernichtet. Vernichtung natürlich deshalb, um zu verhindern, das Konkurrenten dieses Wissen ebenfalls ihren KIs füttern können: Wissen als unmittelbare Produktivkraft.
+Auch das scheint höchst familiär. Die KIs werden trainiert durch das gesamte gesellschaftliche Wissen, welches vom Internet und anderen Quellen abgezogen wird. Erst vor kurzem wurde aufgedeckt, wie Antropic Millionen von alten Büchern scannt und sie anschliessend vernichtet. Vernichtung natürlich deshalb, um zu verhindern, das Konkurrenten dieses Wissen ebenfalls ihren KIs füttern können: Wissen als unmittelbare Produktivkraft.
 
 Die Aneignung dieses gesellschaftlichen Wissens durch das Kapital ist in meinen Augen das eigentliche Problem. Dieses Wissen ist die direkte Quelle es unermesslichen Reichtums, welche sich KI-Firmen unter den Nagel reissen. Es ist somit nicht nur eine Aneignung, sondern eine *Enteignung*.
 
