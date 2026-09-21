@@ -3,9 +3,9 @@ title: Über KI und was Weben mit Softwareentwicklung gemeinsam hat
 date: 2026-09-03T13:28
 published: false
 ---
-Mit dem hervorkommen der KI hat sich vor allem ein Beruf verändert, und zwar der der Softwareentwicklung. Innerhalb von zwei Jahren hat sich das Berufsbild komplett verändert, wo früher noch komplett händisch programmiert wurde, sprechen Softwareentwickler*innen heute mit ChatGPT, Claude, Deepseek oder anderen Sprachmodellen (LLMs), welche von der Planung, Recherche bis zur Umsetzung praktisch alles übernehmen. Entsprechend hat sich die Geschwindigkeit, mit der Programme und Applikationen entwickelt werden massiv beschleunigt, und wird sich wohl noch weiter beschleunigen.
+Mit dem hervorkommen der KI hat sich vor allem ein Beruf verändert, und zwar der der Softwareentwicklung. Innerhalb von zwei Jahren hat sich das Berufsbild komplett verändert, wo früher noch komplett händisch programmiert wurde, sprechen Softwareentwickler*innen heute mit ChatGPT, Claude, Deepseek oder anderen Sprachmodellen, welche von der Planung, Recherche bis zur Umsetzung praktisch alles übernehmen. Entsprechend hat sich die Geschwindigkeit, mit der Programme und Applikationen entwickelt werden massiv beschleunigt, und wird sich wohl noch weiter beschleunigen.
 
-Mit so einer Entwicklung im Beruf in dem man selbst tätig ist, fragt man sich natürlich schon wohin das wohl führen mag. Wird mein Job bald komplett überflüssig werden?
+Mit so einer Entwicklung im Beruf, in dem man selbst tätig ist, fragt man sich natürlich schon, wohin das wohl führen mag. Wird mein Job bald komplett überflüssig werden?
 
 Die KI mag zwar ein enormer Schritt sein in der Automatisierung der Softwareentwicklung, es ist jedoch immer noch ein Tool, ein Werkzeug, eine Maschine. Und genau solche sprunghaften Entwicklungen, wo Maschinen ganze Arbeitszweige revolutionierten, gab es schon immer.
 
@@ -59,12 +59,8 @@ Den Softwareentwicklern mag das nur allzu bekannt vorkommen. Unsere Arbeit beste
 
 Auch das scheint höchst familiär. Die KIs werden trainiert durch das gesamte gesellschaftliche Wissen, welches vom Internet und anderen Quellen abgezogen wird. Erst vor kurzem aufgedeckt, wie Antropic Millionen von alten Büchern scannt und sie anschliessend vernichtet. Vernichtung natürlich deshalb, um zu verhindern, das Konkurrenten dieses Wissen ebenfalls ihren KIs füttern können: Wissen als unmittelbare Produktivkraft.
 
-Wir als Betroffene dürfen keinesfalls glauben, dass dieser Schritt in der Geschichte diesbezüglich anderst ist, und wir müssen aus der Geschichte lernen, um uns wehren zu können.
+Die Aneignung dieses gesellschaftlichen Wissens durch das Kapital ist in meinen Augen das eigentliche Problem. Dieses Wissen ist die direkte Quelle es unermesslichen Reichtums, welche sich KI-Firmen unter den Nagel reissen. Es ist somit nicht nur eine Aneignung, sondern eine *Enteignung*.
 
+Diese Enteignung betrifft uns Entwickler im Kern. Jahrelang galt unser Problemlösungsgeschick und unsere Logik als unser persönliches Kapitals. Heute wird dieser Datenschatz in Modelle gegossen, die nun gegen uns als Werkzeug zur Effizienzsteigerung und Lohndrückerei eingesetzt werden. Was damals den Webern passiert ist, geschieht nun vor unseren Augen.
 
-
-Doch nach einigen Jahrzehnten war die Webstuhl-Technologie ausgereift und weit verbreitet. Die extrem hohen Profitraten der Pionierphase sanken.
-
-Doch was geschah mit allen 
-
-Heutige KI-Firmen lösen ähnliche globale Machtkämpfe um Halbleiter (Taiwan), Seltene Erden und Rechenzentrum-Energie aus.
+Wir als Betroffene dürfen keinesfalls glauben, dass sich dieser Schritt unterscheidet von dem was die Geschichte uns zu lernen gibt. Die Weber scheiterten nicht an der Erfindung des Webstuhls, sondern an der Illusion, ihre individuelle Kunstfertigkeit mache sie unersetzlich. Wir müssen die Machtfrage stellen: Wem gehören die Daten, wem gehören die Modelle. Und wer profitiert am Ende von der Produktivität, die wir selbst erschaffen haben?
