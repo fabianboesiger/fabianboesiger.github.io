@@ -52,7 +52,7 @@ Den Softwareentwicklern mag das nur allzu bekannt vorkommen. Unsere Arbeit beste
 
 Auch das scheint höchst familiär. Die KIs werden trainiert durch das gesamte gesellschaftliche Wissen, welches vom Internet und anderen Quellen abgezogen wird. Erst vor kurzem wurde aufgedeckt, wie Antropic Millionen von alten Büchern scannt und sie anschliessend vernichtet. Vernichtung natürlich deshalb, um zu verhindern, das Konkurrenten dieses Wissen ebenfalls ihren KIs füttern können: Wissen als unmittelbare Produktivkraft.
 
-Die Aneignung dieses gesellschaftlichen Wissens durch das Kapital ist in meinen Augen das eigentliche Problem, und wie wir gerade gesehen haben, ist es ist keinesfalls ein neues Problem. Dieses Wissen ist die direkte Quelle es unermesslichen Reichtums, welche sich KI-Firmen unter den Nagel reissen. Doch während das Wissen gesellschaftlich erarbeitet wurde, bleibt der Profit privat. Es ist somit nicht nur eine Aneignung, sondern wird zur *Enteignung*.
+Die Aneignung dieses gesellschaftlichen Wissens durch das Kapital ist in meinen Augen das eigentliche Problem, und wie wir gerade gesehen haben, ist es ist keinesfalls ein neues Problem. Dieses Wissen ist die direkte Quelle es unermesslichen Reichtums, welche sich KI-Firmen unter den Nagel reissen. Doch während das Wissen gesellschaftlich erarbeitet wurde, bleibt der Profit privat.
 
 Diese Enteignung betrifft uns Entwickler im Kern. Jahrelang galt unser Problemlösungsgeschick und unsere Logik als unser persönliches Kapitals. Heute wird dieser Datenschatz in Modelle gegossen, die nun gegen uns als Werkzeug zur Effizienzsteigerung und Lohndrückerei eingesetzt werden. Was damals den Webern passiert ist, geschieht nun vor unseren Augen.
 
