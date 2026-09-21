@@ -1,7 +1,9 @@
 ---
 title: Über KI und den Webstuhl
 date: 2026-09-03T13:28
-published: false
+published: true
+description: Was die KI und der Webstuhl gemeinsam haben, und was wir als
+  Softwareentwickler von der Geschichte lernen können.
 ---
 Mit dem hervorkommen der KI hat sich vor allem ein Beruf verändert, und zwar der der Softwareentwicklung. Innerhalb von zwei Jahren hat sich das Berufsbild komplett verändert, wo früher noch komplett händisch programmiert wurde, sprechen Softwareentwickler*innen heute mit ChatGPT, Claude, Deepseek oder anderen Sprachmodellen, welche von der Planung, Recherche bis zur Umsetzung praktisch alles übernehmen. Entsprechend hat sich die Geschwindigkeit, mit der Programme und Applikationen entwickelt werden massiv beschleunigt, und wird sich wohl noch weiter beschleunigen.
 
@@ -54,6 +56,6 @@ Auch das scheint höchst familiär. Die KIs werden trainiert durch das gesamte g
 
 Die Aneignung dieses gesellschaftlichen Wissens durch das Kapital ist in meinen Augen das eigentliche Problem, und wie wir gerade gesehen haben, ist es ist keinesfalls ein neues Problem. Dieses Wissen ist die direkte Quelle es unermesslichen Reichtums, welche sich KI-Firmen unter den Nagel reissen. Doch während das Wissen gesellschaftlich erarbeitet wurde, bleibt der Profit privat. Es ist somit nicht nur eine Aneignung, sondern wird zur *Enteignung* des gesellschaftlichen Reichtums.
 
-Diese Enteignung betrifft uns Entwickler im Kern. Jahrelang galt unser Problemlösungsgeschick und unsere Logik als unser persönliches Kapitals. Heute wird dieser Datenschatz in Modelle gegossen, die nun gegen uns als Werkzeug zur Effizienzsteigerung und Lohndrückerei eingesetzt werden. Was damals den Webern passiert ist, geschieht nun vor unseren Augen.
+Diese Enteignung betrifft uns Entwickler im Kern. Jahrelang galt unser Problemlösungsgeschick und unsere Logik als unser persönliches Kapitals. Heute wird dieser Datenschatz in Modelle gegossen, die nun gegen uns als Werkzeug zur Effizienzsteigerung und Lohndrückerei eingesetzt werden. Was damals den Webern passiert ist, als ihre Kentnisse nach und nach übersetzt wurden in Hebel, Räder und Lochkarten, geschieht nun vor unseren Augen.
 
-Wir als Betroffene dürfen keinesfalls glauben, dass sich dieser Schritt unterscheidet von dem was die Geschichte uns zu lernen gibt. Die Weber scheiterten nicht an der Erfindung des Webstuhls, sondern an der Illusion, ihre individuelle Kunstfertigkeit mache sie unersetzlich. Wir müssen die Machtfrage stellen: Wem gehören die Daten, wem gehören die Modelle. Und wer profitiert am Ende von der Produktivität, die wir selbst erschaffen haben?
+Wir als Betroffene dürfen keinesfalls glauben, dass sich dieser Schritt unterscheidet von dem was die Geschichte uns zu lernen gibt. Die Weber scheiterten nicht an der Erfindung des Webstuhls, sondern an der Illusion, ihre individuelle Kunstfertigkeit mache sie unersetzlich. Stattdessen müssen wir uns die Machtfrage stellen: Wem gehören die Daten, die durch diese KI-Firmen angeeignet wurden? Und wer profitiert am Ende von der Produktivität, die wir selbst erschaffen haben?
