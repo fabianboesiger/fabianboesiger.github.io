@@ -14,17 +14,17 @@ Die KI mag zwar ein enormer Schritt sein in der Automatisierung der Softwareentw
 Um das zu veranschaulichen, möchte ich KI mit einem anderen, historischen Beispiel vergleichen: Dem Webstuhl. Das mag auf den ersten Moment überraschend klingen, denn wie kann man Weben, etwas einfaches, mechanisches, mit einer komplexen Arbeit wie das Programmieren vergleichen? Doch das ist eine fundamentale Falschannahme, die wir aus heutiger Sicht treffen, eben genau da wir heute das Weben als einfach automatisierterbare Arbeit sehen. Doch das war vor der Erfindung des Webstuhls nicht der Fall:
 
 > Der Handweber dieser Jahre war ein Mann von einiger Selbstständigkeit... Er war sein eigener Herr. Er arbeitete in seinem eigenen Haus, wann es ihm passte; er konnte seinen Webstuhl für ein paar Stunden verlassen, um in seinem Garten zu arbeiten oder auf den Feldern zu helfen. Er hatte den Status eines kleinen Meisters, nicht den eines entfremdeten Lohnarbeiters. […] Unter den Handwebern gab es eine ausgeprägte intellektuelle Kultur. Sie lesen Bücher, gründeten Bibliotheken, diskutierten Politik und Philosophie am Webstuhl. Sie betrachteten sich keineswegs als ungebildetes Fußvolk, sondern als die geistige Elite der arbeitenden Klassen.
-**E. P. Thompson, The Making of the English Working Class (1963)**
+> *E. P. Thompson, The Making of the English Working Class (1963)*
 
 Ich bin interessanterweise nicht der erste, der den Vergleich zwischen Softwareentwicklung und Wben macht, allerdings in einem anderen Kontext. Charles Babbage war ein britischer Erfinder und Mathematiker, der in den 1830er-Jahren die Analytical Engine entworfen hatte; einen mechanischen, universell verwendbaren Computer. Die Mathematikerin Ada Lovelace notierte 1843 in ihren Notizen zu der Analytical Engine:
 
 > Die Analytical Engine hat keine Gemeinsamkeit mit einfachen Rechenmaschinen. Sie ist eine Maschine, die Symbole manipuliert. Man kann sagen, dass die Analytical Engine algebraische Muster webt, genau wie der Jacquard-Webstuhl Blumen und Blätter webt.
-**Ada Lovelace, in ihren Notizen von 1943**
+> *Ada Lovelace, in ihren Notizen von 1943*
 
 Ich denke, diese Zitate zeigen recht gut, dass das Weben früher keineswegs eine einfache Arbeit war, sondern eine hoch angesehene Berufsgattung. Aber das änderte sich natürlich drastisch mit der Erfindung des Webstuhls:
 
 > Es gibt kaum ein Beispiel für einen so schnellen und vollständigen Verfall einer einst blühenden Klasse. Der Handweber, der früher stolz auf seine Kunstfertigkeit war und ein Einkommen erzielte, das ihn weit über den einfachen Tagelöhner hob, ist nun in die tiefste Armut herabgedrückt worden. Seine Kunst ist wertlos geworden, weil ein eiserner Mechanismus sie schneller und billiger ausführt.
-**J. R. McCulloch, Statistical Account of the British Empire**
+> *J. R. McCulloch, Statistical Account of the British Empire*
 
 Die Einführung des Webstuhls hat die Textilproduktion innerhalb weniger Jahre um das Hundertfache gesteigert. Riesige Hallten voller mechanischer Webstühle sprossen empor und drückten den Preis für Kleidung weltweit. Wer nicht mithalten kann, verliert. Kleinbetriebe wurden nach und nach von ein paar wenigen Grosskonzernen vertrieben, diejenigen Länder, die solche Grosskonzerne beherbergten, boomten. Die britischen Textilkonzerne prägten die globale Geopolitik, denn sie benötigten billige Baumwolle und trugen so massgeblich zur Sklaverei bei.
 
@@ -46,11 +46,13 @@ Diese Entwicklung ist sogar so "normal" im Kapitalismus, dass Karl Marx eine sol
 
 > "Fabrik" bedeutet das Zusammenwirken von Arbeitern [...], die mit Geschick und Pünktlichkeit einem mechanischen produktiven System Folge leisten, das beständig von einer zentralen Kraft angetrieben wird. [...] Diese härteste Fassung des Begriffs entwickelt die Vorstellung eines riesigen Automaten, der aus zahlreichen mechanischen und mit Verstand begabten Organen zusammengesetzt ist, die in Übereinstimmung und ohne Unterbrechung tätig sind, wobei all diese Organe einer treibenden Kraft unterworfen sind, die sich von selbst bewegt.
 >
-> Die Maschine erscheint in keiner Beziehung als Arbeitsmittel des einzelnen Arbeiters. Ihre differentia specifica ist keineswegs, wie beim Arbeitsmittel, die Tätigkeit des Arbeiters auf das Objekt zu vermitteln; sondern diese Tätigkeit [des Arbeiters] ist vielmehr so gesetzt, daß sie nur noch die Arbeit der Maschine, ihre Aktion auf das Rohmaterial vermittelt – überwacht und sie vor Störungen bewahrt. 
+> Die Maschine erscheint in keiner Beziehung als Arbeitsmittel des einzelnen Arbeiters. Ihre differentia specifica ist keineswegs, wie beim Arbeitsmittel, die Tätigkeit des Arbeiters auf das Objekt zu vermitteln; sondern diese Tätigkeit [des Arbeiters] ist vielmehr so gesetzt, daß sie nur noch die Arbeit der Maschine, ihre Aktion auf das Rohmaterial vermittelt – überwacht und sie vor Störungen bewahrt.
+> *Karl Marx, Grundrisse*
 
 Den Softwareentwicklern mag das nur allzu bekannt vorkommen. Unsere Arbeit besteht neu exakt darin: Der KI "Rohmaterial" vermitteln, also die Requirements von den Kunden, und sie zu überwachen und vor Störungen zu bewahren. Weiter:
 
 > Die Entwicklung [...] zeigt an, bis zu welchem Grade das gesellschaftliche Wissen, knowledge, zur unmittelbaren Produktivkraft geworden ist.
+> *Karl Marx, Grundrisse*
 
 Auch das scheint höchst familiär. Die KIs werden trainiert durch das gesamte gesellschaftliche Wissen, welches vom Internet und anderen Quellen abgezogen wird. Erst vor kurzem wurde aufgedeckt, wie Antropic Millionen von alten Büchern scannt und sie anschliessend vernichtet. Vernichtung natürlich deshalb, um zu verhindern, das Konkurrenten dieses Wissen ebenfalls ihren KIs füttern können: Wissen als unmittelbare Produktivkraft.
 
