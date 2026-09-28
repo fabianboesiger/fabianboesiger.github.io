@@ -5,9 +5,9 @@ published: true
 description: Was die KI und der Webstuhl gemeinsam haben, und was wir als
   Softwareentwickler von der Geschichte lernen können.
 ---
-Mit dem hervorkommen der KI hat sich vor allem ein Beruf verändert, und zwar der der Softwareentwicklung. Innerhalb von zwei Jahren hat sich das Berufsbild komplett verändert, wo früher noch komplett händisch programmiert wurde, sprechen Softwareentwickler*innen heute mit ChatGPT, Claude, Deepseek oder anderen Sprachmodellen, welche von der Planung, Recherche bis zur Umsetzung praktisch alles übernehmen. Entsprechend hat sich die Geschwindigkeit, mit der Programme und Applikationen entwickelt werden massiv beschleunigt, und wird sich wohl noch weiter beschleunigen.
+Mit dem hervorkommen der KI hat sich vor allem ein Beruf verändert, und zwar der der Softwareentwicklung. Innerhalb von zwei Jahren hat sich das Berufsbild komplett gewandelt. Wo früher noch komplett händisch programmiert wurde, sprechen Softwareentwickler*innen heute mit ChatGPT, Claude, Deepseek oder anderen Sprachmodellen, welche von der Planung, Recherche bis zur Umsetzung praktisch alles übernehmen. Entsprechend hat sich die Geschwindigkeit, mit der Programme und Applikationen entwickelt werden massiv beschleunigt, und wird sich wohl noch weiter beschleunigen.
 
-Mit so einer Entwicklung im Beruf, in dem man selbst tätig ist, fragt man sich natürlich schon, wohin das wohl führen mag. Wird mein Job bald komplett überflüssig werden?
+Mit so einer Entwicklung im Beruf, in dem man selbst tätig ist, fragt man sich natürlich schon, wohin das noch führend wird. Wird mein Job bald komplett überflüssig werden?
 
 Die KI mag zwar ein enormer Schritt sein in der Automatisierung der Softwareentwicklung, es ist jedoch immer noch ein Tool, ein Werkzeug, eine Maschine. Und genau solche sprunghaften Entwicklungen, wo Maschinen ganze Arbeitszweige revolutionierten, gab es schon immer.
 
