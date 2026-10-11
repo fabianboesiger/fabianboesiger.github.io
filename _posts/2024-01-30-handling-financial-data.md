@@ -19,7 +19,7 @@ System.out.printf("The price per unit is %.2f%n", pricePerUnit);
 // The price per unit is 4.20
 ```
 
-Seems correct for now. Now we multiply the price per unit times a quantity and compute the total price.
+Seems correct for now. Now we multiply the price per unit by a quantity and compute the total price.
 
 ```java
 int quantity = 100000;
@@ -43,6 +43,6 @@ System.out.printf("The price per unit is %.8f%n", pricePerUnit);
 
 ## How to Store Financial Data Instead
 
-There are multiple ways to deal with this issue, the easiest one in Java is to use `BigDecimal` instead of floating point numbers. A `BigDecimal` consists of an arbitrary precision integer unscaled value and a scale. The scale is the number of digits to the right of the decimal point. However, arbitrary precision also means they are not the best performance and have more memory usage as they require some sort of heap allocation.
+There are multiple ways to deal with this issue, the easiest one in Java is to use `BigDecimal` instead of floating point numbers. A `BigDecimal` consists of an arbitrary precision integer unscaled value and a scale. The scale is the number of digits to the right of the decimal point. However, arbitrary precision also means they do not offer the best performance and have more memory usage as they require some sort of heap allocation.
 
 If the memory usage or performance of `BigDecimal` is a problem, consider using a primitive integral data type such as `int` or `long` instead, where the number stores the number of cents, rappen or whatever the smallest unit is. This is usually accurate enough if the data is mainly stored but not necessarily manipulated.

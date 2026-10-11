@@ -1,12 +1,12 @@
 ---
 layout: post
 published: true
-title: Custom Dropdowns without Javascript
+title: Custom Dropdowns without JavaScript
 date: 2024-11-20 13:00:00 +0100
 description: "Create a custom dropdown component with custom styling, entirely without JavaScript."
 ---
 
-At work I'm creating lots of forms and all kinds of different inputs methods.
+At work I'm creating lots of forms and all kinds of different input methods.
 Especially dropdowns are always a pain point when styling, as the default `<select>` dropdown is not stylable.
 In this post I'd like to introduce a way to create a customizable, completely stylable dropdown, only with CSS and HTML.
 
@@ -66,7 +66,7 @@ In this post I'd like to introduce a way to create a customizable, completely st
 
 Let's build the dropdown above step by step.
 
-Instead of using the HTML select, we start with a radio input. Dropdowns and radio inputs fullfill the same purpose. With both input types, you can select a single value out of a list of available options.
+Instead of using the HTML select, we start with a radio input. Dropdowns and radio inputs fulfill the same purpose. With both input types, you can select a single value out of a list of available options.
 
 In this example, we create a radio input with three values `option-1`, `option-2` and `option-3`. The inputs are contained in their own label which will be useful later for styling the component. All the inputs are wrapped in a `div`, which will make up the dropdown part of our component. Finally, we wrap it in a fieldset with a legend to simulate the label of a select field.
 
@@ -91,7 +91,7 @@ We continue with styling the component. First, we style the fieldset and remove 
 }
 ```
 
-We hide the radio inputs in a way that they are still visible to screen readers. This allows users with screen readers to ineract with the field as if it were a radio input.
+We hide the radio inputs in a way that they are still visible to screen readers. This allows users with screen readers to interact with the field as if it were a radio input.
 
 ```css
 .select input {
@@ -117,8 +117,8 @@ label {
 Now to the tricky part. Remember, the labels act as an option in the select field. We show the label only if either
 
 1. The corresponding input is checked. This corresponds to the closed dropdown state where we show only the selected value.
-2. If one of the inputs is focused. This corresponds to a focused select field where all options are shown.
-3. If one of the inputs which is not checked is hovered. This is necessary to avoid closing the dropdown while selecting another value with the cursor.
+2. One of the inputs is focused. This corresponds to a focused select field where all options are shown.
+3. One of the inputs which is not checked is hovered. This is necessary to avoid closing the dropdown while selecting another value with the cursor.
 
 This translates into the CSS below.
 
@@ -130,7 +130,7 @@ label:has(input:checked),
 }
 ```
 
-Finally, we highlight the the selected value with a different background color, as well as the outline of the focused value.
+Finally, we highlight the selected value with a different background color, as well as the outline of the focused value.
 
 ```css
 label:has(input:checked) {
@@ -146,9 +146,9 @@ There are still a few things missing from this dropdown implementation.
 
 1. Selecting multiple values is not supported, however, this might be possible by using checkboxes instead of radio inputs.
 2. Adding a scrollable overflow might be necessary to support more values. This should be easy to add with a bit of CSS.
-3. The options are not seachable. To implement a search functionality, JavaScript will most likely be necessary.
+3. The options are not searchable. To implement a search functionality, JavaScript will most likely be necessary.
 
 Many of these limitations might not be needed at all or can be easily added.
 
-That was already it! A fully accessible, customizable and easily navigatable dropdown implemented only with a few lines of HTML and CSS.
+That was already it! A fully accessible, customizable and easily navigable dropdown implemented only with a few lines of HTML and CSS.
 
