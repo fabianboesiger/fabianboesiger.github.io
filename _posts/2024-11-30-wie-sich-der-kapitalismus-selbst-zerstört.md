@@ -17,7 +17,7 @@ Doch selbst wenn wir uns einen "perfekten" Kapitalismus vorstellen, ohne Klimawa
 
 ## Hintergrund
 
-Dieser Abschnitt enthält einige mathematische Ausdrücke. Ich bitte Leser:innen, die nicht in diesem Gebiet versiert sind, um etwas Geduld. Ich möchte auch anmerken, dass ich kein Ökonom bin. Ich verlasse mich hier auf allgemein akzeptierte Definitionen der Wirtschaftslehre und auf die Mathematik. Weiter möchte ich alle Behauptungen, die nicht direkt aus Definitionen folgen, im nächsten Abschnitt empirisch durch Daten des World Penn Table belegen.
+Dieser Abschnitt enthält einige mathematische Ausdrücke. Ich bitte Leser:innen, die nicht in diesem Gebiet versiert sind, um etwas Geduld. Ich möchte auch anmerken, dass ich kein Ökonom bin. Ich verlasse mich hier auf allgemein akzeptierte Definitionen der Wirtschaftslehre und auf die Mathematik. Weiter möchte ich alle Behauptungen, die nicht direkt aus Definitionen folgen, im nächsten Abschnitt empirisch durch Daten der Penn World Table belegen.
 
 ### Der Gewinn kommt vom Haushaltskonsum
 
@@ -27,7 +27,7 @@ $$
 G = \text{Haushaltskonsum}
 $$
 
-Um diese Behauptung zu beweisen, summieren wir das Bruttoinlandsprodukt nach Verwendungsrechnung aller Länder auf und zersetzen es in seine Bestandteile:
+Um diese Behauptung zu beweisen, summieren wir das Bruttoinlandsprodukt nach Verwendungsrechnung aller Länder auf und zerlegen es in seine Bestandteile:
 
 
 $$
@@ -40,7 +40,7 @@ $$
 \end{aligned}
 $$
 
-Wir analysieren auch das Bruttoinlandsprodukt nach Entstehungsrechnung aller Länder und zersetzen es ebenfalls in seine Bestandteile:
+Wir analysieren auch das Bruttoinlandsprodukt nach Entstehungsrechnung aller Länder und zerlegen es ebenfalls in seine Bestandteile:
 
 $$
 \begin{aligned}
@@ -50,7 +50,7 @@ $$
 \end{aligned}
 $$
 
-Beide diese Berechnungsweisen des BIP sind allgemein akzeptierte Definitionen. Setzen wir beide Berechnungen des BIP gleich, erhalten wir:
+Diese beiden Berechnungsweisen des BIP sind allgemein akzeptierte Definitionen. Setzen wir beide Berechnungen des BIP gleich, erhalten wir:
 
 $$
 \begin{aligned}
@@ -147,7 +147,7 @@ Auch wäre es für Konsumenten möglich, den Lohn zu investieren, um so später 
 
 Nehmen wir beispielsweise an, dass alle Arbeiter die Hälfte ihres Lohns investieren würden. Das würde auch bedeuten, dass sie nur noch halb so viel konsumieren. Wie wir gesehen haben, kommt der Gewinn vom Konsum. Wenn nun nur noch halb so viel konsumiert wird, kann auch nur noch halb so viel Gewinn erzielt werden. Wir sehen, auch dieses Argument wäre ein Zirkelschluss.
 
-Wir haben somit gezeigt, dass über die Gesamtwirtschaft hinweg gesehen, der Gewinn $G$ kleiner oder gleich den Kosten der Arbeitskräfte $K_A$ sein muss.
+Wir haben somit gezeigt, dass, über die Gesamtwirtschaft hinweg gesehen, der Gewinn $G$ kleiner oder gleich den Kosten der Arbeitskräfte $K_A$ sein muss.
 
 
 ### Fallende Rentabilität
@@ -202,7 +202,7 @@ z = \frac{C}{I}-1
 $$
 
 Die Investitionen $I$ sind kleiner oder gleich dem Gesamtkapital $K$,
-und der Cashflow ist gleich den initialen Investition plus dem Gewinn:
+und der Cashflow ist gleich der initialen Investition plus dem Gewinn:
 
 $$
 C = I + G \leq K + G
@@ -216,15 +216,15 @@ $$
 
 Somit gilt, dass die Rentabilität eine obere Grenze für den Zinsfuss darstellt.
 
-### Kapitalizusammensetzung als limitierender Faktor
+### Kapitalzusammensetzung als limitierender Faktor
 
-Wir haben mit $\frac{K_A}{K_S + K_A}$, also dem Verhältnis von den Kosten der Arbeitskraft zu den Kosten der eingesetzten Produktionsmittel, eine obere Limite für die Rentabilität, sowie auch eine obere Limite für den Zinsfuss gefunden. Die *Technische Zusammensetzung des Kapitals* $\frac{K_A}{K_S}$ bietet wiederum eine obere Limite für diesen Bruch und verhält sich umgekehrt zur *Kapitalintensität*:
+Wir haben mit $\frac{K_A}{K_S + K_A}$, also dem Verhältnis von den Kosten der Arbeitskraft zu den Kosten der eingesetzten Produktionsmittel, eine obere Limite für die Rentabilität, sowie auch eine obere Limite für den Zinsfuss gefunden. Die *technische Zusammensetzung des Kapitals* $\frac{K_A}{K_S}$ bietet wiederum eine obere Limite für diesen Bruch und verhält sich umgekehrt zur *Kapitalintensität*:
 
 $$
 \frac{K_A}{K_S + K_A} \leq \frac{K_A}{K_S} 
 $$
 
-Wie verhält sich die Kapitalintensität im Laufe der Zeit? Durch Automatisierung und technischem Fortschritt nehmen die Kosten der Produktionsmittel immer mehr zu im Verhältnis zur Arbeitskraft. Wo früher eine Schaufel gereicht hat, muss jetzt ein Bagger her. Vom Pflug zum Traktor, von der Kutsche zum Auto, vom Spinnrad zur Spinnmaschine. Durch den Konkurrenzdruck innerhalb der Kapitalisten wird dieser Fortschritt erzwungen. Kapitalisten, die nicht modernisieren, können im Wettbewerb nicht mehr mithalten und werden vom Markt verdrängt. Das hat zur Folge, dass die Kapitalintensität stetig steigt, und somit das Verhältnis der Kosten der Arbeitskraft zu den Kosten der eingesetzten Produktionsmittel stetig sinkt. Der Bruch $\frac{K_A}{K_S}$ wird also kleiner im Laufe der Zeit.
+Wie verhält sich die Kapitalintensität im Laufe der Zeit? Durch Automatisierung und technischen Fortschritt nehmen die Kosten der Produktionsmittel immer mehr zu im Verhältnis zur Arbeitskraft. Wo früher eine Schaufel gereicht hat, muss jetzt ein Bagger her. Vom Pflug zum Traktor, von der Kutsche zum Auto, vom Spinnrad zur Spinnmaschine. Durch den Konkurrenzdruck innerhalb der Kapitalisten wird dieser Fortschritt erzwungen. Kapitalisten, die nicht modernisieren, können im Wettbewerb nicht mehr mithalten und werden vom Markt verdrängt. Das hat zur Folge, dass die Kapitalintensität stetig steigt, und somit das Verhältnis der Kosten der Arbeitskraft zu den Kosten der eingesetzten Produktionsmittel stetig sinkt. Der Bruch $\frac{K_A}{K_S}$ wird also kleiner im Laufe der Zeit.
 
 Wenn aber $\frac{K_A}{K_S}$ kleiner wird, muss gezwungenermassen durch die oben etablierten Beziehungen auch die Rentabilität und somit der Zinsfuss kleiner werden.
 
@@ -234,7 +234,7 @@ Im vorherigen Abschnitt wurden eine ganze Reihe von Behauptungen aufgestellt, we
 
 ### Die Konsumausgaben sind kleiner oder gleich den Löhnen
 
-Meine erste Behauptung war, dass über die Gesamtwirtschaft hinweg gesehen, der Gewinn die Konsumausgaben kleiner oder gleich den Löhnen sein muss.
+Meine erste Behauptung war, dass, über die Gesamtwirtschaft hinweg gesehen, die Konsumausgaben kleiner oder gleich den Löhnen sein müssen.
 
 ![](/public/media/posts/wie-sich-der-kapitalismus-selbst-zerstört/worldwide_labcomp_hhcons.png)
 *Die Löhne (rot) und die Konsumausgaben (orange) im Verhältnis zum Gesamtkapitalstock.*
@@ -249,7 +249,7 @@ Die zentrale Vorhersage dieses Modells ist es, dass die Kapitalintensität $K_A/
 *Die technische Zusammensetzung des Kapitals $K_A/K_S$ (rot), die berechnete obere Grenze der Rentabilität $K_A/(K_S + K_A)$ (blau) und der interne Zinsfuss aus den Daten des Penn World Table (schwarz).
 Die Daten wurden ab 2019 mit einem exponentiellen Modell extrapoliert (gestrichelte Linien)*
 
-Wir stellen aber eine positive Korrelation von 0.42 zwischen der Obergrenze der Rentabilität und dem internen Zinsfuss fest, was heisst, dass ich diese beiden Werte zumindest ähnlich verhalten.
+Wir stellen aber eine positive Korrelation von 0.42 zwischen der Obergrenze der Rentabilität und dem internen Zinsfuss fest, was heisst, dass sich diese beiden Werte zumindest ähnlich verhalten.
 
 ## Diskussion
 
@@ -257,13 +257,13 @@ Wir stellen aber eine positive Korrelation von 0.42 zwischen der Obergrenze der 
 
 Wir haben gesehen, dass die Kapitalintensität eine Approximierung für die Rentabilität und für den Zinsfuss ist. Weiter haben wir festgestellt, dass die Kapitalintensität stetig zunimmt durch den Konkurrenzdruck innerhalb einer Marktwirtschaft. Somit muss die Rentabilität auf lange Sicht gezwungenermassen sinken. Dies ist der zentrale Widerspruch im Kapitalismus.
 
-Führen wir dieses Szenario ins Endspiel. Nehmen wir an, der technische Fortschritt ist soweit, dass keine Arbeitskräfte mehr benötigt werden, $K_A/K_S = 0$. Keine Arbeitsstellen mehr bedeutet keine Löhne, keine Löhne bedeutet kein Konsum, bedeutet keinen Gewinn, $G = K_A = 0$. Der Kapitalismus wurde zu Ende gespielt und kann in dieser Form nicht mehr existieren.
+Führen wir dieses Szenario ins Endspiel. Nehmen wir an, der technische Fortschritt ist so weit, dass keine Arbeitskräfte mehr benötigt werden, $K_A/K_S = 0$. Keine Arbeitsstellen mehr bedeutet keine Löhne, keine Löhne bedeutet keinen Konsum, bedeutet keinen Gewinn, $G = K_A = 0$. Der Kapitalismus wurde zu Ende gespielt und kann in dieser Form nicht mehr existieren.
 
 ### Konzentration der Produktion in Grosskonzernen
 
-Die steigende Kapitalintensität hat zur Folge, dass kleine und mittelgrosse Unternehmen nicht mehr Wettbewerbsfähig sind. Dies führt zu einer Konzentration der Produktion in immer grössere Betriebe, die teils ganze Produktionsketten aufkaufen, um ihre Renditen durch vertikale Integration zu steigern. So nähert sich die effektive Rentabilität immer mehr unserer berechneten oberen Grenze an.
+Die steigende Kapitalintensität hat zur Folge, dass kleine und mittelgrosse Unternehmen nicht mehr wettbewerbsfähig sind. Dies führt zu einer Konzentration der Produktion in immer grössere Betriebe, die teils ganze Produktionsketten aufkaufen, um ihre Renditen durch vertikale Integration zu steigern. So nähert sich die effektive Rentabilität immer mehr unserer berechneten oberen Grenze an.
 
-In der Praxis sehen wir das z.B. in den grossen südkoreanischen Chaebol, die zahlreiche Industriezweige dominieren so Wettbewerbsvorteile erzielen. Ein Beispiel hierfür ist Samsung, das nicht nur Smartphones herstellt, sondern auch eigene Chips, Displays und Batterien produziert.
+In der Praxis sehen wir das z.B. in den grossen südkoreanischen Chaebol, die zahlreiche Industriezweige dominieren und so Wettbewerbsvorteile erzielen. Ein Beispiel hierfür ist Samsung, das nicht nur Smartphones herstellt, sondern auch eigene Chips, Displays und Batterien produziert.
 
 Ein weiteres Beispiel findet sich in der Automobilindustrie, wo Konzerne wie Volkswagen oder Tesla ganze Lieferketten kontrollieren, von der Batteriezellenproduktion bis hin zu Softwareentwicklungen. Diese vertikale Integration macht es für kleinere Hersteller zunehmend schwieriger, mitzuhalten, da sie weder über die finanziellen Mittel noch über die Skaleneffekte der Grosskonzerne verfügen.
 
@@ -271,27 +271,27 @@ Amazon hat nicht nur eine riesige Handelsplattform aufgebaut, sondern besitzt au
 
 ### Banken als Grosskapitalisten
 
-Eine zentrale Rolle im Prozess der stegendenden Kapitalintensivierung spielen die Banken. Sie sind nicht länger nur passive Vermittler von Kapital, sondern aktive Akteure, die durch Kreditvergabe und Investitionen gezielt bestimmte Wirtschaftsbereiche fördern oder schwächen können. Im Zusammenhang damit verwandeln die Banken brachliegendes Geldkapital in funktionierendes, d.h. profitbringendes Kapital, sie sammeln alle und jegliche Geldeinkünfte und stellen sie der Kapitalistenklasse zur Verfügung. So wird das vorhandene Kapital maximal im Produktionsprozess eingesetzt, was wiederum bedeutet, dass sich die effektive Rentabilität immer mehr unserer berechneten oberen Grenze angleicht.
+Eine zentrale Rolle im Prozess der steigenden Kapitalintensivierung spielen die Banken. Sie sind nicht länger nur passive Vermittler von Kapital, sondern aktive Akteure, die durch Kreditvergabe und Investitionen gezielt bestimmte Wirtschaftsbereiche fördern oder schwächen können. Im Zusammenhang damit verwandeln die Banken brachliegendes Geldkapital in funktionierendes, d.h. profitbringendes Kapital, sie sammeln alle und jegliche Geldeinkünfte und stellen sie der Kapitalistenklasse zur Verfügung. So wird das vorhandene Kapital maximal im Produktionsprozess eingesetzt, was wiederum bedeutet, dass sich die effektive Rentabilität immer mehr unserer berechneten oberen Grenze angleicht.
 
 Diese aktive Rolle der Banken kommt aber auch mit Risiken. Ein besonders eindrucksvolles Beispiel für die enge Verflechtung von Banken, Industrie und Staat ist der Zusammenbruch der Credit Suisse im Jahr 2023. Die Grossbank geriet nach einer Serie von Skandalen, Fehlinvestitionen und Liquiditätsproblemen in eine existenzielle Krise. Aufgrund ihrer systemischen Bedeutung für den globalen Finanzmarkt und die Schweizer Wirtschaft musste der Staat massiv eingreifen.
 
-Die Schweizer Regierung, die Schweizerische Nationalbank und die Finanzmarktaufsicht koordinierten eine Notübernahme durch die UBS, die mit staatlichen Garantien in Milliardenhöhe abgesichert wurde. Dies zeigt, wie Banken nicht mehr nur Vermittler von Kapital sind, sondern selbst zu mächtigen Akteuren geworden sind, deren Überleben im Zweifel mit öffentlichen Mitteln gesichert wird. Auch wird klar welche Rolle der Staat wahrnimmt: Er ist hauptsächlich der Beschützer des Kaptitals.
+Die Schweizer Regierung, die Schweizerische Nationalbank und die Finanzmarktaufsicht koordinierten eine Notübernahme durch die UBS, die mit staatlichen Garantien in Milliardenhöhe abgesichert wurde. Dies zeigt, wie Banken nicht mehr nur Vermittler von Kapital sind, sondern selbst zu mächtigen Akteuren geworden sind, deren Überleben im Zweifel mit öffentlichen Mitteln gesichert wird. Auch wird klar, welche Rolle der Staat wahrnimmt: Er ist hauptsächlich der Beschützer des Kapitals.
 
 ### Der neue Imperialismus
 
 Die Konzentration des Finanzkapitals in wenigen Händen führt zwangsläufig zur Entstehung einer Finanzoligarchie, die nicht nur die Wirtschaft, sondern auch die Politik massgeblich beeinflusst. Grosskonzerne und Superreiche sind längst nicht mehr nur Marktakteure, sondern aktive Gestalter politischer Entscheidungen. Sie nutzen ihr Kapital, um Lobbyismus zu betreiben, politische Parteien zu unterstützen oder direkt regulatorische Massnahmen zu beeinflussen.
 
-Nach und nach wird es offensichtlich, dass wirtschaftliche Massnahmen alleine nicht mehr ausreichen, um die Rentabilität weiter zu maximieren, denn irgendwann hat die Rentabilität seine Obergrenze erreicht. Also was tun, wenn diese Situation eintritt? Wie kann der Gewinn weiter erhöht werden, wenn alle friedlichen Massnahmen ausgeschlachtet wurden. Man wendet sich zum Krieg, und der Wirtschaftsimperialismus verwandelt sich mehr und mehr in einen Kriegsimperialismus. Die Erroberung fremder Märkte und Ressourcen, mit allen Mitteln die nötig sind.
+Nach und nach wird es offensichtlich, dass wirtschaftliche Massnahmen alleine nicht mehr ausreichen, um die Rentabilität weiter zu maximieren, denn irgendwann hat die Rentabilität ihre Obergrenze erreicht. Also was tun, wenn diese Situation eintritt? Wie kann der Gewinn weiter erhöht werden, wenn alle friedlichen Massnahmen ausgeschlachtet wurden? Man wendet sich zum Krieg, und der Wirtschaftsimperialismus verwandelt sich mehr und mehr in einen Kriegsimperialismus. Die Eroberung fremder Märkte und Ressourcen, mit allen Mitteln, die nötig sind.
 
-Putin führt einen Angriffskrieg gegen die Ukraine, und besetzt die besonders Ressourcenreichen Gebiete, darunter 63% der ukrainischen Kohlevorkommen, mehrere Erdgas- und Ölfelder sowie bedeutende Eisenerz- und Titanvorkommen.
+Putin führt einen Angriffskrieg gegen die Ukraine und besetzt die besonders ressourcenreichen Gebiete, darunter 63% der ukrainischen Kohlevorkommen, mehrere Erdgas- und Ölfelder sowie bedeutende Eisenerz- und Titanvorkommen.
 
-Trump schlägt ein Abkommen zwischen den USA und der Ukraine vor, welches vorsah, dass die Ukraine 50% ihrer Einnahmen aus natürlichen Ressourcen, einschliesslich Mineralien, Gas, Öl sowie Einnahmen aus Häfen, Kraftwerken und anderer Infrastruktur, an einen Fonds abtritt, der vollständig im Besitz der USA wäre. ​Dies obwohl sich die USA im Zuge der Atomwaffenabgabe der Ukraine verpflichtet haben, das Land zu schützen.
+Trump schlägt ein Abkommen zwischen den USA und der Ukraine vor, welches vorsieht, dass die Ukraine 50% ihrer Einnahmen aus natürlichen Ressourcen, einschliesslich Mineralien, Gas, Öl sowie Einnahmen aus Häfen, Kraftwerken und anderer Infrastruktur, an einen Fonds abtritt, der vollständig im Besitz der USA wäre. Dies obwohl sich die USA im Zuge der Atomwaffenabgabe der Ukraine verpflichtet haben, das Land zu schützen.
 
 Trump spricht auch immer wieder von der Annexion Grönlands. Grönland besitzt enorme Rohstoffvorkommen, darunter seltene Erden, Uran und Öl, die für die USA wirtschaftlich und technologisch wertvoll wären. Zudem hat die Insel eine zentrale geostrategische Lage im Arktisraum, der aufgrund des Klimawandels und schmelzender Eisflächen zunehmend für neue Handelsrouten und militärische Positionierung relevant wird. 
 
-Natürlich war diese Form des neuen Imperialismus war nie wirklich ein Ding der Verganenheit. So gab es z.B. bereits vor dem Irakkrieg 2003 Pläne und Absprachen über die Verteilung der irakischen Ölreserven. US-amerikanische und britische Unternehmen zeigten starkes Interesse an den riesigen Ölreserven des Landes. Interne Dokumente und Berichte legen nahe, dass grosse Ölkonzerne wie ExxonMobil, BP und Shell strategische Interessen am Irak hatten und sich frühzeitig auf eine mögliche Neuverteilung vorbereiteten. Nach dem Krieg erhielten westliche Ölunternehmen durch sogenannte "Production Sharing Agreements" Zugang zu irakischen Ölfeldern, während staatliche irakische Unternehmen geschwächt wurden. Der grosse Unterschied ist aber, dass diese Absprachen nicht mehr im Verborgenen geschehen, sondern geradeaus der Öffentlichkeit präsentiert werden. Die neue geopolitische Situation "der Stärkere bedient sich beim Schwächeren" wird mehr und mehr akzeptiert.
+Natürlich war diese Form des neuen Imperialismus nie wirklich ein Ding der Vergangenheit. So gab es z.B. bereits vor dem Irakkrieg 2003 Pläne und Absprachen über die Verteilung der irakischen Ölreserven. US-amerikanische und britische Unternehmen zeigten starkes Interesse an den riesigen Ölreserven des Landes. Interne Dokumente und Berichte legen nahe, dass grosse Ölkonzerne wie ExxonMobil, BP und Shell strategische Interessen am Irak hatten und sich frühzeitig auf eine mögliche Neuverteilung vorbereiteten. Nach dem Krieg erhielten westliche Ölunternehmen durch sogenannte "Production Sharing Agreements" Zugang zu irakischen Ölfeldern, während staatliche irakische Unternehmen geschwächt wurden. Der grosse Unterschied ist aber, dass diese Absprachen nicht mehr im Verborgenen geschehen, sondern offen der Öffentlichkeit präsentiert werden. Die neue geopolitische Situation "der Stärkere bedient sich beim Schwächeren" wird mehr und mehr akzeptiert.
 
-Doch es ist nicht das erste Mal, wo so etwas geschieht. Bereits vor 1914 gab es eine intensive Konkurrenz um Märkte, Rohstoffe und Einflusszonen zwischen den europäischen Grossmächten. Deutschland, Grossbritannien und Frankreich standen in einem wirtschaftlichen Wettlauf, in dem insbesondere Kolonien deren Ressourcen von entscheidender Bedeutung waren. Die imperialistischen Mächte konkurrierten Investitionsgebiete, vor allem in Afrika, Asien und dem Nahen Osten. Als wirtschaftliche Expansion nicht mehr allein durch Handel und Diplomatie möglich war, eskalierten die Spannungen in einen militärischen Konflikt. Nur sind es heute nicht mehr imperialistische Staatsmächte, sondern Verbände von Finanzoligarchen.
+Doch es ist nicht das erste Mal, dass so etwas geschieht. Bereits vor 1914 gab es eine intensive Konkurrenz um Märkte, Rohstoffe und Einflusszonen zwischen den europäischen Grossmächten. Deutschland, Grossbritannien und Frankreich standen in einem wirtschaftlichen Wettlauf, in dem insbesondere Kolonien und deren Ressourcen von entscheidender Bedeutung waren. Die imperialistischen Mächte konkurrierten um Investitionsgebiete, vor allem in Afrika, Asien und dem Nahen Osten. Als wirtschaftliche Expansion nicht mehr allein durch Handel und Diplomatie möglich war, eskalierten die Spannungen in einen militärischen Konflikt. Nur sind es heute nicht mehr imperialistische Staatsmächte, sondern Verbände von Finanzoligarchen.
 
 ### Vom Imperialismus zum Faschismus
 
@@ -308,9 +308,9 @@ Auch heute sehen wir Parallelen: Die zunehmende politische Polarisierung, der Au
 
 ### Sozialismus oder Faschismus
 
-Wir haben gesehen, wie die inneren Mechanismen des Kapitalismus zu einer stetigen Kapitalintensivierung führen, und wie die Kapitalintensivierung nach und nach zu einer Finanzoligarchie führen. Es ist im Interesse dieser Finanzoligarchie, den Kapitalismus beizubehalten, wenn nötig auch durch Kriege oder gar einen Übergang zum Faschismus.
+Wir haben gesehen, wie die inneren Mechanismen des Kapitalismus zu einer stetigen Kapitalintensivierung führen, und wie die Kapitalintensivierung nach und nach zu einer Finanzoligarchie führt. Es ist im Interesse dieser Finanzoligarchie, den Kapitalismus beizubehalten, wenn nötig auch durch Kriege oder gar einen Übergang zum Faschismus.
 
-All dies ist aus meiner Sicht nicht abwendbar, es sei denn, wir überwinden den Kapitalismus selbst und lassen so auch die inneren Widerspüche des Kapitalismus hinter uns. Die Interessen der Finanzoligarchie sind schlicht nicht vereinbar mit den Interessen der breiten Bevölkerung.
+All dies ist aus meiner Sicht nicht abwendbar, es sei denn, wir überwinden den Kapitalismus selbst und lassen so auch die inneren Widersprüche des Kapitalismus hinter uns. Die Interessen der Finanzoligarchie sind schlicht nicht vereinbar mit den Interessen der breiten Bevölkerung.
 
 Die Sozialdemokratische Partei ist die einzige grosse Partei der Schweiz, welche diesen Standpunkt vertritt, und für mich somit die einzige Partei, die effektiv gegen diese drohenden Gefahren ankämpfen kann.
 

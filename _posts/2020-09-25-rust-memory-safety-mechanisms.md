@@ -12,7 +12,7 @@ Both Google[^1] and Microsoft[^2] agree that around 70% of all security bugs are
 
 But what to do about it? We could avoid potentially memory-unsafe languages like C or C++ in favour of garbage collected languages like Java, which are memory safe. But this comes with some disadvantages like a decrease in performance, stalls in program execution, and consuming additional resources.
 
-Rust on the other hand is memory safe, it does not permit null pointers, dangling pointers, or data races, all while having none of the disadvantages of garbage collected languages. This is thanks to its liftime, ownership and borrowing systems. Despite these safety guarantees, the performance of Rust is comparable to C++.[^3]
+Rust on the other hand is memory safe, it does not permit null pointers, dangling pointers, or data races, all while having none of the disadvantages of garbage collected languages. This is thanks to its lifetime, ownership and borrowing systems. Despite these safety guarantees, the performance of Rust is comparable to C++.[^3]
 
 ## Examples
 
@@ -90,7 +90,7 @@ a.out: main.c:8: main: Assertion `*x == 1' failed.
 Aborted (core dumped)
 ```
 
-Rust gives us the power to do the same, but we have to explicity mark the code as `unsafe`, because the functions `alloc` and `dealloc`, as well as dereferencing pointers, are all `unsafe` operations.
+Rust gives us the power to do the same, but we have to explicitly mark the code as `unsafe`, because the functions `alloc` and `dealloc`, as well as dereferencing pointers, are all `unsafe` operations.
 
 ```rust
 use std::alloc::{alloc, dealloc, Layout};
@@ -107,7 +107,7 @@ fn main() {
 }
 ```
 
-Because we made use of `unsafe` code, we opt out of Rusts memory safety guarantees, which is why we encounter the following runtime error:
+Because we made use of `unsafe` code, we opt out of Rust's memory safety guarantees, which is why we encounter the following runtime error:
 
 ```text
 Compiling playground v0.0.1 (/playground)
@@ -118,7 +118,7 @@ thread 'main' panicked at 'assertion failed: `(left == right)`
  right: `1`', src/main.rs:10:9
 ```
 
-Rust highly discourages the use of `unsafe` code by both requiring the explicit `unafe` block as well as hiding `unsafe` operations behind the `alloc` module, which we explicity have to `use`. Let's look at the equivalent safe Rust code.
+Rust highly discourages the use of `unsafe` code by both requiring the explicit `unsafe` block as well as hiding `unsafe` operations behind the `alloc` module, which we explicitly have to `use`. Let's look at the equivalent safe Rust code.
 
 ```rust
 fn main() {
@@ -128,9 +128,9 @@ fn main() {
 }
 ```
 
-This code is much cleaner. It has no explicit `unsafe` blocks, as Rust is implicity memory safe. Furthermore, `Box` is available without requiring a `use`, contrary to `alloc` and `dealloc`. This how Rust encourages us to write memory safe code by default.
+This code is much cleaner. It has no explicit `unsafe` blocks, as Rust is implicitly memory safe. Furthermore, `Box` is available without requiring a `use`, contrary to `alloc` and `dealloc`. This is how Rust encourages us to write memory safe code by default.
 
-As we don't use any `unsafe`, Rust guarantees us memory safety. Concretely, this means that our bug is catched at compile time:
+As we don't use any `unsafe`, Rust guarantees us memory safety. Concretely, this means that our bug is caught at compile time:
 
 ```text
    Compiling playground v0.0.1 (/playground)
@@ -194,7 +194,7 @@ fn main() {
 }
 ```
 
-We a the runtime error:
+We get the runtime error:
 
 ```text
    Compiling playground v0.0.1 (/playground)
@@ -233,7 +233,7 @@ error[E0597]: `y` does not live long enough
   |     ------------------ borrow later used here
 ```
 
-To understand this error, we first have to understand lifetimes and borrowing. First, `x` has to live until the end of the function `main`. But `y` is only valid until the end of the block in which it is declared in, and as soon as the block ends, it is deallocated. We can't borrow something for longer than its lifetime, which is why we get the error above. This way, Rust avoids having references to memory locations that were dropped, also known as dangling pointers.
+To understand this error, we first have to understand lifetimes and borrowing. First, `x` has to live until the end of the function `main`. But `y` is only valid until the end of the block in which it is declared, and as soon as the block ends, it is deallocated. We can't borrow something for longer than its lifetime, which is why we get the error above. This way, Rust avoids having references to memory locations that were dropped, also known as dangling pointers.
 
 ### Data Races
 
@@ -309,7 +309,7 @@ fn main() {
 }
 ```
 
-This Program compiles with a warning, and then panicks with an assertion error:
+This program compiles with a warning, and then panics with an assertion error:
 
 ```text
    Compiling playground v0.0.1 (/playground)
@@ -426,7 +426,7 @@ Many errors are thrown, but let's try to fix the first error, which complains th
 We have three options to fix this:
 
 1. Use unsafe.
-2. Use a `static` counter with a `'static` lifetime, wich ensures that the borrow checker knows that `counter_ref` is valid for at least as long as the secondary thread is active.
+2. Use a `static` counter with a `'static` lifetime, which ensures that the borrow checker knows that `counter_ref` is valid for at least as long as the secondary thread is active.
 3. Use a reference counter.
 
 Option 1 is not acceptable, because we want to take advantage of the Rust safety guarantees.
@@ -488,7 +488,7 @@ error[E0277]: `std::rc::Rc<u32>` cannot be sent between threads safely
     = note: required because it appears within the type `[closure@src/main.rs:10:32: 14:6 counter_clone:std::rc::Rc<u32>]`
 ```
 
-The compiler complains that `Rc<u32>`  cannot be sent between threads safely, which is reasonable because the counter which keeps track of the references is itself not thread safe. This is why rust also provides us with `Arc<T>`, which an atomic reference counter an thus thread safe:
+The compiler complains that `Rc<u32>`  cannot be sent between threads safely, which is reasonable because the counter which keeps track of the references is itself not thread safe. This is why Rust also provides us with `Arc<T>`, which is an atomic reference counter and thus thread safe:
 
 ```rust
 use std::{
@@ -551,7 +551,7 @@ This functionality is provided by `Mutex<T>`, which defines the following method
 pub fn lock(&self) -> LockResult<MutexGuard<T>>
 ```
 
-Note that `lock` method only requires `&self`, and not `&mut self`. Because multiple references to the same location are allowed as long as they are not mutable, we can use `lock` at multiple points in the code, for example both in the main thread and the secondary thread, without the compiler complaining:
+Note that the `lock` method only requires `&self`, and not `&mut self`. Because multiple references to the same location are allowed as long as they are not mutable, we can use `lock` at multiple points in the code, for example both in the main thread and the secondary thread, without the compiler complaining:
 
 ```rust
 use std::{
@@ -588,7 +588,7 @@ fn main() {
 }
 ```
 
-Our code finally compiles, which gives us the guarantee that there are no data races, but now we have introduced locking. In this specific example, instead uf using `Mutex<T>`, we could also have used an atomic type `AtomicU32`, such that our code is lock free:
+Our code finally compiles, which gives us the guarantee that there are no data races, but now we have introduced locking. In this specific example, instead of using `Mutex<T>`, we could also have used an atomic type `AtomicU32`, such that our code is lock free:
 
 ```rust
 use std::{
@@ -625,7 +625,7 @@ fn main() {
 }
 ```
 
-This compliles without errors, which gives us the guarantee that our code contains no more data races.
+This compiles without errors, which gives us the guarantee that our code contains no more data races.
 
 ## References
 
