@@ -16,9 +16,9 @@ Deshalb verkleinern wir die Schweiz hier auf 10'000 Einwohnerinnen und Einwohner
 <style>
 .k10{--k-top:57px;--k-ink:#000;--k-muted:#555;--k-line:#000;--k-gewalt:#E5383B;--k-sexual:#B832C9;--k-vermoegen:#F09A00;margin:32px 0}
 .k10 *,.k10 *::before,.k10 *::after{box-sizing:border-box}
-.k10 .k-scrolly{position:relative;max-width:640px;margin:0 auto}
+.k10 .k-scrolly{position:relative}
 .k10 .k-sticky{position:sticky;top:var(--k-top);z-index:2;background:#fff;margin:0 -16px;padding:8px 16px 10px}
-.k10 .k-stage{width:100%;max-width:min(100%,52vh);margin:0 auto}
+.k10 .k-stage{width:100%;max-width:calc(100vh - var(--k-top) - 180px);margin:0 auto}
 .k10 .k-labels{position:relative;height:36px;margin-bottom:6px}
 .k10 .k-lab{position:absolute;bottom:0;font-size:10px;line-height:1.25;color:var(--k-muted);white-space:nowrap;transform:translateX(-50%);text-align:center}
 .k10 .k-lab b{display:block;color:var(--k-ink);font-weight:700;font-size:11px;text-transform:uppercase;letter-spacing:.02em}
@@ -73,8 +73,7 @@ const BANDTXT={'0-9':'0–9 Jahre','10-17':'10–17 Jahre','18-34':'18–34 Jahr
 const CATS=['gewalt','sexual','vermoegen'];
 const CATTXT={gewalt:'Leib und Leben',sexual:'Sexuelle Integrität',vermoegen:'Vermögen'};
 const GTXT={CH:'Schweizer Staatsangehörige',AUSL:'Ausländer/in, ansässig (B, C)',ASYL:'Asylant/in (N, F, S)'};
-// population in greyscale, accused persons in colour
-const C={CHM:'#000000',CHW:'#000000',AUSLM:'#777777',AUSLW:'#777777',ASYLM:'#B5B5B5',ASYLW:'#B5B5B5',gewalt:'#E5383B',sexual:'#B832C9',vermoegen:'#F09A00',fade:.25};
+const C={CHM:'#2F6BD6',CHW:'#79A3EE',AUSLM:'#1F9A47',AUSLW:'#72C98C',ASYLM:'#8A4513',ASYLW:'#C98A55',gewalt:'#E5383B',sexual:'#B832C9',vermoegen:'#F09A00',fade:.32};
 const fmt=n=>n.toLocaleString('de-CH').replace(/[’,]/g,"'");
 const reduce=matchMedia('(prefers-reduced-motion: reduce)').matches;
 const root=document.querySelector('.k10');
@@ -124,7 +123,7 @@ function storyHTML(i){
   const G=M.groups, u=M.ueb;
   const ch=G.CHM.n+G.CHW.n, au=G.AUSLM.n+G.AUSLW.n, as=G.ASYLM.n+G.ASYLW.n;
   switch(STEPS[i].key){
-   case 'mix': return `<h3>10'000 Menschen</h3><p>So sähe die Schweizer Wohnbevölkerung im Kleinen aus: ${fmt(ch)} Schweizer Staatsangehörige, ${fmt(au)} ansässige Ausländerinnen und Ausländer und ${as} Personen aus der Asylbevölkerung.</p><p class="k-note">Farbe und Kopfform zeigen die Gruppe: schwarz mit rundem Kopf für Schweizer, grau mit eckigem Kopf für ansässige Ausländer, hellgrau mit Rauten-Kopf für die Asylbevölkerung. Frauen tragen Rock, Kinder sind kleiner, Menschen ab 65 gehen am Stock. Wer mit der Maus über das Raster fährt, sieht die Figuren in einer Lupe vergrössert.</p>`;
+   case 'mix': return `<h3>10'000 Menschen</h3><p>So sähe die Schweizer Wohnbevölkerung im Kleinen aus: ${fmt(ch)} Schweizer Staatsangehörige, ${fmt(au)} ansässige Ausländerinnen und Ausländer und ${as} Personen aus der Asylbevölkerung.</p><p class="k-note">Die Farbe und die Kopfform zeigen die Gruppe: blau mit rundem Kopf für Schweizer, grün mit eckigem Kopf für ansässige Ausländer, braun mit Rauten-Kopf für die Asylbevölkerung. Frauen tragen Rock und sind heller, Kinder kleiner, Menschen ab 65 gehen am Stock. Wer mit der Maus über das Raster fährt, sieht die Figuren in einer Lupe vergrössert.</p>`;
    case 'sort': return `<h3>Nach Gruppen geordnet</h3><p>Jede Spalte fasst 100 Personen. Die Schweizer füllen gut 72 Spalten, die ansässigen Ausländer 26. Die ganze Asylbevölkerung passt in anderthalb Spalten ganz rechts.</p><p class="k-note">Innerhalb jeder Gruppe stehen oben links die Jüngsten, unten rechts die Ältesten.</p>`;
    case 'gewalt': return `<h3>Leib und Leben</h3><span class="k-big" style="color:var(--k-gewalt)">${catTotal('gewalt')}</span><p>Personen würden in einem Jahr wegen eines Delikts gegen Leib und Leben beschuldigt, von der Tätlichkeit bis zum Tötungsdelikt.</p><p class="k-note">Dazu kämen rund ${fmtd(u.gewalt)} Beschuldigte ohne Wohnsitz in der Schweiz.</p>`;
    case 'sexual': return `<h3>Sexuelle Integrität</h3><span class="k-big" style="color:var(--k-sexual)">${catTotal('sexual')}</span><p>Personen würden wegen eines Sexualdelikts beschuldigt, fast ausschliesslich Männer. Der grösste Teil betrifft Pornografie, sexuelle Belästigung und Vergewaltigung.</p><p class="k-note">Dazu käme rund eine weitere beschuldigte Person ohne Wohnsitz in der Schweiz.</p>`;
@@ -199,7 +198,7 @@ function animate(){
 function drawLabels(){
   const el=document.getElementById('k-labels'), st=STEPS[step], mode=st.layout;
   const an=document.getElementById('k-asylnote');
-  const narrow=box.clientWidth<=480;
+  const narrow=box.clientWidth<=760;
   if(mode==='sex'){
     let h='';
     SEXSP.forEach(sp=>{const hit=sp.mem.filter(p=>p.cat).length;h+=`<div class="k-lab" style="left:${(sp.a+sp.b)/2/100}%"><b>${sp.name}</b><span class="k-hit">${hit} von ${fmt(sp.b-sp.a)}</span></div><div class="k-tick" style="left:${sp.b/100}%"></div>`});
