@@ -1,11 +1,12 @@
 ---
 layout: post
-published: true
+published: false
 title: Wenn die Schweiz 10'000 Einwohner hätte
-date: 2026-10-11 12:00:00 +0200
-description: "Wie viele Menschen würden in einem Jahr polizeilich beschuldigt, und aus welchen Bevölkerungsgruppen kämen sie? Die Kriminalstatistik 2025 im Kleinen."
+date: 2026-10-19T15:45
+description: Wie viele Menschen würden in einem Jahr polizeilich beschuldigt,
+  und aus welchen Bevölkerungsgruppen kämen sie? Die Kriminalstatistik 2025 im
+  Kleinen.
 ---
-
 Wie viele Menschen würden in einem Jahr wegen Gewalt, eines Sexualdelikts oder Diebstahls polizeilich beschuldigt? Und aus welchen Bevölkerungsgruppen kämen sie?
 
 Kriminalstatistiken sprechen in grossen Zahlen: 92'147 Personen hat die Polizei 2025 wegen einer Straftat nach dem Strafgesetzbuch registriert.[^1] Solche Zahlen sind schwer greifbar, und in der Debatte über Herkunft und Kriminalität werden sie oft als Anteile genannt, ohne dass klar wird, wie gross die Gruppen überhaupt sind.
