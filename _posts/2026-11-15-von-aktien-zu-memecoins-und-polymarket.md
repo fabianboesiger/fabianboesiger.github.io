@@ -3,9 +3,7 @@ layout: post
 published: true
 title: Von Aktien zu Memecoins und Polymarket
 date: 2026-11-15T10:00
-description: Was unterscheidet eigentlich eine Aktie von einer Wette? Warum
-  Memecoins und Wettmärkte nichts anderes sind als der Kapitalismus in seiner
-  reinsten Form.
+description: Was unterscheidet eigentlich eine Aktie von einer Wette?
 ---
 Was unterscheidet eigentlich eine Aktie von einer Wette?
 
