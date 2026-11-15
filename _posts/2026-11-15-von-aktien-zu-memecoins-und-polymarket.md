@@ -68,6 +68,23 @@ Auch die Menschen, die diese Produkte vorantreiben, hat Marx bereits beschrieben
 > […] diese Doppelseitigkeit ist es, die den Hauptverkündern des Kredits von Law bis Isaak Pereire ihren angenehmen Mischcharakter von Schwindler und Prophet gibt.
 > *Karl Marx, Das Kapital, Band III (1894)*
 
+Wir fühlen uns erinnert an ein paar bekannte Gesichter der letzten Jahre.
+
+![](/public/media/posts/von-aktien-zu-memecoins-und-polymarket/sam-bankman-fried.jpg)
+*Sam Bankman-Fried, 2021. Bild: Cointelegraph, CC BY 3.0*
+
+Sam Bankman-Fried gründete die Kryptobörse FTX und galt als Wunderkind der Branche. Er inszenierte sich als Vordenker des «Effektiven Altruismus», der nur reich werden wolle, um sein Vermögen für das Wohl der Menschheit zu spenden. Im November 2022 brach FTX innert weniger Tage zusammen. Rund 8 Milliarden Dollar an Kundengeldern fehlten, weil sie heimlich an seinen Hedgefonds Alameda Research geflossen waren. 2023 wurde er wegen Betrugs verurteilt, 2024 zu 25 Jahren Gefängnis.
+
+![](/public/media/posts/von-aktien-zu-memecoins-und-polymarket/do-kwon.jpg)
+*Do Kwon, 2022. Bild: FAQX, CC BY 3.0*
+
+Do Kwon war Mitgründer von Terraform Labs, dem Unternehmen hinter dem «Stablecoin» TerraUSD und der Kryptowährung Luna. Über die Plattform Anchor versprach er rund 20 Prozent Zins auf einen Coin, der angeblich stabil an den Dollar gebunden war, und verspottete Kritiker öffentlich. Im Mai 2022 brach das System zusammen und vernichtete rund 40 Milliarden Dollar an Marktwert. Kwon floh, wurde 2023 in Montenegro mit einem gefälschten Pass verhaftet und später an die USA ausgeliefert, wo er sich 2025 des Betrugs schuldig bekannte und zu 15 Jahren Gefängnis verurteilt wurde.
+
+![](/public/media/posts/von-aktien-zu-memecoins-und-polymarket/shayne-coplan.jpg)
+*Shayne Coplan, 2026. Bild: Asalover2004, CC BY-SA 4.0*
+
+Shayne Coplan gründete Polymarket im Jahr 2020. 2022 musste die Plattform eine Busse von 1.4 Millionen Dollar an die US-Aufsichtsbehörde CFTC zahlen und Nutzer:innen aus den USA ausschliessen. Nach den US-Wahlen 2024, die Polymarket mit Milliardenumsätzen zum bekanntesten Wettmarkt machten, durchsuchte das FBI Coplans Wohnung. Die Ermittlungen wurden 2025 eingestellt, kurz darauf folgte die Investition der Muttergesellschaft der New Yorker Börse, die ihn zum jüngsten Selfmade-Milliardär der Welt machte. Coplan bewirbt Wettmärkte als die zuverlässigste Quelle der Wahrheit, die wir haben.
+
 Heute sind es Plattformgründer, die versprechen, Wettmärkte seien das genaueste Erkenntnisinstrument der Menschheit, oder ein Memecoin finanziere junge Unternehmer. Prophet und Schwindler sind dabei keine Gegensätze, sondern zwei Seiten derselben Rolle.
 
 Bessere Regulierung mag das Problem vielleicht temporär lösen. Aber ein Verbot von Insiderhandel auf Polymarket oder strengere Regeln für Promi-Coins behandeln Symptome. Das nächste Produkt dieser Art wird kommen, weil die Logik, die es hervorbringt, unverändert bleibt. Statt uns über jeden neuen Skandal zu empören, müssen wir uns die eigentliche Frage stellen: Warum leben wir in einem System, in dem es profitabler ist, auf die Welt zu wetten, als sie zu verändern?
