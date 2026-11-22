@@ -33,6 +33,7 @@ content:
       - { name: title, label: Titel, type: string }
       - { name: date, label: Datum, type: date, options: { time: true } }
       - { name: published, label: Veröffentlicht, type: boolean, default: true }
+      - { name: lang, label: Sprache, type: select, description: "Leer lassen für die Website-Sprache.", options: { choices: [{ value: "", label: "Website-Sprache" }, { value: de, label: "Deutsch" }, { value: en, label: "Englisch" }] } }
       - { name: description, label: Beschreibung, type: text }
       - { name: image, label: Bild, type: image }
       - { name: tile_size, component: tile_size }

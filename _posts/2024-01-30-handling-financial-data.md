@@ -1,4 +1,5 @@
 ---
+lang: en
 layout: post
 published: true
 title: Handling Financial Data

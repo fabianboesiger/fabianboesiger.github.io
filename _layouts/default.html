@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="{{ site.data.site.lang }}">
+<html lang="{{ page.lang | default: site.data.site.lang }}">
     {% include head.html %}
     <body>
         <nav>
             <div></div>
-            <span id="title">{{ site.data.site.title }}</span>
+            {% if page.url == "/" %}<h1 id="title">{{ site.data.site.title }}</h1>{% else %}<span id="title">{{ site.data.site.title }}</span>{% endif %}
             <div></div>
         </nav>
         <main>
@@ -12,4 +12,3 @@
         </main>
     </body>
 </html>
-

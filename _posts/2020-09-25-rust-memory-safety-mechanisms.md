@@ -1,4 +1,5 @@
 ---
+lang: en
 layout: post
 published: true
 title: Rust Memory Safety Mechanisms and a Bit of C

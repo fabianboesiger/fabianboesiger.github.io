@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html lang="{{ site.data.site.lang }}">
+{%- assign lang = page.lang | default: site.data.site.lang %}
+<html lang="{{ lang }}">
     {% include head.html %}
     <body class="post">
         <div class="content">
@@ -9,11 +10,13 @@
                 <a class="button"></a>
             </nav>
             <main>
-                <h1>{{ page.title }}</h1>
-                {{ content }}
+                <article>
+                    <h1>{{ page.title }}</h1>
+                    <time class="date" datetime="{{ page.date | date_to_xmlschema }}">{% if lang == "en" %}{{ page.date | date: "%B %-d, %Y" }}{% else %}{{ page.date | date: "%d.%m.%Y" }}{% endif %}</time>
+                    {{ content }}
+                </article>
             </main>
         </div>
         {% include posts.html %}
     </body>
 </html>
-

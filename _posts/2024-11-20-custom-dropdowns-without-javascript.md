@@ -1,4 +1,5 @@
 ---
+lang: en
 layout: post
 published: true
 title: Custom Dropdowns without Javascript
