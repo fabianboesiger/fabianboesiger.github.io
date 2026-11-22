@@ -1,0 +1,17 @@
+---
+layout: null
+sitemap: false
+---
+{% include llms-header.html %}
+{% for post in site.posts %}
+---
+
+## {{ post.title }}
+
+URL: {{ post.url | absolute_url }}
+Date: {{ post.date | date: "%Y-%m-%d" }}
+Language: {{ post.lang | default: site.data.site.lang }}
+{% if post.description %}Summary: {{ post.description | strip_html | strip_newlines }}
+{% endif %}
+{{ post.content | strip_html | strip }}
+{% endfor %}

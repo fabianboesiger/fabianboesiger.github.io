@@ -1,4 +1,5 @@
 ---
+lang: en
 layout: post
 published: true
 title: How Rust's Expressiveness enables better Performance

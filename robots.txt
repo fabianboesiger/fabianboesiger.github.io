@@ -1,0 +1,14 @@
+---
+layout: null
+sitemap: false
+---
+User-agent: *
+Allow: /
+
+{% assign bots = "GPTBot,OAI-SearchBot,ChatGPT-User,ClaudeBot,Claude-SearchBot,Claude-User,anthropic-ai,PerplexityBot,Perplexity-User,Google-Extended,Applebot-Extended,CCBot,Bingbot,Amazonbot,meta-externalagent,DuckAssistBot,MistralAI-User" | split: "," -%}
+{% for bot in bots -%}
+User-agent: {{ bot }}
+{% endfor -%}
+Allow: /
+
+Sitemap: {{ "/sitemap.xml" | absolute_url }}

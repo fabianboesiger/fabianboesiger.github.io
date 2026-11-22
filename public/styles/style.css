@@ -59,6 +59,8 @@ nav {
     text-transform: uppercase;
     font-size: 20px;
     padding: var(--padding);
+    margin: 0;
+    font-weight: normal;
 }
 
 .button {
@@ -80,7 +82,7 @@ nav {
     padding: var(--padding);
 }
 
-article {
+.posts article {
     outline: 1px solid black;
 }
 
@@ -98,7 +100,7 @@ article.highlight .inverted {
     text-decoration: none;
 }
 
-article a {
+.posts article a {
     display: block;
     width: 100%;
     height: 100%;
@@ -351,4 +353,10 @@ pre.highlight {
 
 .highlight .err {
     color: #FF0000;
+}
+.post time.date {
+    display: block;
+    color: #666;
+    margin-top: -0.5em;
+    margin-bottom: 1.5em;
 }
